@@ -1,0 +1,68 @@
+{
+  "fichier": "Comptes nationaux de la santé 2006.pdf",
+  "date_traitement": "2025-12-01T17:00:06.400623",
+  "donnees_extraites": {
+    "hopitaux": {
+      "hopitaux": []
+    },
+    "medecins": {
+      "statistiques_medecins": {
+        "total_medecins": 0,
+        "par_region": {},
+        "par_specialite": {},
+        "ratio_habitants": "",
+        "pharmaciens": 0,
+        "infirmiers": 0,
+        "autres_personnels_de_sante": 0
+      }
+    },
+    "statistiques_generales": {
+      "statistiques": {
+        "annee": "2006",
+        "population": 0,
+        "infrastructures": {
+          "hopitaux": 0,
+          "centres_de_sante": 0
+        },
+        "personnel": {
+          "medecins": 0,
+          "infirmieres": 0
+        },
+        "budget": {
+          "total": 0,
+          "ministere_de_la_sante": 0,
+          "autres_ministères": 0,
+          "collectivites_locales": 0,
+          "assurance_maladie": 0,
+          "cooperation_internationale": 0
+        },
+        "indicateurs_sante": {
+          "taux_de_mortalite": 0,
+          "esperance_de_vie": 0
+        },
+        "programmes": [
+          {
+            "nom": "Assurance Maladie Obligatoire (AMO)",
+            "description": "Programme d'assurance maladie pour les salariés du secteur public et privé"
+          },
+          {
+            "nom": "Santé Maternelle et Infantile (SMI)",
+            "description": "Programme de santé pour les mères et les enfants"
+          }
+        ],
+        "chiffres_cles": {
+          "2006": {
+            "depense_globale_de_sante": 0,
+            "sources_de_financement": {
+              "ministere_de_la_sante": 0,
+              "autres_ministères": 0,
+              "collectivites_locales": 0,
+              "assurance_maladie": 0,
+              "cooperation_internationale": 0
+            }
+          }
+        }
+      }
+    }
+  }
+}

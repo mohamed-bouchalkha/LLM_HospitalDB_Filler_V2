@@ -1,0 +1,51 @@
+{
+  "fichier": "Comptes nationaux de la santé 2001.pdf",
+  "date_traitement": "2025-12-01T16:57:40.521966",
+  "donnees_extraites": {
+    "hopitaux": {
+      "hopitaux": []
+    },
+    "medecins": {
+      "statistiques_medecins": {
+        "total_medecins": 0,
+        "par_region": {},
+        "par_specialite": {},
+        "ratio_habitants": "",
+        "pharmaciens": 0,
+        "infirmiers": 0,
+        "autres_personnels_de_sante": 0
+      }
+    },
+    "statistiques_generales": {
+      "statistiques": {
+        "annee": "2001",
+        "population": 0,
+        "infrastructures": {
+          "hopitaux": 0,
+          "centres_de_sante": 0
+        },
+        "personnel": {
+          "medecins": 0,
+          "infirmieres": 0
+        },
+        "budget": {
+          "total": 0,
+          "ministere_de_la_sante": 0,
+          "autres_ministères": 0,
+          "collectivites_locales": 0
+        },
+        "indicateurs_sante": {
+          "taux_de_mortalite": 0,
+          "esperance_de_vie": 0
+        },
+        "programmes": [
+          {
+            "nom": "Assurance maladie",
+            "population_couverte": 0,
+            "niveaux_de_couverture": 0
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "fichier": "Revue Fr.pdf",
+  "date_traitement": "2025-12-01T16:55:40.240042",
+  "donnees_extraites": {
+    "hopitaux": {
+      "hopitaux": []
+    },
+    "medecins": {
+      "statistiques_medecins": {
+        "total_medecins": 53000,
+        "par_region": {},
+        "par_specialite": {
+          "Cadres Infirmiers": 9000,
+          "Administrateurs": 32000,
+          "Techniciens de santé": 12000
+        },
+        "ratio_habitants": "",
+        "pharmaciens": 0,
+        "infirmiers": 0
+      }
+    },
+    "statistiques_generales": {
+      "statistiques": {
+        "annee": "2022-2023",
+        "population": 0,
+        "infrastructures": {
+          "hôpitaux": 0,
+          "centres_de_santé": 0,
+          "agences_de_la_Caisse_Nationale_de_Sécurité_Sociale": 156,
+          "points_d'accueil": 2006,
+          "points_d'accueil_pour_l'enregistrement_des_travailleurs_non-salariés": 6677
+        },
+        "personnel": {
+          "professionnels_de_santé": 53000,
+          "cadres_infirmiers_administrateurs": 9000,
+          "médicaux": 32000,
+          "techniciens_de_santé": 12000,
+          "hommes": 37,
+          "femmes": 63
+        },
+        "budget": {
+          "cotisations_de_l'Etat": 9.5,
+          "milliards_de_dirhams": 0
+        },
+        "indicateurs_sante": {
+          "taux_de_couverture_maladie": 90,
+          "pourcentage_de_la_population": 0,
+          "bénéficiaires_de_l'Assurance_Maladie_Obligatoire": 22000000,
+          "bénéficiaires_de_l'Assurance_Maladie_Obligatoire_de_base": 0,
+          "bénéficiaires_ayants_droit": 11000000,
+          "bénéficiaires_professionnels": 3800000,
+          "bénéficiaires_inscrits_automatiquement": 9600000,
+          "dossiers_de_soins_pour_la_catégorie_des_personnes_ne_pouvant_s'acquitter_des_droits_de_cotisation": 1600000,
+          "dossiers_de_soins_dans_le_secteur_privé": 85000,
+          "bénéficiaires_d'allocations_familiales": 7000000,
+          "enfants_bénéficiaires_d'allocations_familiales": 0
+        },
+        "programmes": [
+          "généralisation_de_la_protection_sociale",
+          "généralisation_de_l'assurance_maladie_obligatoire",
+          "généralisation_des_allocations_familiales",
+          "généralisation_de_l'indemnisation_pour_perte_d'emploi",
+          "mise_en_place_d'un_système_d'assistance_sociale",
+          "réforme_du_système_national_de_santé",
+          "digitalisation_du_système_de_santé",
+          "renforcement_de_l'accès_aux_médicaments_et_aux_produits_de_santé",
+          "consolidation_des_programmes_de_santé_et_de_surveillance_épidémiologique"
+        ]
+      }
+    }
+  }
+}
