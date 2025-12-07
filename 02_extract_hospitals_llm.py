@@ -7,7 +7,7 @@ from groq import Groq
 import logging
 
 # CONFIGURATION
-INPUT_CORPUS = "donnees_extraites/structured/raw_corpus_global.txt"
+INPUT_CORPUS = "donnees_extraites/Unstructured/raw_corpus_global.txt"
 OUTPUT_JSON = "donnees_extraites/hopitaux/db_hopitaux_final.json"
 OUTPUT_CSV = "donnees_extraites/hopitaux/db_hopitaux_final.csv"
 CHECKPOINT_FILE = "checkpoint.txt"
