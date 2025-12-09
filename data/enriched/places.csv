@@ -1,0 +1,218 @@
+﻿region,province,city,id
+Tanger-Tetouan-Al Hoceima,Al Hoceima,Al Hoceima (Mun.),1
+Tanger-Tetouan-Al Hoceima,Al Hoceima,Imzouren (Mun.),2
+Tanger-Tetouan-Al Hoceima,Al Hoceima,Targuist (Mun.),3
+Tanger-Tetouan-Al Hoceima,Chefchaouen,Chefchaouen (Mun.),4
+Tanger-Tetouan-Al Hoceima,Larache,Ksar El Kebir (Mun.),5
+Tanger-Tetouan-Al Hoceima,Larache,Larache (Mun.),6
+Tanger-Tetouan-Al Hoceima,Ouezzane,Ouezzane (Mun.),7
+Tanger-Tetouan-Al Hoceima,Tanger Assilah,Assilah (Mun.),8
+Tanger-Tetouan-Al Hoceima,Tanger Assilah,Bni Makada (Arrond.),9
+Tanger-Tetouan-Al Hoceima,Tanger Assilah,Mghogha (Arrond.),10
+Tanger-Tetouan-Al Hoceima,Tanger Assilah,Al Madina (Arrond.),11
+Tanger-Tetouan-Al Hoceima,Tanger Assilah,Gueznaia (Mun.),12
+Tanger-Tetouan-Al Hoceima,Tetouan,Tétouan (Mun.),13
+Tanger-Tetouan-Al Hoceima,Tetouan,Dar Bni Karrich,14
+Tanger-Tetouan-Al Hoceima,Mdiq-Fnideq,Fnideq (Mun.),15
+Tanger-Tetouan-Al Hoceima,Mdiq-Fnideq,M'Diq (Mun.),16
+Oriental,Berkane,Berkane (Mun.),17
+Oriental,Berkane,Saidia (Mun.),18
+Oriental,Driouch,Driouch (Mun.),19
+Oriental,Figuig,Bouarfa (Mun.),20
+Oriental,Guercif,Guercif (Mun.),21
+Oriental,Jerada,Laaouinate,22
+Oriental,Nador,Al Aaroui (Mun.),23
+Oriental,Nador,Nador (Mun.),24
+Oriental,Nador,Zaio (Mun.),25
+Oriental,Oujda Angad,Oujda (Mun.),26
+Oriental,Oujda Angad,Sidi Moussa Lemhaya,27
+Oriental,Taourirt,El Aioun Sidi Mellouk (Mun.),28
+Oriental,Taourirt,Taourirt (Mun.),29
+Fès-Meknès,Meknes,Meknès (Mun.),30
+Fès-Meknès,Boulemane,Missour (Mun.),31
+Fès-Meknès,Boulemane,Outat El Haj (Mun.),32
+Fès-Meknès,El Hajeb,El Hajeb (Mun.),33
+Fès-Meknès,Fes,Agdal (Arrond.),34
+Fès-Meknès,Fes,Saiss (Arrond.),35
+Fès-Meknès,Fes,Fès-Médina (Arrond.),36
+Fès-Meknès,Fes,El Mariniyine (Arrond.),37
+Fès-Meknès,Ifrane,Azrou (Mun.),38
+Fès-Meknès,Sefrou,Sefrou (Mun.),39
+Fès-Meknès,Taounate,Ghafsai (Mun.),40
+Fès-Meknès,Taounate,Taounate (Mun.),41
+Fès-Meknès,Taza,Taza (Mun.),42
+Rabat-Salé-Kénitra,Kenitra,Kénitra (Mun.),43
+Rabat-Salé-Kénitra,Kenitra,Souk El Arbaa (Mun.),44
+Rabat-Salé-Kénitra,Khémisset,Khémisset (Mun.),45
+Rabat-Salé-Kénitra,Khémisset,Rommani (Mun.),46
+Rabat-Salé-Kénitra,Khémisset,Tiflet (Mun.),47
+Rabat-Salé-Kénitra,Rabat,Agdal Riyad (Arrond.),48
+Rabat-Salé-Kénitra,Rabat,Hassan (Arrond.),49
+Rabat-Salé-Kénitra,Salé,Bab Lamrissa (Arrond.),50
+Rabat-Salé-Kénitra,Salé,Hssaine (Arrond.),51
+Rabat-Salé-Kénitra,Salé,Tabriquet (Arrond.),52
+Rabat-Salé-Kénitra,Sidi Kacem,Jorf El Melha (Mun.),53
+Rabat-Salé-Kénitra,Sidi Kacem,Sidi Kacem (Mun.),54
+Rabat-Salé-Kénitra,Sidi Slimane,Sidi Slimane (Mun.),55
+Rabat-Salé-Kénitra,Skhirate-Temara,Témara (Mun.),56
+Béni Mellal-Khénifra,Azilal,Azilal (Mun.),57
+Béni Mellal-Khénifra,Azilal,Demnate (Mun.),58
+Béni Mellal-Khénifra,Beni Mellal,Béni Mellal (Mun.),59
+Béni Mellal-Khénifra,Beni Mellal,Kasba Tadla (Mun.),60
+Béni Mellal-Khénifra,Beni Mellal,Ouled M'Barek,61
+Béni Mellal-Khénifra,Fkih Ben Saleh,Fquih Ben Salah (Mun.),62
+Béni Mellal-Khénifra,Khenifra,Khenifra (Mun.),63
+Béni Mellal-Khénifra,Khenifra,M'Rirt (Mun.),64
+Béni Mellal-Khénifra,Khouribga,Bejaad (Mun.),65
+Béni Mellal-Khénifra,Khouribga,Khouribga (Mun.),66
+Béni Mellal-Khénifra,Khouribga,Oued Zem (Mun.),67
+Casablanca-Settat,Benslimane,Benslimane (Mun.),68
+Casablanca-Settat,Berrechid,Berrechid (Mun.),69
+Casablanca-Settat,El Jadida,Azemmour (Mun.),70
+Casablanca-Settat,El Jadida,El Jadida (Mun.),71
+Casablanca-Settat,Mediouna,Mediouna (Mun.),72
+Casablanca-Settat,Mediouna,Sidi Hajjaj Oued Hassar,73
+Casablanca-Settat,Mohammedia,Mohammadia (Mun.),74
+Casablanca-Settat,Nouaceur,Bouskoura (Mun.),75
+Casablanca-Settat,Nouaceur,Dar Bouazza (Mun.),76
+Casablanca-Settat,Settat,Ben Ahmed (Mun.),77
+Casablanca-Settat,Settat,Settat (Mun.),78
+Casablanca-Settat,Sidi Bennour,Sidi Bennour (Mun.),79
+Casablanca-Settat,Sidi Bennour,Zemamra (Mun.),80
+Casablanca-Settat,Casablanca Anfa,El Maarif (Arrond.),81
+Casablanca-Settat,Casablanca Anfa,Sidi Belyout (Arrond.),82
+Casablanca-Settat,Al Fida-Mers Sultan,Al-Fida (Arrond.),83
+Casablanca-Settat,Aïn Sebaâ-Hay Mohammadi,Hay Mohammadi (Arrond.),84
+Casablanca-Settat,Hay Hassani,Hay-Hassani (Arrond.),85
+Casablanca-Settat,Aïn Chok,Aîn-Chock (Arrond.),86
+Casablanca-Settat,Sidi Bernoussi,Sidi Bernoussi (Arrond.),87
+Casablanca-Settat,Sidi Bernoussi,Sidi Moumen (Arrond.),88
+Casablanca-Settat,Ben Msick,Ben M'Sick (Arrond.),89
+Casablanca-Settat,Moulay Rachid,Sidi Othmane (Arrond.),90
+Marrakech-Safi,Al Haouz,Tahannaout (Mun.),91
+Marrakech-Safi,Chichaoua,Chichaoua (Mun.),92
+Marrakech-Safi,El Kelaa Des Sraghna,El Kelaâ des Sraghna (Mun.),93
+Marrakech-Safi,El Kelaa Des Sraghna,Tamallalt (Mun.),94
+Marrakech-Safi,Essaouira,Essaouira (Mun.),95
+Marrakech-Safi,Marrakech,Gueliz (Arrond.),96
+Marrakech-Safi,Marrakech,Marrakech-Médina (Arrond.),97
+Marrakech-Safi,Marrakech,Ménara (Arrond.),98
+Marrakech-Safi,Marrakech,Sidi Youssef Ben Ali (Arrond.),99
+Marrakech-Safi,Marrakech,Saada,100
+Marrakech-Safi,Rehamena,Ben Guerir (Mun.),101
+Marrakech-Safi,Safi,Safi (Mun.),102
+Marrakech-Safi,Youssoufia,Youssoufia (Mun.),103
+Drâa-Tafilalet,Errachidia,Arfoud (Mun.),104
+Drâa-Tafilalet,Errachidia,Errachidia (Mun.),105
+Drâa-Tafilalet,Errachidia,Goulmima (Mun.),106
+Drâa-Tafilalet,Midelt,Midelt (Mun.),107
+Drâa-Tafilalet,Midelt,Er-rich (Mun.),108
+Drâa-Tafilalet,Ouarzazate,Ouarzazate (Mun.),109
+Drâa-Tafilalet,Tinghir,Kalaat M'Gouna (Mun.),110
+Drâa-Tafilalet,Tinghir,Tinghir (Mun.),111
+Drâa-Tafilalet,Zagora,Zagora (Mun.),112
+Souss-Massa,Agadir Ida Ou Tanane,Agadir (Mun.),113
+Souss-Massa,Chtouka Ait Baha,Biougra (Mun.),114
+Souss-Massa,Inezgane Ait Melloul,Inezgane (Mun.),115
+Souss-Massa,Taroudant,Oulad Teima (Mun.),116
+Souss-Massa,Taroudant,Taroudannt (Mun.),117
+Souss-Massa,Tata,Tata (Mun.),118
+Souss-Massa,Tiznit,Tiznit (Mun.),119
+Guelmim-Oued Noun,Assa-zag,Assa (Mun.),120
+Guelmim-Oued Noun,Guelmim,Bouizakarne (Mun.),121
+Guelmim-Oued Noun,Guelmim,Guelmim (Mun.),122
+Guelmim-Oued Noun,Sidi Ifni,Sidi Ifni (Mun.),123
+Guelmim-Oued Noun,Tan Tan,Tan Tan (Mun.),124
+Laayoune-Sakia El Hamra,Boujdour,Boujdour (Mun.),125
+Laayoune-Sakia El Hamra,Es Semara,Es-semara (Mun.),126
+Laayoune-Sakia El Hamra,Laayoune,Laayoune (Mun.),127
+Eddakhla-Oued Eddahab,Oued Ed-Dahab,Dakhla (Mun.),128
+,,Tétouan,129
+,,rue imam ali fes nouvelle,130
+,,Oujda,131
+,,midar,132
+,,Chefchaouen,133
+,,Beni Ensar,134
+,,Béni Mellal,135
+,,Fés,136
+,,rue abdessalam serghini,137
+,,Fès,138
+,,87 RUE OMAR EL DRISSI,139
+,,ابن جرير,140
+,,ait skatou,141
+,,الناظور,142
+,,rue mohamed ZARKTOUNI FEZ,143
+,,Tanger,144
+,,6 rue kasem amine,145
+,,ain kadous fez,146
+,,بني ملال,147
+,,Sidi Allal El Bahraoui ⵙⵉⴷⵉ ⵄⵍⵍⴰⵍ ⴰⴱⵃⵔⴰⵡⵉ سيدي علال البحراوي,148
+,,Tit Mellil تيط مليل,149
+,,Al Hoceima,150
+,,الرباط,151
+,,Rabat,152
+,,Tiznit,153
+,,Agadir,154
+,,Casablanca ⵜⴰⴷⴷⴰⵔⵜ ⵜⵓⵎⵍⵉⵍⵜ الدار البيضاء,155
+,,Belyounech,156
+,,Youssoufia ⵢⵓⵙⴼⵉⵢⴰ اليوسفية,157
+,,chemaia,158
+,,Echemmaia ⵛⵎⴰⵄⵉⵢⴰ الشماعية,159
+,,CHP KHOURIBGA,160
+,,chp khouribga,161
+,,Youssoufia,162
+,,Larache,163
+,,Ouazzane ⵡⴰⵣⴰⵏ وزان,164
+,,Ouazzane وزان,165
+,,Assilah,166
+,,casablanca,167
+,,Timitar,168
+,,Tanger طنجة,169
+,,Drarga,170
+,,sidi ali belkacem,171
+,,Rabat ⵔⴱⴰⵟ الرباط,172
+,,Shishawa شيشاوة,173
+,,kasba tadla,174
+,,Meknès,175
+,,MDiq,176
+,,TOUISSIT,177
+,,ouarzazate,178
+,,Meknès مكناس,179
+,,OUJDA,180
+,,Beni Enzar بني انصار,181
+,,Casablanca,182
+,,Berkane,183
+,,berkane,184
+,,Toulal ⵜⵓⵍⴰⵍ تولال,185
+,,Figuig ⵉⴼⵉⵢⵢⵉⵢ فگيگ,186
+,,FEZ,187
+,,Taourirt تاوريرت,188
+,,Taurirt,189
+,,Mohammedia,190
+,,rue mohamed el hansali fes,191
+,,Fes ville,192
+,,فاس,193
+,,Fez,194
+,,fez,195
+,,KENITRA,196
+,,Salé سلا,197
+,,Agadir ⴰⴳⴰⴷⵉⵔ أگادير,198
+,,Aït Melloul ⴰⵢⵜ ⵎⵍⵍⵓⵍ أيت ملول,199
+,,Saadina,200
+,,Témara تمارة,201
+,,Sidi Ifni,202
+,,Ait Ouqabli آيت اوقبلي,203
+,,Targuist ⵜⴰⵔⴳⵉⵙⵜ تارجيست,204
+,,TEMARA,205
+,,طاطا,206
+,,Ksar-el-Kebir القصر الكبير,207
+,,Fes Médina ain zleten,208
+,,Fes Médina batha,209
+,,Martil,210
+,,Beni Mellal,211
+,,2 RUE BENZAKOUR ATLAS FES,212
+,,Settat,213
+,,Ben Ahmed,214
+,,Imouzzer Marmoucha إموزار مرموشة,215
+,,AOURIR,216
+,,Bni Karrich بن قريش,217

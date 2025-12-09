@@ -1,0 +1,11 @@
+﻿id,name,code,category
+1,Scanner CT,EQ-CT,Standard
+2,IRM,EQ-MRI,Standard
+3,Échographe,EQ-US,Standard
+4,Radiographie Numérique,EQ-XRAY,Standard
+5,Respirateur Artificiel,EQ-VENT,Standard
+6,Moniteur Multiparamétrique,EQ-MON,Standard
+7,Défibrillateur,EQ-DEF,Standard
+8,Table d'Opération,EQ-TABLE,Standard
+9,Incubateur Néonatal,EQ-INCU,Standard
+10,Dialyse,EQ-DIAL,Standard

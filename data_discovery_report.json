@@ -1,0 +1,212 @@
+{
+  "hôpital": [],
+  "hôpitaux": [
+    {
+      "title": "La liste des hôpitaux 2022",
+      "url": "https://data.gov.ma/data/fr/dataset/la-liste-des-hopitaux",
+      "description": "Liste des hôpitaux par Province/Région Ministère de la Santé - 2022",
+      "organization": ""
+    },
+    {
+      "title": "Liste nominative des établissements hospitaliers par catégorie - 2020",
+      "url": "https://data.gov.ma/data/fr/dataset/liste-nominative-des-etablissements-hospitaliers-par-categorie-2020",
+      "description": "Liste nominative des établissements hospitaliers par catégorie 2020",
+      "organization": ""
+    },
+    {
+      "title": "Données sur l'offre de soins privées",
+      "url": "https://data.gov.ma/data/fr/dataset/donnees-sur-l-offre-de-soins-privees",
+      "description": "Sont présentées dans ce ficher les données sur l'offre de soins privées. On y trouve également d'autres structures considérées comme publiques mais qui ne sont pas sous le...",
+      "organization": ""
+    }
+  ],
+  "santé": [
+    {
+      "title": "Indicateurs sociaux : Santé",
+      "url": "https://data.gov.ma/data/fr/dataset/indicateurs-sociaux-sante",
+      "description": "Données relatives aux indicateurs sociaux : Santé",
+      "organization": ""
+    },
+    {
+      "title": "Répartition des Etablissements de soins de santé primaire par catégorie - 2022",
+      "url": "https://data.gov.ma/data/fr/dataset/repartition-des-etablissements-de-soins-de-sante-primaire-par-categorie-2020",
+      "description": "Répartition des Etablissements de soins de santé primaire par catégorie  2022",
+      "organization": ""
+    },
+    {
+      "title": "Liste des centres de santé 2011",
+      "url": "https://data.gov.ma/data/fr/dataset/liste-des-centres-de-sante-2011",
+      "description": "Liste des centre de Santé par Province/Commune Ministère de la Santé",
+      "organization": ""
+    },
+    {
+      "title": "Infrastructures de santé du secteur privé 2022",
+      "url": "https://data.gov.ma/data/fr/dataset/infrastructures-privees-2020",
+      "description": "Total des infrastructures privées 2022",
+      "organization": ""
+    },
+    {
+      "title": "La liste des hôpitaux 2022",
+      "url": "https://data.gov.ma/data/fr/dataset/la-liste-des-hopitaux",
+      "description": "Liste des hôpitaux par Province/Région Ministère de la Santé - 2022",
+      "organization": ""
+    },
+    {
+      "title": "Offres de soins privées",
+      "url": "https://data.gov.ma/data/fr/dataset/offre-de-soins-privees",
+      "description": "Nombre d'établissement offrant des soins privées en 2013 - Ministère de la santé",
+      "organization": ""
+    },
+    {
+      "title": "Réferentiel des médicaments",
+      "url": "https://data.gov.ma/data/fr/dataset/referentiel-des-medicaments",
+      "description": "Les médicaments listés avec  leur type princeps ou généric, leurs prix publics de vente ainsi que leur prix hopital et leur base de remboursement",
+      "organization": ""
+    },
+    {
+      "title": "Dispositifs médicaux admis au rembourssement",
+      "url": "https://data.gov.ma/data/fr/dataset/dispositifs-medicaux-admis-au-rembourssement",
+      "description": "Ces dispositifs représentent la liste des dispositifs médicaux devant être admis au remboursement par le CNOPS et donnant lieu à demande d’entente préalables.",
+      "organization": ""
+    },
+    {
+      "title": "Indicateurs sociaux",
+      "url": "https://data.gov.ma/data/fr/dataset/indicateurs-sociaux-2012-2024",
+      "description": "Ce fichier présente les indicateurs sociaux pour la période de 2012 à 2024 :\n-  Démographie\n- Education et formation\n- Emploi et salaires\n- Santé \n- Niveau de vie et Equipements...",
+      "organization": ""
+    },
+    {
+      "title": "Données sur l'offre de soins privées",
+      "url": "https://data.gov.ma/data/fr/dataset/donnees-sur-l-offre-de-soins-privees",
+      "description": "Sont présentées dans ce ficher les données sur l'offre de soins privées. On y trouve également d'autres structures considérées comme publiques mais qui ne sont pas sous le...",
+      "organization": ""
+    }
+  ],
+  "équipement médical": [],
+  "personnel médical": [],
+  "services de santé": [
+    {
+      "title": "Répartition des Etablissements de soins de santé primaire par catégorie - 2022",
+      "url": "https://data.gov.ma/data/fr/dataset/repartition-des-etablissements-de-soins-de-sante-primaire-par-categorie-2020",
+      "description": "Répartition des Etablissements de soins de santé primaire par catégorie  2022",
+      "organization": ""
+    },
+    {
+      "title": "Indicateurs sociaux : Santé",
+      "url": "https://data.gov.ma/data/fr/dataset/indicateurs-sociaux-sante",
+      "description": "Données relatives aux indicateurs sociaux : Santé",
+      "organization": ""
+    },
+    {
+      "title": "Liste des centres de santé 2011",
+      "url": "https://data.gov.ma/data/fr/dataset/liste-des-centres-de-sante-2011",
+      "description": "Liste des centre de Santé par Province/Commune Ministère de la Santé",
+      "organization": ""
+    },
+    {
+      "title": "Infrastructures de santé du secteur privé 2022",
+      "url": "https://data.gov.ma/data/fr/dataset/infrastructures-privees-2020",
+      "description": "Total des infrastructures privées 2022",
+      "organization": ""
+    },
+    {
+      "title": "Services IT externalisés",
+      "url": "https://data.gov.ma/data/fr/dataset/services-it-externalises",
+      "description": "Ce guide propose des recommandation clés à mener par une organisation, en collaboration avec ses fournisseurs de services, en vue de minimiser les impacts négatifs pouvant...",
+      "organization": ""
+    },
+    {
+      "title": "Liste des e-services opérationnels eGov",
+      "url": "https://data.gov.ma/data/fr/dataset/liste-des-e-services-operationnels-egov",
+      "description": "Liste des services en ligne opérationnels destinés aux citoyens, aux entreprises et à l’administration.",
+      "organization": ""
+    },
+    {
+      "title": "Liens vers les services eGov opérationnels",
+      "url": "https://data.gov.ma/data/fr/dataset/liens-vers-les-services-egov-operationnels",
+      "description": "Liste des services e-Gouvernement opérationnels classée par porteur du projet, statut et cible.",
+      "organization": ""
+    },
+    {
+      "title": "Prestations de services de la CNSS en 2022",
+      "url": "https://data.gov.ma/data/fr/dataset/prestations-de-services-de-la-cnss-en-2022",
+      "description": "Ce fichier présente le nombre de bénéficiaires et les dépenses relatives aux prestations services de la CNSS au titre de l'année 2022",
+      "organization": ""
+    },
+    {
+      "title": "Prestations de services de la CNSS en 2021",
+      "url": "https://data.gov.ma/data/fr/dataset/prestations-de-services-de-la-cnss-en-2021",
+      "description": "Ce fichier présente le nombre de bénéficiaires et les dépenses relatives aux prestations services de la CNSS au titre de l'année 2021",
+      "organization": ""
+    },
+    {
+      "title": "Qualité de service des réseaux mobiles des télécommunications",
+      "url": "https://data.gov.ma/data/fr/dataset/qualite-de-service-des-reseaux-mobiles-des-telecommunications",
+      "description": "Ce fichier présente des indicateurs de qualité de service des réseaux mobiles des télécommunications au Maroc",
+      "organization": ""
+    },
+    {
+      "title": "Guide de bonnes pratiques pour la digitalisation des services publics",
+      "url": "https://data.gov.ma/data/fr/dataset/guide-de-bonnes-pratiques-pour-la-digitalisation-des-services-publics",
+      "description": "Ce guide de bonnes pratiques, élaboré selon les meilleures expériences et pratiques internationales, est destiné aux administrations pour les assister dans la conception et la...",
+      "organization": ""
+    },
+    {
+      "title": "Concours services de l'Etat - statistiques portail emploi public",
+      "url": "https://data.gov.ma/data/fr/dataset/concours-services-de-l-etat-statistiques-portail-emploi-public_30-04-2025",
+      "description": "Ce fichier présente des statistiques sur les concours lancés par les services de l'Etat sur le site www.emploi-public.ma",
+      "organization": ""
+    },
+    {
+      "title": "Répartition du personnel des administrations publiques selon les services",
+      "url": "https://data.gov.ma/data/fr/dataset/repartition-du-personnel-des-administrations-publiques-selon-les-services",
+      "description": "Ce fichier présente la répartition du personnel des administrations publiques selon les services",
+      "organization": ""
+    },
+    {
+      "title": "Liste des communes où le service watiqa.ma est disponible",
+      "url": "https://data.gov.ma/data/fr/dataset/liste-des-communes-dont-le-service-watiqa-ma-est-disponible",
+      "description": "La liste des communes où vous pouvez bénéficier du service de commande en ligne des documents administratifs www.watiqa.ma",
+      "organization": ""
+    },
+    {
+      "title": "Liste des e-services de l'Agence Urbaine de Safi-Youssoufia",
+      "url": "https://data.gov.ma/data/fr/dataset/liste-des-e-services-de-l-agence-urbaine-de-safi-youssoufia",
+      "description": "Ce fichier présente la liste des e-services de l'Agence Urbaine de Safi-Youssoufia",
+      "organization": ""
+    },
+    {
+      "title": "Postes de responsabilité aux Services de l'Etat - Statistiques portail emploi...",
+      "url": "https://data.gov.ma/data/fr/dataset/postes-de-responsabilite-aux-services-de-l-etat-statistiques-portail-emploi-public_30-04-2025",
+      "description": "Ce fichier présente des statistiques sur les avis de candidatures aux postes de responsabilités aux Services de l'Etat publiés sur le site www.emploi-public.ma.",
+      "organization": ""
+    },
+    {
+      "title": "Exportations de biens et services aux prix constants (Annuelle Base 2007)",
+      "url": "https://data.gov.ma/data/fr/dataset/data_12_20",
+      "description": "Pour plus d'information consulter la BDS en ligne: https://bds.hcp.ma",
+      "organization": ""
+    },
+    {
+      "title": "Exportations de biens et services aux prix courants (Annuelle Base 2007)",
+      "url": "https://data.gov.ma/data/fr/dataset/data_12_19",
+      "description": "Pour plus d'information consulter la BDS en ligne: https://bds.hcp.ma",
+      "organization": ""
+    },
+    {
+      "title": "Services en ligne, centres d'appels et sites web des administrations",
+      "url": "https://data.gov.ma/data/fr/dataset/services-en-ligne-centres-d-appels-et-sites-web-des-administrations",
+      "description": "Services en ligne, centres d'appels et sites web des administrations",
+      "organization": ""
+    },
+    {
+      "title": "Coordonnées alphanumériques des administrations disponibles sur le portail \"m...",
+      "url": "https://data.gov.ma/data/fr/dataset/coordonnees-alphanumeriques-des-administrations-disponibles-sur-le-portail-maps-service-public-ma",
+      "description": "Ce fichier présente les coordonnées alphanumériques des administrations publiques répertoriées sur le portail http://maps.service-public.ma/,  jusqu'au Mai 2022",
+      "organization": ""
+    }
+  ],
+  "capacité hospitalière": [],
+  "urgences": [],
+  "chirurgie": []
+}

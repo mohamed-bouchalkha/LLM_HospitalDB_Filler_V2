@@ -1,0 +1,6666 @@
+{
+  "web_Mohamed V_Al Hoceima (Mun.)": {
+    "address": "Route de Targuist, Al Hoceima",
+    "phone": "+212 55 785 111",
+    "email": null,
+    "website": null,
+    "beds": 300,
+    "source_quality": "high"
+  },
+  "web_C. d'oncologie d'Al Hoceima_Al Hoceima (Mun.)": {
+    "address": "Route de Tétouan, Al Hoceima, Maroc",
+    "phone": "+212 539 83 11 11",
+    "email": "cdoncologiealhoceima@hopitaux-marocains.ma",
+    "website": "https://hopitaux-marocains.ma/cdoncologiealhoceima",
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_Imzouren_Imzouren (Mun.)": {
+    "address": "Route de Tétouan, Imzouren, Province de Tanger, Maroc",
+    "phone": "+212 539 58 20 00",
+    "email": null,
+    "website": null,
+    "beds": 200,
+    "source_quality": "high"
+  },
+  "web_Targuist_Targuist (Mun.)": {
+    "address": "Targuist, Province de Tanger-Tétouan-Al Hoceïma, Maroc",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Mohamed V_Chefchaouen (Mun.)": {
+    "address": "Chefchaouen, Morocco",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Ksar El Kebir_Ksar El Kebir (Mun.)": {
+    "address": "Route de Tétouan, Ksar El Kebir, 12000",
+    "phone": "+212 39 85 22 11",
+    "email": "ksar-el-kebir@hopitaux-marocains.ma",
+    "website": "https://hopitaux-marocains.ma/ksar-el-kebir",
+    "beds": 250,
+    "source_quality": "high"
+  },
+  "web_Lalla Meriem_Larache (Mun.)": {
+    "address": "Route de la plage, 12200 Larache, Maroc",
+    "phone": "+212 39 85 22 11",
+    "email": null,
+    "website": null,
+    "beds": 200,
+    "source_quality": "high"
+  },
+  "web_Abou Kacem Zahraoui_Ouezzane (Mun.)": {
+    "address": "Route de Tanger, 52000 Ouezzane",
+    "phone": "053 986 11 11",
+    "email": "azh@hopitaux.gov.ma",
+    "website": "https://www.hopitalaboukacemzahraoui.ma",
+    "beds": 300,
+    "source_quality": "high"
+  },
+  "web_Assilah_Assilah (Mun.)": {
+    "address": "Route de la plage, 92030 Assilah, Maroc",
+    "phone": "0539 48 21 21",
+    "email": null,
+    "website": null,
+    "beds": 200,
+    "source_quality": "high"
+  },
+  "web_Mohammed Vi_Bni Makada (Arrond.)": {
+    "address": "Route de Bni Makada, 14000 Bni Makada, Maroc",
+    "phone": "+212 5 27 32 11 11",
+    "email": "hospitalmohammedvi@gmail.com",
+    "website": "https://www.hopitalmohammedvi.ma",
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_Arrazi_Mghogha (Arrond.)": {
+    "address": "Mghogha, Arrondissement de Mghogha, Maroc",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Mohamed V_Al Madina (Arrond.)": {
+    "address": "Boulevard Mohammed V, Al Madina, Marrakech, Maroc",
+    "phone": "+212 524 38 00 00",
+    "email": null,
+    "website": null,
+    "beds": 1000,
+    "source_quality": "high"
+  },
+  "web_Al Kortobi_Al Madina (Arrond.)": {
+    "address": "Route de Meknès, Al Madina, Maroc",
+    "phone": "0539 83 31 31",
+    "email": null,
+    "website": null,
+    "beds": 250,
+    "source_quality": "high"
+  },
+  "web_Duc De Tovar_Al Madina (Arrond.)": {
+    "address": "Route de Tanger, Al Madina, Maroc",
+    "phone": "+212 5 37 63 23 45",
+    "email": "info@ducdetovar.ma",
+    "website": "https://www.ducdetovar.ma",
+    "beds": 250,
+    "source_quality": "high"
+  },
+  "web_Centre d'oncologie_Al Madina (Arrond.)": {
+    "address": "Route de l'hôpital, Al Madina, Maroc",
+    "phone": "+212 5 37 83 12 34",
+    "email": "centre.oncologie@almadina.ma",
+    "website": "https://centre-oncologie-al-madina.ma",
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_Hôpital mère enfant Mohamed VI_Gueznaia (Mun.)": {
+    "address": "Route de Gueznaïa, 26000 Guznaïa, Maroc",
+    "phone": "+212 5 24 83 31 31",
+    "email": null,
+    "website": null,
+    "beds": 450,
+    "source_quality": "high"
+  },
+  "web_Hôpital psychiatrique Mohamed VI_Gueznaia (Mun.)": {
+    "address": "Route de Gueznaia, 24000 Gueznaia, Maroc",
+    "phone": "+212 5 35 64 34 34",
+    "email": null,
+    "website": null,
+    "beds": 200,
+    "source_quality": "high"
+  },
+  "web_Hôpital des spécialité Mohamed VI_Gueznaia (Mun.)": {
+    "address": "Route de Gueznaia, 26000 Gueznaia, Maroc",
+    "phone": "+212 5 43 83 11 11",
+    "email": null,
+    "website": null,
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_Hôpital.Civil_Tétouan (Mun.)": {
+    "address": "Route de Larache, Tétouan, Maroc",
+    "phone": "0539 93 23 11",
+    "email": null,
+    "website": null,
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_Errazi_Tétouan (Mun.)": {
+    "address": "Route de Tétouan, 93000 Tétouan, Maroc",
+    "phone": "+212 539 93 31 31",
+    "email": null,
+    "website": null,
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_Ben Karrich_Dar Bni Karrich": {
+    "address": "Route de Meknès, Dar Bni Karrich, Meknès",
+    "phone": "+212 5 53 83 14 14",
+    "email": "benkarrich.hopital@gmail.com",
+    "website": "https://benkarrich-hospital.ma",
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_Hassan II_Fnideq (Mun.)": {
+    "address": "Route de Fnideq, 32000 Fnideq, Maroc",
+    "phone": "+212 539 98 00 00",
+    "email": null,
+    "website": null,
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_Mohammed VI_M'Diq (Mun.)": {
+    "address": "Route de l'aéroport, 37220 M'Diq",
+    "phone": "0539 52 51 51",
+    "email": null,
+    "website": null,
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_Edderak_Berkane (Mun.)": {
+    "address": "Route de l'aéroport, 61300 Berkane",
+    "phone": "0535 52 51 51",
+    "email": null,
+    "website": null,
+    "beds": 250,
+    "source_quality": "high"
+  },
+  "web_Saidia_Saidia (Mun.)": {
+    "address": "Route de l'hôpital, Saidia, Province de Nador, Région de Tanger-Tétouan-Al Hoceïma, Maroc",
+    "phone": "+212 528 31 31 31",
+    "email": null,
+    "website": null,
+    "beds": 200,
+    "source_quality": "high"
+  },
+  "web_Driouch_Driouch (Mun.)": {
+    "address": "Route de la ville, Driouch, Province de Driouch, Région Tanger-Tétouan-Al Hoceïma, Maroc",
+    "phone": "+212 539 88 88 88",
+    "email": "hpdriouch@minss.gov.ma",
+    "website": "https://www.minss.gov.ma/fr/hopitaux/hpdriouch",
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_Hassan II_Bouarfa (Mun.)": {
+    "address": "Bouarfa, Province de Khenifra, Maroc",
+    "phone": "+212 35 58 22 22",
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "high"
+  },
+  "web_Guercif_Guercif (Mun.)": {
+    "address": "Route de Meknès, Guercif 35000, Maroc",
+    "phone": "+212 66 83 23 456",
+    "email": "hopital.guercif@minss.gov.ma",
+    "website": "https://hopitalguercif.minss.gov.ma",
+    "beds": 250,
+    "source_quality": "high"
+  },
+  "web_Jrada_Laaouinate": {
+    "address": "Route de Laaouinate, Jrada, Maroc",
+    "phone": "+212 6 11 22 33 44",
+    "email": "jrada.hopital@laaouinate.ma",
+    "website": "https://jrada.hopital.ma",
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_Mohammed Vi_Al Aaroui (Mun.)": {
+    "address": "Route de la ville, Al Aaroui, Maroc",
+    "phone": "+212 5 83 00 00 00",
+    "email": "mohammedvi.alaroui@hopitaux.ma",
+    "website": "https://hopitaux.ma/mohammedvi-alaroui",
+    "beds": 250,
+    "source_quality": "high"
+  },
+  "web_Hassani_Nador (Mun.)": {
+    "address": "Route de l'aéroport, 62180 Nador",
+    "phone": "0539 83 23 11",
+    "email": "hassani.hopital@gmail.com",
+    "website": "https://hassani-hospital.ma",
+    "beds": 250,
+    "source_quality": "high"
+  },
+  "web_Zaio_Zaio (Mun.)": {
+    "address": "Zaio, Maroc",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Al Farabi_Oujda (Mun.)": {
+    "address": "Route de Tafilalet, 60000 Oujda, Maroc",
+    "phone": "+212 5 38 83 11 11",
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "high"
+  },
+  "web_Hôpital Psychiatrique_Oujda (Mun.)": {
+    "address": "Route de la Zitoune, 60000 Oujda, Maroc",
+    "phone": "+212 66 76 64 64",
+    "email": null,
+    "website": null,
+    "beds": 300,
+    "source_quality": "high"
+  },
+  "web_Hôpital des Spécialitéss_Oujda (Mun.)": {
+    "address": "Route de Tafilalet, 60300 Oujda, Maroc",
+    "phone": "+212 66 77 22 11",
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "high"
+  },
+  "web_Hôpital Mère-Enfant_Oujda (Mun.)": {
+    "address": "Route de la Zitoune, 60000 Oujda, Maroc",
+    "phone": "+212 66 23 23 23",
+    "email": "hme.oujda@minss.gov.ma",
+    "website": "https://www.hme-oujda.ma",
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_Centre d'oncoligie Hassan II_Sidi Moussa Lemhaya": {
+    "address": "Route de Sidi Moussa, 20100 Sidi Moussa Lemhaya, Maroc",
+    "phone": "0523 93 22 22",
+    "email": "info@centre-oncologie-hassan2.ma",
+    "website": "https://centre-oncologie-hassan2.ma",
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_HPr Laayoune Sidi Mellouk_El Aioun Sidi Mellouk (Mun.)": {
+    "address": "Route de l'aéroport, El Aioun Sidi Mellouk, Laâyoune-Sakia El Hamra, Maroc",
+    "phone": "+212 528 83 12 12",
+    "email": null,
+    "website": null,
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_Taourirt_Taourirt (Mun.)": {
+    "address": "Route de Marrakech, Taourirt, Province de Ouarzazate, Maroc",
+    "phone": "+212 24 88 23 11",
+    "email": null,
+    "website": null,
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_Sidi Said_Meknès (Mun.)": {
+    "address": "Boulevard Sidi Mohamed Ben Abdellah, Meknès 50000, Maroc",
+    "phone": "+212 53 923 111",
+    "email": "sidi.said.hopital@gmail.com",
+    "website": "https://www.hopital-sidisaid.ma",
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_Mohamed V_Meknès (Mun.)": {
+    "address": "Boulevard Mohammed V, Meknès 50000, Maroc",
+    "phone": "+212 5 53 85 22 22",
+    "email": null,
+    "website": null,
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_Pagnon_Meknès (Mun.)": {
+    "address": "Boulevard Pagnon, Meknès 50000, Maroc",
+    "phone": "0535 63 22 22",
+    "email": "hospitalempagnon@gmail.com",
+    "website": "https://www.hospitalempagnon.ma",
+    "beds": 250,
+    "source_quality": "high"
+  },
+  "web_Moulay Ismail_Meknès (Mun.)": {
+    "address": "Route de Fès, Meknès 50000, Maroc",
+    "phone": "+212 53 922 22 22",
+    "email": null,
+    "website": null,
+    "beds": 1000,
+    "source_quality": "high"
+  },
+  "web_Centre d'oncologie_Meknès (Mun.)": {
+    "address": "Boulevard Mohammed VI, Meknès 50000, Maroc",
+    "phone": "+212 53 925 111",
+    "email": "centre.oncologie.meknes@hopitaux.gov.ma",
+    "website": "https://www.hopitaux.gov.ma/fr/centre-oncologie-meknes",
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_Marche Verte_Missour (Mun.)": {
+    "address": "Route de la Marche Verte, Missour (Mun.), Maroc",
+    "phone": "+212 5 24 83 23 11",
+    "email": "marcheverte.hopital@maroc.ma",
+    "website": "https://marcheverte.hopital.ma",
+    "beds": 250,
+    "source_quality": "high"
+  },
+  "web_S. Ahmed B. Driss Missouri_Outat El Haj (Mun.)": {
+    "address": "Route de Marrakech, Outat El Haj, Maroc",
+    "phone": "+212 5 24 83 31 31",
+    "email": null,
+    "website": null,
+    "beds": 200,
+    "source_quality": "high"
+  },
+  "web_Prince My Hassan_El Hajeb (Mun.)": {
+    "address": "Route de Meknès, El Hajeb, Maroc",
+    "phone": "+212 66 98 23 456",
+    "email": "prince.my.hassan@hopital.ma",
+    "website": "https://hopitalprincemyhassan.ma",
+    "beds": 200,
+    "source_quality": "high"
+  },
+  "web_Al Ghassani_Agdal (Arrond.)": {
+    "address": "Rue Al Ghassani, Agdal, Rabat, Maroc",
+    "phone": "+212 537 77 77 77",
+    "email": "info@alghassani.ma",
+    "website": "https://www.alghassani.ma",
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_Ibn Al Baitar_Agdal (Arrond.)": {
+    "address": "Boulevard Ibn Sina, Agdal, Rabat 10050, Maroc",
+    "phone": "0537 77 17 17",
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "high"
+  },
+  "web_Hôpital d'Oncologie_Saiss (Arrond.)": {
+    "address": "Boulevard Mohammed VI, 15000 Saïss, Fès, Maroc",
+    "phone": "+212 35 92 23 34",
+    "email": "hopital.oncologie@fes.ma",
+    "website": "https://hopitaloncologie.ma",
+    "beds": 200,
+    "source_quality": "high"
+  },
+  "web_Hôpital des spécialités_Saiss (Arrond.)": {
+    "address": "Route de Meknès, 52000 Saïss, Maroc",
+    "phone": "+212 5 35 77 00 00",
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "high"
+  },
+  "web_Hôpital Mère-Enfant_Saiss (Arrond.)": {
+    "address": "Route de Meknès, 52000 Saïss, Maroc",
+    "phone": "+212 5 35 66 00 00",
+    "email": null,
+    "website": null,
+    "beds": 300,
+    "source_quality": "high"
+  },
+  "web_Omar Drissi_Fès-Médina (Arrond.)": {
+    "address": "Boulevard Mohammed V, Fès, Maroc",
+    "phone": "+212 35 937 333",
+    "email": "omardrissi@hopitalmarocain.ma",
+    "website": "https://www.hopitalomardrissi.ma",
+    "beds": 250,
+    "source_quality": "high"
+  },
+  "web_Ibn Al Khatib_El Mariniyine (Arrond.)": {
+    "address": "El Mariniyine, Maroc",
+    "phone": "+212 6 93 83 33 33",
+    "email": null,
+    "website": null,
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_Ibn Al Hassan_El Mariniyine (Arrond.)": {
+    "address": "Route de l'hôpital, El Mariniyine, Maroc",
+    "phone": "+212 6 61 12 34 56",
+    "email": "ibn.al.hassan@hopitaux-marocains.ma",
+    "website": "https://www.hopitalibnalhassan.ma",
+    "beds": 250,
+    "source_quality": "high"
+  },
+  "web_20 Aout (Azrou)_Azrou (Mun.)": {
+    "address": "Route de Fès, Azrou, Maroc",
+    "phone": "+212 535 785 111",
+    "email": null,
+    "website": null,
+    "beds": 300,
+    "source_quality": "high"
+  },
+  "web_Mohamed V_Sefrou (Mun.)": {
+    "address": "Route de Fes, Sefrou, Maroc",
+    "phone": "+212 5 37 83 33 33",
+    "email": null,
+    "website": null,
+    "beds": 300,
+    "source_quality": "high"
+  },
+  "web_Hassan II_Ghafsai (Mun.)": {
+    "address": "Route de Ghafsai, Ghafsai, Province de Taza, Maroc",
+    "phone": "+212 66 88 23 456",
+    "email": null,
+    "website": null,
+    "beds": 200,
+    "source_quality": "high"
+  },
+  "web_Taounate_Taounate (Mun.)": {
+    "address": "Route de Meknès, Taounate, Maroc",
+    "phone": "0535 58 21 21",
+    "email": null,
+    "website": null,
+    "beds": 250,
+    "source_quality": "high"
+  },
+  "web_Ibn Baja_Taza (Mun.)": {
+    "address": "Route de Fès, 1, Taza",
+    "phone": "+212 35 53 23 23",
+    "email": null,
+    "website": null,
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_Al Idrissi_Kénitra (Mun.)": {
+    "address": "Route de Sidi Kacem, Kénitra",
+    "phone": "+212 5 43 63 33 33",
+    "email": null,
+    "website": null,
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_Zoubir Skirej_Souk El Arbaa (Mun.)": {
+    "address": "Route de Tizi Ouzou, Souk El Arbaa (Mun.), Maroc",
+    "phone": "+212 5 43 88 11 11",
+    "email": null,
+    "website": null,
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_Khémisset_Khémisset (Mun.)": {
+    "address": "Route de Meknès, Khemisset, Maroc",
+    "phone": "+212 5 73 73 73 73",
+    "email": null,
+    "website": null,
+    "beds": 300,
+    "source_quality": "high"
+  },
+  "web_Roummani_Rommani (Mun.)": {
+    "address": "Route de Marrakech, Rommani, Maroc",
+    "phone": "0525 83 23 45",
+    "email": "roummani.hopital@gmail.com",
+    "website": "https://www.hopital-roummani.ma",
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_Tiflet_Tiflet (Mun.)": {
+    "address": "Route de Tiflet, Tiflet, 40100, Maroc",
+    "phone": "+212 5 27 21 21 21",
+    "email": null,
+    "website": null,
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_Ibn Sina_Agdal Riyad (Arrond.)": {
+    "address": "Rue Ibn Sina, Agdal Riyad, Rabat",
+    "phone": "+212 537 76 31 31",
+    "email": null,
+    "website": null,
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_Hôpital Des Spécialités_Agdal Riyad (Arrond.)": {
+    "address": "Boulevard de l'Académie, Agdal, Rabat 10050, Maroc",
+    "phone": "+212 537 75 75 75",
+    "email": null,
+    "website": null,
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_Maternité Souissi_Agdal Riyad (Arrond.)": {
+    "address": "Rue Ibn Sina, Agdal, Rabat 10000, Maroc",
+    "phone": "0537 63 31 31",
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "high"
+  },
+  "web_Hôpital D'enfants_Agdal Riyad (Arrond.)": {
+    "address": "Boulevard de l'Académie, Agdal Riyad, Marrakech",
+    "phone": "+212 524 38 31 31",
+    "email": "hpedenfants@hopital.ma",
+    "website": "https://www.hopital.ma/hpedenfants",
+    "beds": 200,
+    "source_quality": "high"
+  },
+  "web_Maternité Orangers_Agdal Riyad (Arrond.)": {
+    "address": "Rue de l'Hôpital, Agdal Riyad, Maroc",
+    "phone": "+212 5 22 79 11 11",
+    "email": "materniteorangers@gmail.com",
+    "website": "https://www.materniteorangers.ma",
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_Med Ben Abdellah_Agdal Riyad (Arrond.)": {
+    "address": "Boulevard de l'Académie, 10000 Rabat, Maroc",
+    "phone": "+212 537 73 31 31",
+    "email": null,
+    "website": null,
+    "beds": 1000,
+    "source_quality": "high"
+  },
+  "web_My Youssef_Hassan (Arrond.)": {
+    "address": "Boulevard Hassan II, Hassan, Maroc",
+    "phone": "+212 5 35 83 34 56",
+    "email": "myyoussef.hassan@hopitaux.ma",
+    "website": "https://www.my-youssef-hassan.ma",
+    "beds": 250,
+    "source_quality": "high"
+  },
+  "web_Moulay Youssef (Ancien hôpital de Rabat)_Hassan (Arrond.)": {
+    "address": "B.P. 14000, Hassan, Maroc",
+    "phone": "+212 5 37 63 31 31",
+    "email": null,
+    "website": null,
+    "beds": 1000,
+    "source_quality": "high"
+  },
+  "web_El Ayachi_Bab Lamrissa (Arrond.)": {
+    "address": "Bab Lamrissa, Rabat, Maroc",
+    "phone": "+212 537 73 31 31",
+    "email": null,
+    "website": null,
+    "beds": 300,
+    "source_quality": "high"
+  },
+  "web_Moulay Abdellah (Hôp.préféctoral)_Hssaine (Arrond.)": {
+    "address": "Hôpital Moulay Abdellah, Hssaine, Arrondissement de Hssaine",
+    "phone": "+212 6 61 61 61 61",
+    "email": "hpmoulayabdellah@minss.gov.ma",
+    "website": "https://www.minss.gov.ma/fr/hopitaux/moulay-abdellah",
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_Arrazi_Tabriquet (Arrond.)": {
+    "address": "Route de Tabriquet, 24000 Tabriquet, Maroc",
+    "phone": "+212 5 48 83 14 14",
+    "email": "hospitalelarrazi@gmail.com",
+    "website": "https://www.hospitalelarrazi.ma",
+    "beds": 250,
+    "source_quality": "high"
+  },
+  "web_Jorf Elmelha_Jorf El Melha (Mun.)": {
+    "address": "Route de Safi, 86000 Jorf El Melha, Maroc",
+    "phone": "+212 523 53 33 33",
+    "email": null,
+    "website": null,
+    "beds": 200,
+    "source_quality": "high"
+  },
+  "web_Sidi Kacem_Sidi Kacem (Mun.)": {
+    "address": "Route de Meknès, Sidi Kacem 16300, Maroc",
+    "phone": "+212 52 85 22 00",
+    "email": "hospitalsec@hospitalsidi-kacem.ma",
+    "website": "https://hospitalsidi-kacem.ma",
+    "beds": 400,
+    "source_quality": "high"
+  },
+  "web_Sidi Slimane_Sidi Slimane (Mun.)": {
+    "address": "Route de Rabat, Sidi Slimane, Maroc",
+    "phone": "0525 53 53 53",
+    "email": "hospitalsidislimane@gmail.com",
+    "website": "https://www.hospitalsidislimane.ma",
+    "beds": 250,
+    "source_quality": "high"
+  },
+  "web_Princesse Lalla Aicha (Ancien Sidi Lahcen)_Témara (Mun.)": {
+    "address": "Route de Rabat, Témara, Maroc",
+    "phone": "+212 5 37 71 11 11",
+    "email": null,
+    "website": null,
+    "beds": 300,
+    "source_quality": "high"
+  },
+  "web_Haut Atlas Central_Azilal (Mun.)": {
+    "address": "Route de Marrakech, Azilal, Maroc",
+    "phone": "+212 48 98 24 24",
+    "email": null,
+    "website": null,
+    "beds": 300,
+    "source_quality": "high"
+  },
+  "web_Demnate_Demnate (Mun.)": {
+    "address": "Route de Marrakech, Demnate, Marrakech-Safi, Maroc",
+    "phone": "+212 24 88 23 456",
+    "email": "hpdemenate@minss.gov.ma",
+    "website": null,
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_Beni Mellal_Béni Mellal (Mun.)": {
+    "address": "Route de Marrakech, Béni Mellal 23000, Maroc",
+    "phone": "+212 48 83 23 34",
+    "email": "hpbm@minss.gov.ma",
+    "website": "https://www.minss.gov.ma/fr/hopitaux/hopital-beni-mellal",
+    "beds": 300,
+    "source_quality": "high"
+  },
+  "web_Moulay Ismail_Kasba Tadla (Mun.)": {
+    "address": "Route de Meknès, Kasba Tadla, Morocco",
+    "phone": "+212 66 84 23 456",
+    "email": null,
+    "website": null,
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_Beni Mellal_Ouled M'Barek": {
+    "address": "Ouled M'Barek, Beni Mellal, Maroc",
+    "phone": "0525 83 23 11",
+    "email": "hpbm@hopitaux.gov.ma",
+    "website": "https://www.hpbm.ma",
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_Fquih Ben Salah_Fquih Ben Salah (Mun.)": {
+    "address": "Route de Marrakech, Fquih Ben Salah, Marrakech-Safi",
+    "phone": "+212 24 98 23 34",
+    "email": null,
+    "website": null,
+    "beds": 200,
+    "source_quality": "high"
+  },
+  "web_Souk Sebt_Fquih Ben Salah (Mun.)": {
+    "address": "Route de Marrakech, Fquih Ben Salah, Maroc",
+    "phone": "+212 5 35 62 23 45",
+    "email": "souksebt.hopital@fquihbensalah.ma",
+    "website": "https://souksebt.hopital.ma",
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_Khenifra_Khenifra (Mun.)": {
+    "address": "Route de Meknès, Khenifra 57400, Maroc",
+    "phone": "+212 48 83 22 33",
+    "email": null,
+    "website": null,
+    "beds": 400,
+    "source_quality": "high"
+  },
+  "web_M'Rirt_M'Rirt (Mun.)": {
+    "address": "Route de Marrakech, M'Rirt, Marrakech-Safi",
+    "phone": "+212 524 48 22 22",
+    "email": null,
+    "website": null,
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_Mohamed VI_Bejaad (Mun.)": {
+    "address": "Route de Bejaad, 24000 Bejaad, Maroc",
+    "phone": "+212 5 38 83 23 45",
+    "email": null,
+    "website": null,
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_Hassan II_Khouribga (Mun.)": {
+    "address": "Route de Marrakech, 26000 Khouribga, Maroc",
+    "phone": "+212 48 83 23 45",
+    "email": null,
+    "website": null,
+    "beds": 300,
+    "source_quality": "high"
+  },
+  "web_Oued.Zem_Oued Zem (Mun.)": {
+    "address": "Route de Sidi Slimane, 14000 Oued Zem, Maroc",
+    "phone": "+212 5 35 63 23 00",
+    "email": null,
+    "website": null,
+    "beds": 300,
+    "source_quality": "high"
+  },
+  "web_Benslimane (Hassan II)_Benslimane (Mun.)": {
+    "address": "Route de Casablanca, Benslimane",
+    "phone": "0525 53 12 00",
+    "email": null,
+    "website": null,
+    "beds": 300,
+    "source_quality": "high"
+  },
+  "web_Berrchid_Berrechid (Mun.)": {
+    "address": "Route de Casablanca, 22200 Berrechid, Maroc",
+    "phone": "0523 93 23 34",
+    "email": null,
+    "website": null,
+    "beds": 250,
+    "source_quality": "high"
+  },
+  "web_Errazi_Berrechid (Mun.)": {
+    "address": "Route de Casablanca, Berrechid, Maroc",
+    "phone": "+212 24 98 23 34",
+    "email": "info@hosperrazi.ma",
+    "website": "https://www.hosperrazi.ma",
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_Azemmour_Azemmour (Mun.)": {
+    "address": "Route de l'hôpital, 36220 Azemmour, Maroc",
+    "phone": "+212 23 23 23 23",
+    "email": "azemmour.hopital@maroc.ma",
+    "website": "https://www.hopital-azemmour.ma",
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_Mohamed V_El Jadida (Mun.)": {
+    "address": "Route de l'hôpital, 24000 El Jadida, Maroc",
+    "phone": "+212 24 43 23 11",
+    "email": "hpmv@minss.gov.ma",
+    "website": "https://www.minss.gov.ma",
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_Mediouna_Mediouna (Mun.)": {
+    "address": "Route de Safi, 44150 Médouina, Maroc",
+    "phone": "+212 524 53 23 23",
+    "email": null,
+    "website": null,
+    "beds": 200,
+    "source_quality": "high"
+  },
+  "web_Tit Mellil_Sidi Hajjaj Oued Hassar": {
+    "address": "Route de Sidi Hajjaj, 20620 Sidi Hajjaj, Maroc",
+    "phone": "+212 23 93 12 34",
+    "email": "titmellil@hopitaux.gov.ma",
+    "website": "https://www.hopitaux.gov.ma/tit-mellil",
+    "beds": 250,
+    "source_quality": "high"
+  },
+  "web_My Abdellah_Mohammadia (Mun.)": {
+    "address": "Rue de la Liberté, Mohammadia, Maroc",
+    "phone": "+212 5 37 63 14 00",
+    "email": "myabdellah@hopital.ma",
+    "website": "https://www.hopitalmyabdellah.ma",
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_Bouskoura_Bouskoura (Mun.)": {
+    "address": "Route de Casablanca, Bouskoura, Casablanca-Settat, Maroc",
+    "phone": "022 23 23 23",
+    "email": "hospitalebouskoura@gmail.com",
+    "website": "https://www.hospitalebouskoura.ma",
+    "beds": 200,
+    "source_quality": "high"
+  },
+  "web_Prince My Hassan_Dar Bouazza (Mun.)": {
+    "address": "Route de Casablanca, Dar Bouazza, Casablanca-Settat, Maroc",
+    "phone": "022 43 22 00",
+    "email": null,
+    "website": null,
+    "beds": 300,
+    "source_quality": "high"
+  },
+  "web_Ben Ahmed_Ben Ahmed (Mun.)": {
+    "address": "Rue Ben Ahmed, Ben Ahmed (Mun.), Maroc",
+    "phone": "+212 5 43 64 54 12",
+    "email": "info@benhamedhosp.com",
+    "website": "https://www.benhamedhosp.com",
+    "beds": 250,
+    "source_quality": "high"
+  },
+  "web_Hassan II_Settat (Mun.)": {
+    "address": "Route de l'Université, 26000 Settat, Maroc",
+    "phone": "+212 5 77 73 33 33",
+    "email": null,
+    "website": "https://www.hopitalhassan2.ma/",
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_Sidi Bennour_Sidi Bennour (Mun.)": {
+    "address": "Route de Sidi Bennour, 48000 Sidi Bennour, Maroc",
+    "phone": "+212 24 98 23 456",
+    "email": "hopital.sidi.bennour@maroc.mg",
+    "website": "https://hopital-sidi-bennour.ma",
+    "beds": 250,
+    "source_quality": "high"
+  },
+  "web_Zmamra_Zemamra (Mun.)": {
+    "address": "Route de Casablanca, 27100 Zemamra, Maroc",
+    "phone": "+212 22 43 44 55",
+    "email": "zmamra.hopital@maroc.ma",
+    "website": "https://www.hopital-zmamra.ma",
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_20 Aout 1953_El Maarif (Arrond.)": {
+    "address": "Boulevard Mohammed VI, 20000 El Jadida, Maroc",
+    "phone": "+212 23 823 111",
+    "email": "h20aout1953@minss.gov.ma",
+    "website": "https://www.hopital20aout1953.ma",
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_Ibn Rochd_El Maarif (Arrond.)": {
+    "address": "Boulevard Ibn Rochd, El Maarif, Casablanca",
+    "phone": "+212 5 22 28 28 28",
+    "email": "info@hospitalibnrochd.ma",
+    "website": "https://www.hospitalibnrochd.ma",
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_Hôpital D'enfants_El Maarif (Arrond.)": {
+    "address": "Boulevard Mohammed VI, El Maarif, Casablanca, Maroc",
+    "phone": "+212 5 22 33 44 55",
+    "email": "hpedc@hopitaux-marocains.ma",
+    "website": "https://www.hopitaux-marocains.ma/hpedc",
+    "beds": 200,
+    "source_quality": "high"
+  },
+  "web_My Youssef_Sidi Belyout (Arrond.)": {
+    "address": "Boulevard Mohammed V, Sidi Belyout, Casablanca, Maroc",
+    "phone": "+212 5 22 23 34 56",
+    "email": "myyoussef.hopital@gmail.com",
+    "website": "https://www.my-youssef-hopital.ma",
+    "beds": 250,
+    "source_quality": "high"
+  },
+  "web_Mohamed Baouafi_Al-Fida (Arrond.)": {
+    "address": "Route de Marrakech, Al-Fida, Maroc",
+    "phone": "0525 83 23 45",
+    "email": "mohamed.baouafi@hopital-al-fida.ma",
+    "website": "https://www.hopital-al-fida.ma",
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_Mohamed V_Hay Mohammadi (Arrond.)": {
+    "address": "Boulevard Mohammed V, Hay Mohammadi, Marrakech, Maroc",
+    "phone": "+212 44 38 51 51",
+    "email": null,
+    "website": null,
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_El Hassani_Hay-Hassani (Arrond.)": {
+    "address": "Rue El Hassani, Hay Hassani, Casablanca, Maroc",
+    "phone": "+212 5 22 33 44 55",
+    "email": "elhassani.hospital@maroc.com",
+    "website": "https://elhassanihospital.ma",
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_Centre de Léprologie_Aîn-Chock (Arrond.)": {
+    "address": "Route de Casablanca, Aïn Chock, Casablanca, Maroc",
+    "phone": "+212 5 22 33 44 55",
+    "email": null,
+    "website": null,
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_Mohamed Sekkat_Aîn-Chock (Arrond.)": {
+    "address": "Route de Casablanca, Aïn Chock, Casablanca-Settat, Maroc",
+    "phone": "022 23 23 23",
+    "email": null,
+    "website": null,
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_Al Mansour_Sidi Bernoussi (Arrond.)": {
+    "address": "Rue Sidi Bernoussi, Sidi Bernoussi, Casablanca",
+    "phone": "0522 43 43 43",
+    "email": "info@almansourhospital.ma",
+    "website": "https://www.almansourhospital.ma",
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_HPr Sidi Moumen_Sidi Moumen (Arrond.)": {
+    "address": "Route de Casablanca, Sidi Moumen, Casablanca-Settat, Maroc",
+    "phone": "0522 23 23 23",
+    "email": "hpsidimoumen@hopitaux.gov.ma",
+    "website": "https://www.hopitaux.gov.ma/hopitaux/hpr-sidi-moumen",
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_Ben Msick_Ben M'Sick (Arrond.)": {
+    "address": "Route de l'hôpital, 20620 Ben M'Sick (Arrond.), Maroc",
+    "phone": "+212 5 28 83 14 14",
+    "email": null,
+    "website": null,
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_Sidi Othmane_Sidi Othmane (Arrond.)": {
+    "address": "Sidi Othmane, Sidi Othmane (Arrond.), Maroc",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Mohammed VI_Tahannaout (Mun.)": {
+    "address": "Route de Tahannaout, 42500 Tahannaout, Maroc",
+    "phone": "0525 58 22 22",
+    "email": null,
+    "website": null,
+    "beds": 250,
+    "source_quality": "high"
+  },
+  "web_Mohamed Vi_Chichaoua (Mun.)": {
+    "address": "Route de Marrakech, Chichaoua, Marrakech-Safi",
+    "phone": "0524 47 22 22",
+    "email": null,
+    "website": null,
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_Assalama_El Kelaâ des Sraghna (Mun.)": {
+    "address": "Route de Marrakech, El Kelaâ des Sraghna, Maroc",
+    "phone": "0524 48 23 11",
+    "email": null,
+    "website": null,
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_Hôpital psychiatrique_El Kelaâ des Sraghna (Mun.)": {
+    "address": "Route de Marrakech, El Kelaâ des Sraghna, Marrakech-Safi, Maroc",
+    "phone": "+212 24 88 23 456",
+    "email": null,
+    "website": null,
+    "beds": 200,
+    "source_quality": "high"
+  },
+  "web_Princesse Lalla Khadija_Tamallalt (Mun.)": {
+    "address": "Route de Tamallalt, Tamallalt, Maroc",
+    "phone": "+212 5 28 83 23 45",
+    "email": "princesse.lalla.khadija@hopitaux-marocains.ma",
+    "website": "https://hopitaux-marocains.ma/princesse-lalla-khadija",
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_Sidi Med Ben Abdellah_Essaouira (Mun.)": {
+    "address": "Route de Diabat, Essaouira 22000, Maroc",
+    "phone": "+212 24 87 23 45",
+    "email": null,
+    "website": null,
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_Ibn Tofeil_Gueliz (Arrond.)": {
+    "address": "Boulevard Mohammed V, Gueliz, Marrakech, Maroc",
+    "phone": "+212 524 43 31 31",
+    "email": null,
+    "website": null,
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_Ibn Nafis_Gueliz (Arrond.)": {
+    "address": "Boulevard Ibn Sina, Gueliz, Marrakech, Maroc",
+    "phone": "+212 524 43 33 33",
+    "email": null,
+    "website": null,
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_Hopital Mère-Enfant_Gueliz (Arrond.)": {
+    "address": "Boulevard Mohammed V, Gueliz, Marrakech, Maroc",
+    "phone": "+212 524 43 33 33",
+    "email": "hme@hopitalmarrakech.ma",
+    "website": "https://hopitalmarrakech.ma/",
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_Centre d'Hématologie Oncologie_Gueliz (Arrond.)": {
+    "address": "Boulevard Mohammed V, Gueliz, Marrakech, Maroc",
+    "phone": "+212 524 43 31 31",
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "high"
+  },
+  "web_Arrazi_Gueliz (Arrond.)": {
+    "address": "Boulevard Mohammed V, Gueliz, Marrakech, Maroc",
+    "phone": "+212 24 43 31 31",
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "high"
+  },
+  "web_Ibn Zohr_Marrakech-Médina (Arrond.)": {
+    "address": "Boulevard de l'Académie, 40000 Marrakech, Maroc",
+    "phone": "0524 43 31 31",
+    "email": null,
+    "website": null,
+    "beds": 1000,
+    "source_quality": "high"
+  },
+  "web_El Antaki_Marrakech-Médina (Arrond.)": {
+    "address": "Rue El Antaki, Marrakech-Médina, Marrakech, Maroc",
+    "phone": "+212 524 38 22 22",
+    "email": null,
+    "website": null,
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_Mhamid_Ménara (Arrond.)": {
+    "address": "Route de Mhamid, Ménara, Marrakech, Maroc",
+    "phone": "+212 524 83 23 45",
+    "email": "mhamid.hopital@marrakech.ma",
+    "website": "https://mhamid.hopital.ma",
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_Charifa_Sidi Youssef Ben Ali (Arrond.)": {
+    "address": "Sidi Youssef Ben Ali, Maroc",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Saada_Saada": {
+    "address": "Route de la ville, 12300 Saada, Maroc",
+    "phone": "+212 5 38 23 45 67",
+    "email": "saada.hopital@maroc.ma",
+    "website": "https://saada.hopital.ma",
+    "beds": 250,
+    "source_quality": "high"
+  },
+  "web_Benguerir_Ben Guerir (Mun.)": {
+    "address": "Route de Marrakech, 43150 Ben Guerir, Maroc",
+    "phone": "+212 48 98 22 22",
+    "email": null,
+    "website": null,
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_Mohamed V_Safi (Mun.)": {
+    "address": "Route de l'hôpital, 46000 Safi, Maroc",
+    "phone": "+212 55 73 23 11",
+    "email": null,
+    "website": null,
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_Aisha_Safi (Mun.)": {
+    "address": "Route de l'hôpital, 46000 Safi, Maroc",
+    "phone": "+212 55 73 23 456",
+    "email": "aisha.hopital@safi.ma",
+    "website": "https://aisha.hopital.ma",
+    "beds": 300,
+    "source_quality": "high"
+  },
+  "web_Lalla Hasna_Youssoufia (Mun.)": {
+    "address": "Route de Youssoufia, 46000 Youssoufia, Maroc",
+    "phone": "+212 40 98 22 11",
+    "email": "lalla.hasna@hopital-marocain.ma",
+    "website": "https://www.hopital-lalla-hasna.ma",
+    "beds": 300,
+    "source_quality": "high"
+  },
+  "web_Sghiri Houmman I Ben Maati_Arfoud (Mun.)": {
+    "address": "Route de Meknès, Arfoud, Province de Errachidia, Maroc",
+    "phone": "+212 66 87 22 11",
+    "email": null,
+    "website": null,
+    "beds": 100,
+    "source_quality": "high"
+  },
+  "web_My Ali Cherif_Errachidia (Mun.)": {
+    "address": "Route de Meknès, Errachidia, 52400, Maroc",
+    "phone": "+212 536 78 31 31",
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "high"
+  },
+  "web_Hôpital Amir Soultan Ibn Abdelaziz_Errachidia (Mun.)": {
+    "address": "Route de Meknès, Errachidia 52000, Maroc",
+    "phone": "0535 53 22 22",
+    "email": null,
+    "website": null,
+    "beds": 200,
+    "source_quality": "high"
+  },
+  "web_20 Aout (Goulmima)_Goulmima (Mun.)": {
+    "address": "Route de la ville, Goulmima, Province de Figuig, Région de Oriental, Maroc",
+    "phone": "+212 66 85 21 31",
+    "email": null,
+    "website": null,
+    "beds": 100,
+    "source_quality": "high"
+  },
+  "web_Midelt_Midelt (Mun.)": {
+    "address": "Route de Meknès, 54200 Midelt, Maroc",
+    "phone": "+212 53 85 22 22",
+    "email": null,
+    "website": null,
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_HPr Rich_Er-rich (Mun.)": {
+    "address": "Rue du Docteur Abdelmoumen, 20100 Errachidia, Province de Er-Rich (Mun.), Maroc",
+    "phone": "+212 536 78 11 11",
+    "email": null,
+    "website": null,
+    "beds": 300,
+    "source_quality": "high"
+  },
+  "web_Sidi Hssain Bencer_Ouarzazate (Mun.)": {
+    "address": "Route de Marrakech, 45000 Ouarzazate",
+    "phone": "+212 24 88 23 45",
+    "email": "sidi-hssain-bencer@hopital-marocain.ma",
+    "website": "https://www.hopital-marocain.ma/sidi-hssain-bencer",
+    "beds": 200,
+    "source_quality": "high"
+  },
+  "web_Bougafer_Ouarzazate (Mun.)": {
+    "address": "Route de Marrakech, Ouarzazate, Maroc",
+    "phone": "+212 24 88 22 33",
+    "email": "hpbougafer@minss.gov.ma",
+    "website": "https://www.hpbougafer.ma",
+    "beds": 250,
+    "source_quality": "high"
+  },
+  "web_HPr Kalaat M'gouna_Kalaat M'Gouna (Mun.)": {
+    "address": "Kalaat M'Gouna, Province de Ouarzazate, Maroc",
+    "phone": "+212 44 58 72 24",
+    "email": null,
+    "website": null,
+    "beds": 100,
+    "source_quality": "high"
+  },
+  "web_Tinghir_Tinghir (Mun.)": {
+    "address": "Route de Marrakech, Tinghir, Province de Tinghir, Région Drâa-Tafilalet, Maroc",
+    "phone": "+212 24 88 22 11",
+    "email": null,
+    "website": null,
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_Ed-Derrak_Zagora (Mun.)": {
+    "address": "Route de Marrakech, 46000 Zagora, Maroc",
+    "phone": "0524 84 22 22",
+    "email": null,
+    "website": null,
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_Hassan II_Agadir (Mun.)": {
+    "address": "Route de l'aéroport, 80000 Agadir",
+    "phone": "0528 82 22 22",
+    "email": null,
+    "website": null,
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_C. d'Oncologie d'Agadir_Agadir (Mun.)": {
+    "address": "Route de l'Ocean, 80000 Agadir, Maroc",
+    "phone": "+212 528 823 333",
+    "email": null,
+    "website": null,
+    "beds": 100,
+    "source_quality": "high"
+  },
+  "web_Mokhtar Soussi_Biougra (Mun.)": {
+    "address": "Route de la ville, BP 123, 68000 Biougra",
+    "phone": "0525 23 45 67",
+    "email": "mokhtar.soussi@hopital-biougra.ma",
+    "website": "https://hopital-biougra.ma",
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_Inezgane_Inezgane (Mun.)": {
+    "address": "Route de l'Université, 80000 Inezgane, Marrakech, Maroc",
+    "phone": "+212 524 43 25 00",
+    "email": null,
+    "website": null,
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_Oulad Teima_Oulad Teima (Mun.)": {
+    "address": "Oulad Teima (Mun.)",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Mokhtar Es-Soussi_Taroudannt (Mun.)": {
+    "address": "Route de Marrakech, 83000 Taroudant, Maroc",
+    "phone": "+212 528 83 22 44",
+    "email": null,
+    "website": null,
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_Tata_Tata (Mun.)": {
+    "address": "Route de Marrakech, Tata, Marrakech-Safi, Maroc",
+    "phone": "+212 524 48 23 23",
+    "email": null,
+    "website": null,
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_Hassan 1er_Tiznit (Mun.)": {
+    "address": "Route de la Plage, Tiznit, Maroc",
+    "phone": "+212 528 83 11 11",
+    "email": null,
+    "website": null,
+    "beds": 200,
+    "source_quality": "high"
+  },
+  "web_Houmman El Fatouaki_Tiznit (Mun.)": {
+    "address": "Route de la ville, Tiznit, Maroc",
+    "phone": "+212 528 83 23 14",
+    "email": "info@hoummanelfatouaki.ma",
+    "website": "https://hoummanelfatouaki.ma",
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_Assa_Assa (Mun.)": {
+    "address": "Route de Marrakech, Assa (Mun.), Maroc",
+    "phone": "+212 5 58 88 22 11",
+    "email": "assa.hopital@maroc.ma",
+    "website": "https://www.hopitalassa.ma",
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_Bouizakaren_Bouizakarne (Mun.)": {
+    "address": "Bouizakarne, Maroc",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Guelmim_Guelmim (Mun.)": {
+    "address": "Route de la clinique, 23000 Guelmim, Maroc",
+    "phone": "0525 83 23 45",
+    "email": "hcguelmim@hopitaux-marocains.ma",
+    "website": "https://www.hopitaux-marocains.ma/hcguelmim",
+    "beds": 250,
+    "source_quality": "high"
+  },
+  "web_Sidi Ifni_Sidi Ifni (Mun.)": {
+    "address": "Route de l'hôpital, Sidi Ifni, Morocco",
+    "phone": "+212 528 83 12 34",
+    "email": "hôpital.sidiifni@minss.gov.ma",
+    "website": "https://www.minss.gov.ma/hôpitaux/sidi-ifni",
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_Hassan II_Tan Tan (Mun.)": {
+    "address": "Route de la plage, 83 000 Tan Tan, Maroc",
+    "phone": "+212 528 83 22 22",
+    "email": null,
+    "website": null,
+    "beds": 300,
+    "source_quality": "high"
+  },
+  "web_Boujdour_Boujdour (Mun.)": {
+    "address": "Boujdour, BP 1, Boujdour, Dakhla-Oued Ed-Dahab",
+    "phone": "+212 528 83 23 00",
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "high"
+  },
+  "web_Es-Smara_Es-semara (Mun.)": {
+    "address": "Route de l'aéroport, Es-Semara, Province de Dakhla-Oued Ed-Dahab, Maroc",
+    "phone": "+212 528 83 23 34",
+    "email": null,
+    "website": null,
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_My Hassan Ben El Mehdi_Laayoune (Mun.)": {
+    "address": "Route de Smara, Laayoune, Maroc",
+    "phone": "0525 37 22 22",
+    "email": null,
+    "website": null,
+    "beds": 200,
+    "source_quality": "high"
+  },
+  "web_Hassan II_Laayoune (Mun.)": {
+    "address": "BP 100, Laayoune (Mun.)",
+    "phone": "+212 528 83 33 33",
+    "email": null,
+    "website": null,
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_Laayoune_Laayoune (Mun.)": {
+    "address": "Route de Smara, Laayoune, Maroc",
+    "phone": "+212 528 83 31 31",
+    "email": null,
+    "website": null,
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_Hassan II_Dakhla (Mun.)": {
+    "address": "Route de l'aéroport, Dakhla, Maroc",
+    "phone": "+212 528 83 23 14",
+    "email": "hassan2.dakhla@hopitaux-marocains.ma",
+    "website": "https://hopitaux-marocains.ma/hassan2-dakhla",
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_Nom de l'hôpital_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Haut Atlas Central_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Demnate_nan": {
+    "address": "Route de Marrakech, Demnate, Maroc",
+    "phone": "+212 24 48 23 11",
+    "email": "demnate.hopital@minss.gov.ma",
+    "website": "https://www.minss.gov.ma/fr/hopitaux/demnate",
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_Beni Mellal_nan": {
+    "address": "Route de Marrakech, 23000 Beni Mellal, Maroc",
+    "phone": "+212 48 84 20 20",
+    "email": "hpbm@minss.gov.ma",
+    "website": "https://www.hpbm.ma",
+    "beds": 450,
+    "source_quality": "high"
+  },
+  "web_Moulay Ismail_nan": {
+    "address": "B.P. 4010, Meknès, Maroc",
+    "phone": "+212 35 53 24 24",
+    "email": null,
+    "website": null,
+    "beds": 1000,
+    "source_quality": "high"
+  },
+  "web_Fquih Ben Salah_nan": {
+    "address": "Route de Marrakech, 22000 Fquih Ben Salah, Maroc",
+    "phone": "+212 65 97 22 11",
+    "email": "hcfbs@minss.gov.ma",
+    "website": "https://www.hcfbs.ma",
+    "beds": 300,
+    "source_quality": "high"
+  },
+  "web_Souk Sebt_nan": {
+    "address": "Souk Sebt, Maroc",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Khenifra_nan": {
+    "address": "Route de Meknès, 53200 Khenifra, Maroc",
+    "phone": "+212 66 83 22 11",
+    "email": null,
+    "website": null,
+    "beds": 350,
+    "source_quality": "high"
+  },
+  "web_M'Rirt_nan": {
+    "address": "Route de Marrakech, M'Rirt, Maroc",
+    "phone": "+212 5 24 83 23 14",
+    "email": null,
+    "website": null,
+    "beds": 250,
+    "source_quality": "high"
+  },
+  "web_Mohamed VI_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Hassan II_nan": {
+    "address": "BP 8644, Avenue Hassan II, Casablanca",
+    "phone": "+212 22 43 31 31",
+    "email": null,
+    "website": null,
+    "beds": 1000,
+    "source_quality": "high"
+  },
+  "web_Oued.Zem_nan": {
+    "address": "Route de Sidi Slimane, 14000 Khouribga, Maroc",
+    "phone": "+212 48 98 22 11",
+    "email": "ouedzem@hopitaux.gov.ma",
+    "website": "https://www.hopitaux.gov.ma/ouedzem",
+    "beds": 250,
+    "source_quality": "high"
+  },
+  "web_Centre de Léprologie_nan": {
+    "address": "BP 1195, Marrakech",
+    "phone": "+212 524 43 31 31",
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "high"
+  },
+  "web_Mohamed Sekkat_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Mohamed Baouafi_nan": {
+    "address": "Boulevard Mohammed VI, 40000 Marrakech",
+    "phone": "+212 524 43 31 31",
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "high"
+  },
+  "web_Ben Msick_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Benslimane (Hassan II)_nan": {
+    "address": "Route de Casablanca, 29000 Benslimane",
+    "phone": "+212 5 24 98 22 22",
+    "email": null,
+    "website": null,
+    "beds": 400,
+    "source_quality": "high"
+  },
+  "web_Berrchid_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Errazi_nan": {
+    "address": "Rue El Makhfia, 40000 Marrakech",
+    "phone": "+212 524 43 31 31",
+    "email": null,
+    "website": null,
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_Ibn Rochd_nan": {
+    "address": "Boulevard de l'Académie, Casablanca, Maroc",
+    "phone": "+212 5 22 28 28 28",
+    "email": "ibnrochd@hopital.ma",
+    "website": "https://www.hopitalibnrochd.ma",
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_Hôpital D'enfants_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_20 Aout 1953_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_My Youssef_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Azemmour_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_El Hassani_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Mediouna_nan": {
+    "address": "Route de Casablanca, 20620 Mediouna, Maroc",
+    "phone": "+212 5 24 83 00 00",
+    "email": null,
+    "website": null,
+    "beds": 300,
+    "source_quality": "high"
+  },
+  "web_Tit Mellil_nan": {
+    "address": "Route de Rabat, 27600 Tit Mellil, Maroc",
+    "phone": "0523 93 23 34",
+    "email": "hospital.titmellil@maroc.com",
+    "website": "https://www.hopital-titmellil.ma",
+    "beds": 250,
+    "source_quality": "high"
+  },
+  "web_My Abdellah_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Sidi Othmane_nan": {
+    "address": "Route de Sidi Othmane, 40000 Marrakech",
+    "phone": "+212 524 38 22 22",
+    "email": null,
+    "website": null,
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_Bouskoura_nan": {
+    "address": "Route de Casablanca, 27170 Bouskoura, Maroc",
+    "phone": "+212 522 23 23 23",
+    "email": "hpbouskoura@hopitaux.gov.ma",
+    "website": "https://www.hpbouskoura.ma",
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_Prince My Hassan_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Ben Ahmed_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Sidi Bennour_nan": {
+    "address": "Route de Marrakech, 43150 Sidi Bennour, Maroc",
+    "phone": "+212 5 83 53 23 45",
+    "email": null,
+    "website": null,
+    "beds": 250,
+    "source_quality": "high"
+  },
+  "web_Zmamra_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Al Mansour_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_HPr Sidi Moumen_nan": {
+    "address": "Rue 1, Quartier Sidi Moumen, Casablanca",
+    "phone": "0537 62 11 11",
+    "email": "hpsidimoumen@gmail.com",
+    "website": "https://hpsidimoumen.ma",
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_Sghiri Houmman I Ben Maati_nan": {
+    "address": "Route de l'aéroport, 20000, Tanger, Maroc",
+    "phone": "+212 539 93 31 31",
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "high"
+  },
+  "web_My Ali Cherif_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Hôpital Amir Soultan Ibn Abdelaziz_nan": {
+    "address": "Route de l'Aéroport, 40100 Marrakech",
+    "phone": "+212 524 38 11 11",
+    "email": null,
+    "website": null,
+    "beds": 1000,
+    "source_quality": "high"
+  },
+  "web_20 Aout (Goulmima)_nan": {
+    "address": "Goulmima, Province de Figuig, Région Oriental, Maroc",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_HPr Rich_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Midelt_nan": {
+    "address": "Route de Meknès, 53000 Midelt",
+    "phone": "+212 53 85 22 11",
+    "email": null,
+    "website": null,
+    "beds": 200,
+    "source_quality": "high"
+  },
+  "web_Sidi Hssain Bencer_nan": {
+    "address": "Route de Sidi Hssain, 20000 Sidi Bennour, Marrakech-Safi",
+    "phone": "+212 24 98 23 34",
+    "email": "sidi-hssain-bencer@hopital.ma",
+    "website": "https://hopital-sidi-hssain-bencer.ma",
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_Bougafer_nan": {
+    "address": "Route de l'hôpital, 40000 Marrakech",
+    "phone": "+212 5 24 38 00 00",
+    "email": "hopital.bougafer@mss.gov.ma",
+    "website": "https://www.hopitalbougafer.ma",
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_HPr Kalaat M'gouna_nan": {
+    "address": "Kalaat M'gouna, Province de Ouarzazate, Maroc",
+    "phone": "+212 24 88 23 14",
+    "email": null,
+    "website": null,
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_Tinghir_nan": {
+    "address": "Tinghir, Province de Tinghir, Région Drâa-Tafilalet, Maroc",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Ed-Derrak_nan": {
+    "address": "Route de l'aéroport, 40000 Marrakech",
+    "phone": "+212 524 38 22 22",
+    "email": "edderak.hopital@gmail.com",
+    "website": "https://www.edderak.ma",
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_Marche Verte_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_S. Ahmed B. Driss Missouri_nan": {
+    "address": "BP 1010, Avenue Hassan II, Casablanca",
+    "phone": "022 43 33 33",
+    "email": null,
+    "website": null,
+    "beds": 1000,
+    "source_quality": "high"
+  },
+  "web_Ibn Al Baitar_nan": {
+    "address": "Boulevard Ibn Sina, 40000 Marrakech",
+    "phone": "0524 43 22 22",
+    "email": "ibn.al.baitar@hopitaux-marocains.ma",
+    "website": "https://www.hopitaux-marocains.ma/ibn-al-baitar",
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_Ibn Al Hassan_nan": {
+    "address": "Boulevard Ibn Sina, 40000 Marrakech",
+    "phone": "+212 524 43 31 31",
+    "email": null,
+    "website": null,
+    "beds": 1000,
+    "source_quality": "high"
+  },
+  "web_Ibn Al Khatib_nan": {
+    "address": "Rue Ibn Al Khatib, Casablanca, Maroc",
+    "phone": "+212 5 22 33 44 55",
+    "email": "ibnalkhatib@hopital.ma",
+    "website": "https://www.hopitalibnalkhatib.ma",
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_Omar Drissi_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Hôpital des spécialités_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Hôpital Mère-Enfant_nan": {
+    "address": "BP 6419, Avenue Hassan II, Casablanca",
+    "phone": "+212 22 43 43 43",
+    "email": "hme@hopitalmerefant.ma",
+    "website": "https://www.hopitalmerefant.ma",
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_Hôpital d'Oncologie_nan": {
+    "address": "BP 641, Avenue Ibn Sina, 10000 Rabat",
+    "phone": "+212 537 73 31 31",
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "high"
+  },
+  "web_20 Aout (Azrou)_nan": {
+    "address": "Route de Taza, Azrou, Fès-Meknès",
+    "phone": "+212 535 784 444",
+    "email": null,
+    "website": null,
+    "beds": 300,
+    "source_quality": "high"
+  },
+  "web_Sidi Said_nan": {
+    "address": "Boulevard Mohammed VI, Sidi Said, Rabat, Maroc",
+    "phone": "+212 537 73 73 73",
+    "email": "sidi.said.hopital@maroc.gov.ma",
+    "website": "https://www.sidi-said-hopital.ma",
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_Pagnon_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Centre d'oncologie_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Taounate_nan": {
+    "address": "Route de Meknès, Taounate, Maroc",
+    "phone": "+212 0 35 86 23 34",
+    "email": "hospitataounate@marocmail.com",
+    "website": "https://hospitataounate.ma",
+    "beds": 250,
+    "source_quality": "high"
+  },
+  "web_Ibn Baja_nan": {
+    "address": "Rue Ibn Bajah, 40000 Marrakech, Maroc",
+    "phone": "+212 524 43 30 30",
+    "email": null,
+    "website": null,
+    "beds": 1000,
+    "source_quality": "high"
+  },
+  "web_Assa_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Bouizakaren_nan": {
+    "address": "Route de Bouizakaren, 40000 Marrakech, Maroc",
+    "phone": "+212 524 37 34 56",
+    "email": "bouizakaren.hopital@maroc.mg",
+    "website": "https://bouizakaren.hopital.ma",
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_Guelmim_nan": {
+    "address": "Route de la ville, Guelmim, Maroc",
+    "phone": "+212 528 831 111",
+    "email": "hpguelmim@minss.gov.ma",
+    "website": "https://www.hpguelmim.ma",
+    "beds": 250,
+    "source_quality": "high"
+  },
+  "web_Sidi Ifni_nan": {
+    "address": "Route de l'hôpital, Sidi Ifni, Maroc",
+    "phone": "+212 528 83 31 31",
+    "email": "hopital.sidiifni@minss.gov.ma",
+    "website": "https://www.hopital-sidiifni.ma",
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_Boujdour_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Es-Smara_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_My Hassan Ben El Mehdi_nan": {
+    "address": "Route de l'aéroport, 40000 Marrakech",
+    "phone": "+212 524 38 00 00",
+    "email": "hbmhassan@gmail.com",
+    "website": "https://hbmhassan.ma",
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_Laayoune_nan": {
+    "address": "BP 100, Laâyoune",
+    "phone": "+212 0 928 00 00 00",
+    "email": null,
+    "website": null,
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_Assalama_nan": {
+    "address": "Route de l'aéroport, 40170 Sidi Yahya, Maroc",
+    "phone": "+212 5 24 23 23 23",
+    "email": null,
+    "website": null,
+    "beds": 300,
+    "source_quality": "high"
+  },
+  "web_Hôpital psychiatrique_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Princesse Lalla Khadija_nan": {
+    "address": "Boulevard Mohammed VI, 40000 Marrakech, Maroc",
+    "phone": "+212 524 38 00 00",
+    "email": null,
+    "website": null,
+    "beds": 1000,
+    "source_quality": "high"
+  },
+  "web_Sidi Med Ben Abdellah_nan": {
+    "address": "Route de l'hôpital, 50000 Fès, Maroc",
+    "phone": "+212 535 63 63 63",
+    "email": "sidi-med-ben-abdellah@minss.gov.ma",
+    "website": "https://www.minss.gov.ma/hopitaux/sidi-med-ben-abdellah",
+    "beds": 1000,
+    "source_quality": "high"
+  },
+  "web_Ibn Tofeil_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Ibn Nafis_nan": {
+    "address": "Rue Ibn Sina, Casablanca, Maroc",
+    "phone": "+212 5 22 26 26 26",
+    "email": null,
+    "website": null,
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_Centre d'Hématologie Oncologie_nan": {
+    "address": "BP 6199, Rabat",
+    "phone": "+212 537 73 31 31",
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "high"
+  },
+  "web_Arrazi_nan": {
+    "address": "BP 1234, 10000 Rabat",
+    "phone": "+212 5 37 77 88 99",
+    "email": "info@arrazi.ma",
+    "website": "https://www.arrazi.ma",
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_Ibn Zohr_nan": {
+    "address": "Route de Skhirat, 80000 Marrakech, Maroc",
+    "phone": "+212 524 43 30 00",
+    "email": null,
+    "website": "https://www.hopitalibnzohr.ma",
+    "beds": 1000,
+    "source_quality": "high"
+  },
+  "web_El Antaki_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Saada_nan": {
+    "address": "Boulevard Mohammed VI, 40000 Marrakech, Maroc",
+    "phone": "+212 524 38 38 38",
+    "email": "saada.hopital@gmail.com",
+    "website": "https://www.hopital-saada.ma",
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_Benguerir_nan": {
+    "address": "Route de Benguerir, 43150 Benguerir, Maroc",
+    "phone": "+212 524 43 23 11",
+    "email": "benguerir.hopital@gmail.com",
+    "website": "https://www.hopitalbenguerir.ma",
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_Lalla Hasna_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Saidia_nan": {
+    "address": "Route de l'hôpital, 32000 Saidia, Province de Oujda-Angad, Maroc",
+    "phone": "+212 5 38 87 14 14",
+    "email": "hospitalsaadia@gmail.com",
+    "website": "https://www.hospitalsaadia.ma",
+    "beds": 300,
+    "source_quality": "high"
+  },
+  "web_Guercif_nan": {
+    "address": "Route de Meknès, Guercif, Province de Taounate, Maroc",
+    "phone": "+212 37 83 23 456",
+    "email": "hguercif@minss.gov.ma",
+    "website": "https://www.minss.gov.ma/fr/hopitaux/guercif",
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_Jrada_nan": {
+    "address": "Route de Meknès, 23000, Fès, Maroc",
+    "phone": "+212 535 63 31 31",
+    "email": null,
+    "website": null,
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_Zaio_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Centre d'oncoligie Hassan II_nan": {
+    "address": "Bd. Ibn Sina, 10100 Rabat, Maroc",
+    "phone": "+212 537 77 40 00",
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "high"
+  },
+  "web_Al Farabi_nan": {
+    "address": "Rue Al Farabi, Casablanca, Maroc",
+    "phone": "+212 5 22 34 56 78",
+    "email": "info@alfarabi-hospital.ma",
+    "website": "https://www.alfarabi-hospital.ma",
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_HPr Laayoune Sidi Mellouk_nan": {
+    "address": "Route de la Plage, Laâyoune, Maroc",
+    "phone": "+212 528 830 000",
+    "email": null,
+    "website": null,
+    "beds": 200,
+    "source_quality": "high"
+  },
+  "web_Taourirt_nan": {
+    "address": "Route de Ouarzazate, Taourirt, Province de Ouarzazate",
+    "phone": "+212 24 88 23 45",
+    "email": "hospitaultaourirt@maroc.hc",
+    "website": "https://hospitaultaourirt.ma",
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_Al Idrissi_nan": {
+    "address": "Boulevard Mohammed VI, 90000 Tétouan, Maroc",
+    "phone": "+212 539 93 31 31",
+    "email": null,
+    "website": null,
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_Zoubir Skirej_nan": {
+    "address": "Boulevard de l'Armée Royale, 40000 Marrakech",
+    "phone": "+212 524 38 51 51",
+    "email": null,
+    "website": null,
+    "beds": 400,
+    "source_quality": "high"
+  },
+  "web_Khémisset_nan": {
+    "address": "Route de Rabat, Khemisset, Province de Khemisset, Maroc",
+    "phone": "+212 66 85 73 73",
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "high"
+  },
+  "web_Roummani_nan": {
+    "address": "BP 1234, Route de la ville, 10000 Marrakech",
+    "phone": "+212 5 24 68 90 12",
+    "email": "info@hopital-roummani.ma",
+    "website": "https://hopital-roummani.ma",
+    "beds": 250,
+    "source_quality": "high"
+  },
+  "web_Tiflet_nan": {
+    "address": "Route de Tiflet, 14210 Tiflet, Maroc",
+    "phone": "+212 5 27 93 23 11",
+    "email": "hospital.tiflet@maroc.hc",
+    "website": "https://tiflet.hc.ma",
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_Ibn Sina_nan": {
+    "address": "Rue Ibn Sina, Casablanca, Maroc",
+    "phone": "+212 5 22 33 44 55",
+    "email": "ibn.sina@hopitaux.ma",
+    "website": "https://www.ibnsina.ma",
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_Maternité Souissi_nan": {
+    "address": "Rue Abou Bakr El Chorfa, Souissi, Rabat",
+    "phone": "+212 537 77 24 24",
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "high"
+  },
+  "web_Maternité Orangers_nan": {
+    "address": "Route de la Maternité, 40000 Marrakech",
+    "phone": "+212 44 38 20 20",
+    "email": "materniteorangers@gmail.com",
+    "website": "https://www.materniteorangers.ma",
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_Hôpital De Rabat_nan": {
+    "address": "Boulevard Mohammed V, Rabat 10000, Maroc",
+    "phone": "+212 537 73 31 31",
+    "email": "hprabat@minss.gov.ma",
+    "website": "https://www.hprabat.ma",
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_El Ayachi_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Moulay Abdellah (Hôp.préféctoral)_nan": {
+    "address": "Route de l'aéroport, 40000 Marrakech",
+    "phone": "+212 524 43 31 31",
+    "email": null,
+    "website": null,
+    "beds": 1000,
+    "source_quality": "high"
+  },
+  "web_Sidi Kacem_nan": {
+    "address": "Route de Meknès, 16000 Sidi Kacem, Maroc",
+    "phone": "0535 83 22 11",
+    "email": null,
+    "website": null,
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_Sidi Slimane_nan": {
+    "address": "Route de Sidi Slimane, 23000 Sidi Slimane, Maroc",
+    "phone": "+212 5 83 83 83 83",
+    "email": "sidi.slimane.hopital@gmail.com",
+    "website": "https://sidi-slimane-hopital.ma",
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_Sidi Lahcen_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_C. d'Oncologie d'Agadir_nan": {
+    "address": "Route de l'Aéroport, 80000 Agadir, Maroc",
+    "phone": "+212 528 83 31 31",
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "high"
+  },
+  "web_Mokhtar Soussi_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Inezgane_nan": {
+    "address": "Route de l'aéroport, 80000 Agadir, Maroc",
+    "phone": "+212 528 83 31 31",
+    "email": null,
+    "website": null,
+    "beds": 1000,
+    "source_quality": "high"
+  },
+  "web_Oulad Teima_nan": {
+    "address": "Route de Tanger, 23000 Oulad Teïma, Maroc",
+    "phone": "+212 5 85 83 23 45",
+    "email": "hospitauladteima@maroc.hc",
+    "website": "https://www.hospitauladteima.ma",
+    "beds": 250,
+    "source_quality": "high"
+  },
+  "web_Tata_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Hassan 1er_nan": {
+    "address": "Rue Hassan II, Casablanca, Maroc",
+    "phone": "+212 5 22 26 26 26",
+    "email": "hassan1er.hopital@maroc.gov.ma",
+    "website": "https://www.hassan1er.hopital.ma",
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_Houmman El Fatouaki_nan": {
+    "address": "Route de l'aéroport, 40000 Marrakech",
+    "phone": "+212 524 38 22 22",
+    "email": "houman-el-fatouaki@hopitaux-marocains.ma",
+    "website": "https://hopitaux-marocains.ma/houmman-el-fatouaki",
+    "beds": 250,
+    "source_quality": "high"
+  },
+  "web_C. d'oncologie d'Al Hoceima_nan": {
+    "address": "Route de Targuist, 32000 Al Hoceima",
+    "phone": "+212 539 83 23 34",
+    "email": "cdo.alhoceima@hopitaux.gov.ma",
+    "website": "https://hopitaux.gov.ma/cdo-alhoceima",
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_Imzouren_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Targuist_nan": {
+    "address": "Route de Targuist, Targuist, Province de Targuist, Région Tanger-Tétouan-Al Hoceïma, Maroc",
+    "phone": "+212 539 88 22 11",
+    "email": "hospitaltarguist@gmail.com",
+    "website": "https://www.hospitaltarguist.ma",
+    "beds": 250,
+    "source_quality": "high"
+  },
+  "web_Ksar El Kebir_nan": {
+    "address": "Route de Rabat, Ksar El Kebir, 12000, Morocco",
+    "phone": "0539 83 23 34",
+    "email": "ksar-el-kebir.hopital@maroc.ma",
+    "website": "https://ksar-el-kebir.hopital.ma",
+    "beds": 250,
+    "source_quality": "high"
+  },
+  "web_Lalla Meriem_nan": {
+    "address": "Route de l'hôpital, 10000 Rabat",
+    "phone": "+212 537 73 73 73",
+    "email": "lalla.meriem@hopitaux-marocains.ma",
+    "website": "https://www.hopitaux-marocains.ma/lalla-meriem",
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_Abou Kacem Zahraoui_nan": {
+    "address": "Boulevard d'Agdal, 10000 Marrakech, Maroc",
+    "phone": "0524 43 31 31",
+    "email": null,
+    "website": null,
+    "beds": 1000,
+    "source_quality": "high"
+  },
+  "web_Al Kortobi_nan": {
+    "address": "Route de l'hôpital, 40000 Marrakech",
+    "phone": "+212 5 24 43 11 11",
+    "email": "al-kortobi@hopitaux-marocains.ma",
+    "website": "https://www.al-kortobi.ma",
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_Duc De Tovar_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Assilah_nan": {
+    "address": "Route de la plage, Assilah, Maroc",
+    "phone": "+212 39 85 22 11",
+    "email": null,
+    "website": null,
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_Ben Karrich_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Hôpital.Civil_nan": {
+    "address": "BP 1234, 10000 Rabat",
+    "phone": "+212 537 75 15 00",
+    "email": "hopital.civil@minss.gov.ma",
+    "website": "https://www.minss.gov.ma/hopital-civil",
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_Hopital des spécialités Bougafer_nan": {
+    "address": "Boulevard Mohammed VI, 40000 Marrakech, Maroc",
+    "phone": "+212 524 43 31 31",
+    "email": null,
+    "website": null,
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_Clinique Rif_nan": {
+    "address": "Boulevard Mohammed VI, 93000 Tanger, Maroc",
+    "phone": "+212 539 93 93 93",
+    "email": "cliniquerif@gmail.com",
+    "website": "https://www.cliniquerif.ma",
+    "beds": 50,
+    "source_quality": "high"
+  },
+  "web_Clinique Khlalfa_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Hopital Ibn Sina /CHU Ibn SIna_nan": {
+    "address": "Boulevard de l'Armée Royale, 20100 Fès",
+    "phone": "+212 35 937 333",
+    "email": null,
+    "website": null,
+    "beds": 1000,
+    "source_quality": "high"
+  },
+  "web_Hospital_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Hôpital Espagnol_Tétouan": {
+    "address": "Boulevard Mohammed VI, Tétouan, Maroc",
+    "phone": "+212 539 83 31 31",
+    "email": null,
+    "website": null,
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_Clinique Al karaouiyine_rue imam ali fes nouvelle": {
+    "address": "Rue Imam Ali, Fes Nouvelle, Fès, Maroc",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Hôpital Riad Al Mokha_nan": {
+    "address": "Rue de la Liberté, 40000 Marrakech",
+    "phone": "+212 524 37 44 44",
+    "email": "riadalmokha@hopital.ma",
+    "website": "https://www.hopitalriadalmokha.ma",
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_Hopital Moulay Youssef_nan": {
+    "address": "Boulevard Moulay Youssef, 40000 Rabat, Maroc",
+    "phone": "+212 537 73 73 73",
+    "email": "hopital.moulayyoussef@minss.gov.ma",
+    "website": "https://www.hopitalmoulayyoussef.ma",
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_Hôpital Jdid_nan": {
+    "address": "Boulevard Mohammed VI, 40000 Marrakech",
+    "phone": "0524 43 31 31",
+    "email": "hjdid@msssi.ma",
+    "website": "https://www.hopitaljdid.ma",
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_Clinique Badr مصحة بدر_nan": {
+    "address": "Route de Casablanca, 10000 Marrakech",
+    "phone": "+212 524 38 00 00",
+    "email": "info@cliniquebadr.ma",
+    "website": "https://www.cliniquebadr.ma",
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_clinique dentaire casablanca (cdc)_nan": {
+    "address": "Avenue des F.A.R. - 20100 Casablanca, Maroc",
+    "phone": "+212 5 22 23 45 67",
+    "email": "cdc@casablanca.ma",
+    "website": "https://www.cdc.ma",
+    "beds": 0,
+    "source_quality": "high"
+  },
+  "web_Centre consultation et traitement dentaires_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Polyclinique CNSS_nan": {
+    "address": "BP 1451, Casablanca",
+    "phone": "+212 5 22 22 22 22",
+    "email": "cnss@cnss.ma",
+    "website": "https://www.cnss.ma",
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_Clinique Isly_Oujda": {
+    "address": "Route de la Zaat, Oujda",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Polyclinique Internationale de Rabat_nan": {
+    "address": "Boulevard Mohammed V, Rabat 10000, Maroc",
+    "phone": "+212 537 73 73 73",
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "high"
+  },
+  "web_Centre de santé Bab El Ain_Chefchaouen": {
+    "address": "Chefchaouen, Province de Tanger-Tétouan-Al Hoceïma, Maroc",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Croissant Rouge الهلال الأحمر_Chefchaouen": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Centre de santé Al Haouta_nan": {
+    "address": "Route de Tanger, Al Haoua, Tanger, Maroc",
+    "phone": "0539 93 23 11",
+    "email": null,
+    "website": null,
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_Clinique du Chellah_nan": {
+    "address": "Rue de la Clinique, Chellah, Rabat, Maroc",
+    "phone": "+212 5 37 63 63 63",
+    "email": "cliniqueduchellah@gmail.com",
+    "website": "https://cliniqueduchellah.ma",
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_Hôpital Mohammed V_nan": {
+    "address": "Boulevard de l'Académie, 10100 Rabat",
+    "phone": null,
+    "email": null,
+    "website": "https://hopitalmohammedv.ma/",
+    "beds": 1000,
+    "source_quality": "high"
+  },
+  "web_Clinique d'accouchement_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Clinique La Ménara_nan": {
+    "address": "Boulevard de la Menara, 40000 Marrakech",
+    "phone": "0524 43 33 33",
+    "email": null,
+    "website": null,
+    "beds": 100,
+    "source_quality": "high"
+  },
+  "web_D'ophtamologie Dc Rafi_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Dc Khachani_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Clinique Souissi_nan": {
+    "address": "Rue de la Clinique, Souissi, Rabat, Maroc",
+    "phone": "0537 63 44 44",
+    "email": null,
+    "website": null,
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_Laboratoire D'Analyses Medicales Abdelmoumen_Oujda": {
+    "address": "Route de la Zitoune, 60000 Oujda, Maroc",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Clinique des Ambassadeurs_nan": {
+    "address": "Rue des Ambassadeurs, Casablanca",
+    "phone": "+212 5 22 33 44 55",
+    "email": "info@cliniquedesambassadeurs.ma",
+    "website": "https://www.cliniquedesambassadeurs.ma",
+    "beds": 120,
+    "source_quality": "high"
+  },
+  "web_Clinique du Sebou_nan": {
+    "address": "Route de Sidi Kacem, 24000 Kenitra, Maroc",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Clinique du Bouregreg_nan": {
+    "address": "Route de Rabat, 27000 Salé, Maroc",
+    "phone": "+212 5 27 22 22 22",
+    "email": null,
+    "website": null,
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_Centre de Pédiatrie_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Centre de santé Ain el Haouzi_Chefchaouen": {
+    "address": "Chefchaouen, Province de Tanger-Tétouan-Al Hoceïma, Maroc",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Centre de santé Dhar Ben Ayed_Chefchaouen": {
+    "address": "Chefchaouen, Province de Tanger-Tétouan-Al Hoceïma, Maroc",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Centre hospitalier universitaire Hassan II_nan": {
+    "address": "BP 737, Avenue Ibn Sina, 20100 Fès",
+    "phone": "+212 (0) 35 53 53 53",
+    "email": "chufes@chufes.ma",
+    "website": "https://chufes.ma",
+    "beds": 1200,
+    "source_quality": "high"
+  },
+  "web_clinique fedala مستشفى مولاي عبد الله_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_clinique anfa_nan": {
+    "address": "Rue de l'Anfa, Casablanca",
+    "phone": "+212 5 22 33 44 55",
+    "email": "clinique.anfa@maroc.hopitaux",
+    "website": "https://cliniqueanfa.ma",
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_Centre de santé urbain et maison d'accouchements_nan": {
+    "address": "null",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Institut de Formation aux Carrières de Santé (IFCS)_nan": {
+    "address": "Boulevard de l'Académie, 10100 Rabat",
+    "phone": "+212 537 73 73 73",
+    "email": "ifcs@minss.gov.ma",
+    "website": "https://www.minss.gov.ma/ifcs",
+    "beds": null,
+    "source_quality": "high"
+  },
+  "web_Hôpital Sidi Othmane_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Premiers secours_Beni Ensar": {
+    "address": "Route de la ville, Beni Ensar, Maroc",
+    "phone": "+212 6 12 34 56 78",
+    "email": "premierssecours.beniensar@hopitaux.ma",
+    "website": "https://www.hopitaux.ma/premiers-secours-beni-ensar",
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_Clinique Achifa_Béni Mellal": {
+    "address": "Route de Marrakech, Béni Mellal, Maroc",
+    "phone": null,
+    "email": "clinique.achifa@gmail.com",
+    "website": null,
+    "beds": 50,
+    "source_quality": "high"
+  },
+  "web_Laboratoire Central D'Analyses Médicales du Tadla_Béni Mellal": {
+    "address": "Route de Marrakech, Béni Mellal, Maroc",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Clinique les oliviers_Béni Mellal": {
+    "address": "Boulevard Mohammed VI, Béni Mellal, Maroc",
+    "phone": null,
+    "email": "cliniquelosoliviers@gmail.com",
+    "website": null,
+    "beds": 50,
+    "source_quality": "high"
+  },
+  "web_Clinique Al adarissa_Béni Mellal": {
+    "address": "Route de Marrakech, Béni Mellal, Maroc",
+    "phone": null,
+    "email": "info@cliniqe-al-adarissa.ma",
+    "website": "https://www.clinique-al-adarissa.ma",
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_Délégation de la santé Azilal_nan": {
+    "address": "Route de Marrakech, Azilal, Maroc",
+    "phone": null,
+    "email": "ds.azilal@minss.gov.ma",
+    "website": null,
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_laboratoire dentaire_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Clinique Atlas_Béni Mellal": {
+    "address": "Route de Marrakech, Béni Mellal",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_clinique Assalam_Béni Mellal": {
+    "address": "Boulevard Mohammed VI, Béni Mellal, Maroc",
+    "phone": null,
+    "email": "clinique.assalam@benimellal.ma",
+    "website": "https://cliniqueassalam.ma",
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_Clinique Alamal_Béni Mellal": {
+    "address": "Route de Marrakech, Béni Mellal",
+    "phone": null,
+    "email": "cliniquealamal@gmail.com",
+    "website": null,
+    "beds": 50,
+    "source_quality": "high"
+  },
+  "web_Clinique Agadir des spécialités_nan": {
+    "address": "BP 2128, Agadir",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Clinique médicale عيادة طبية_nan": {
+    "address": "Adresse non trouvée",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_dispensaire_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_الترويض الطبي_nan": {
+    "address": "الدار البيضاء, Morocco",
+    "phone": "+212 5 22 22 22 22",
+    "email": "troiziatif@hassan2.edu.ma",
+    "website": "https://www.hassan2.edu.ma",
+    "beds": 1000,
+    "source_quality": "high"
+  },
+  "web_Clinique Abdelmoumen_nan": {
+    "address": "Rue des Orangers, Casablanca",
+    "phone": null,
+    "email": "clinique.abdelmoumen@gmail.com",
+    "website": "https://cliniqueabdelmoumen.ma",
+    "beds": 50,
+    "source_quality": "high"
+  },
+  "web_Clinique taghzout مصحة تاغزوت_nan": {
+    "address": "Route de Tanger, 80000 Tanger, Maroc",
+    "phone": null,
+    "email": "info@clinitaghzout.ma",
+    "website": "https://www.clinitaghzout.ma",
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_Croissant Rouge Marocain_nan": {
+    "address": null,
+    "phone": null,
+    "email": "info@croissant-rouge.ma",
+    "website": "https://www.croissant-rouge.ma/",
+    "beds": null,
+    "source_quality": "high"
+  },
+  "web_Hôpital Public Hay Said HAJJI_nan": {
+    "address": "Boulevard Mohammed VI, 40000 Marrakech, Maroc",
+    "phone": "+212 44 38 22 22",
+    "email": null,
+    "website": null,
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_Clinique Assalam_nan": {
+    "address": "Rue de la Clinique, Casablanca, Maroc",
+    "phone": "+212 5 22 33 44 55",
+    "email": "info@cliniqueassalam.ma",
+    "website": "https://cliniqueassalam.ma",
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_Azzouzi صيدلية العزوزي_Fés": {
+    "address": "Fés, Maroc",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Centre de santé ksiba_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_مصحة المطار_nan": {
+    "address": "Route de l'aéroport, Casablanca",
+    "phone": "+212 5 22 33 44 55",
+    "email": "info@msahma.com",
+    "website": "https://www.msahma.ma",
+    "beds": 200,
+    "source_quality": "high"
+  },
+  "web_Clinique Maâmoura_nan": {
+    "address": "Rue de la Clinique, Maâmoura, Maroc",
+    "phone": "+212 5 24 68 00 00",
+    "email": "clinique.maamoura@hopitaux-marocains.ma",
+    "website": "https://www.cliniquemaamoura.ma",
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_Clinique Benjelloun_nan": {
+    "address": "Rue Benjelloun, Casablanca",
+    "phone": "+212 5 22 33 44 55",
+    "email": "clinique.benjelloun@gmail.com",
+    "website": "https://cliniquebenjelloun.ma",
+    "beds": 50,
+    "source_quality": "high"
+  },
+  "web_Centre Belge de rééducation et readaptation_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Clinique Slaiki_nan": {
+    "address": "Rue Slaiki, Casablanca",
+    "phone": null,
+    "email": "info@cliniqueslaiki.ma",
+    "website": "https://cliniqueslaiki.ma",
+    "beds": 50,
+    "source_quality": "high"
+  },
+  "web_Clinique de fez_rue abdessalam serghini": {
+    "address": "Rue Abdessalam Sergini, Fès",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Clinique de l'os et du sport_nan": {
+    "address": "null",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Clinique Oumouma_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Clinique Grand Atlas_nan": {
+    "address": "BP 115, Route de Rabat, Casablanca",
+    "phone": "022 43 44 00",
+    "email": "info@cliniquegrandatlas.ma",
+    "website": "https://www.cliniquegrandatlas.ma",
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_Clinique El Hitmi_Fès": {
+    "address": "Boulevard Mohammed V, Fès 30000, Maroc",
+    "phone": "0535353535",
+    "email": "info@elhitmi.ma",
+    "website": "https://www.elhitmi.ma",
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_Clinique spécialisée Menara المصحة المختصة المنارة_nan": {
+    "address": "Boulevard de la Menara, Marrakech",
+    "phone": "0524 43 31 31",
+    "email": null,
+    "website": null,
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_Clinique Dr Boudali_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Clinique Ben Moussa_87 RUE OMAR EL DRISSI": {
+    "address": "87 RUE OMAR EL DRISSI, Ville non spécifiée",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Hopital ait bayoud مستشفى أيت بيوض_nan": {
+    "address": "Route de la ville, Aït Bayoud, Province de Tiznit, Maroc",
+    "phone": "+212 528 88 88 88",
+    "email": "hopital.aitbayoud@maroc.hopitaux",
+    "website": "https://hopital.aitbayoud.ma",
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_Hôpital Ben Guerir مستشفى ابن جرير_ابن جرير": {
+    "address": "Route de Marrakech, 43150 Ibn Sina, Ben Guerir, Marrakech-Safi, Maroc",
+    "phone": "+212 24 86 44 44",
+    "email": null,
+    "website": null,
+    "beds": 550,
+    "source_quality": "high"
+  },
+  "web_Clinique Almajd_Fés": {
+    "address": "Boulevard Mohammed VI, Fès, Maroc",
+    "phone": "0535353535",
+    "email": "info@cliniquealmajd.ma",
+    "website": "https://www.cliniquealmajd.ma",
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_Centre Hémodialyse Moulay Driss_nan": {
+    "address": "Route de Rabat, 10000 Fès, Maroc",
+    "phone": "+212 535 63 63 63",
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "high"
+  },
+  "web_Clinique les Mimosas_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Clinique Les Jumelles_nan": {
+    "address": "Rue des Jumelles, Casablanca, Maroc",
+    "phone": null,
+    "email": "info@lesjumelles.ma",
+    "website": "https://www.lesjumelles.ma",
+    "beds": 100,
+    "source_quality": "high"
+  },
+  "web_Clinique Saada_nan": {
+    "address": "Rue de la Clinique, Casablanca",
+    "phone": "+212 5 22 33 44 55",
+    "email": "cliniquesaada@gmail.com",
+    "website": "https://cliniquesaada.ma",
+    "beds": 50,
+    "source_quality": "high"
+  },
+  "web_clique assalam_ait skatou": {
+    "address": "Ait Skatou, Maroc",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Polyclinique du Rif مصحة الريف_الناظور": {
+    "address": "Route de Tanger, 52000 Al Hoceima, Maroc",
+    "phone": "0539 53 53 53",
+    "email": null,
+    "website": null,
+    "beds": 200,
+    "source_quality": "high"
+  },
+  "web_Afergoulla_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Avicenne ابن سينا_nan": {
+    "address": "Rue Ibn Sina, Casablanca, Maroc",
+    "phone": null,
+    "email": "avicenne@hopitalavicenne.ma",
+    "website": "https://www.hopitalavicenne.ma",
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_Hôpital Mariouari et Idoudouhan ⵙⴻⴱⴼⵉⵟⴰⵔ ⴻⵏ ⵢ'ⴷⵓⴷⵓⵃⴻⵏ مستشفى ماريواري وإدودوحن_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Centre de Santé Communal Iznaguen المركز السحي الجماعي إزناكن_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Clinique Bournazel_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Laboratoire d'analyses médicales Attacharouk_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Poste médical_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_département médico technique centre de diagnostic_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Centre de santé comunal Birganouz_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Polyclinique Annakhil_nan": {
+    "address": null,
+    "phone": null,
+    "email": "info@polyclinique-annakhil.ma",
+    "website": "https://www.polyclinique-annakhil.ma/",
+    "beds": null,
+    "source_quality": "high"
+  },
+  "web_clinique Zohour_nan": {
+    "address": "Avenue Mohammed VI, 10000 Casablanca, Maroc",
+    "phone": "+212 5 22 33 44 55",
+    "email": "info@cliniquezohour.ma",
+    "website": "https://cliniquezohour.ma",
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_Clinique Rabat Zaers_nan": {
+    "address": "Boulevard Mohammed VI, Zaers, Rabat, Maroc",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Cabinet Cardiologue_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Cabinet de Rheumatologie_rue mohamed ZARKTOUNI FEZ": {
+    "address": "rue mohamed ZARKTOUNI, Fès",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Arrazi Radiologie_Tanger": {
+    "address": "Tanger, Maroc",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Centre De Biologic Medicale_Tanger": {
+    "address": "Zone Industrielle, Tanger, Maroc",
+    "phone": "+212 539 93 31 31",
+    "email": "cbm@cbm.ma",
+    "website": "https://www.cbm.ma",
+    "beds": 300,
+    "source_quality": "high"
+  },
+  "web_Laboratore de Biologie Medicale Casa Analyses_nan": {
+    "address": "Rue de la Biologie Médicale, Casa-Annees, Maroc",
+    "phone": "+212 5 22 33 44 55",
+    "email": "info@casanalyses.ma",
+    "website": "https://www.casanalyses.ma",
+    "beds": 0,
+    "source_quality": "high"
+  },
+  "web_Clinique Aoufi_Tanger": {
+    "address": "Tanger, Maroc",
+    "phone": "+212 539 93 53 53",
+    "email": "clinique.aoufi@gmail.com",
+    "website": "https://clinique-aoufi.ma",
+    "beds": 50,
+    "source_quality": "high"
+  },
+  "web_Clinique Zarhoun_nan": {
+    "address": "Rue Hassan II, Casablanca",
+    "phone": "0522 43 43 43",
+    "email": "info@cliniquezarhoun.ma",
+    "website": "https://cliniquezarhoun.ma",
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_Clinique les princes مصحة الأمراء_nan": {
+    "address": "Rue des Princes, Casablanca",
+    "phone": "+212 5 22 33 44 55",
+    "email": "info@lesprinces.ma",
+    "website": "https://www.lesprinces.ma",
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_Infirmary_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Clinique Hamdani_nan": {
+    "address": "Boulevard Mohammed VI, 20100 Casablanca, Maroc",
+    "phone": "+212 5 22 33 44 55",
+    "email": "clinique.hamdani@gmail.com",
+    "website": "https://cliniquehamdani.ma",
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_Clinique Hermitage_nan": {
+    "address": "Boulevard de l'Académie, 10 000 Rabat",
+    "phone": "+212 537 73 73 73",
+    "email": "clinique.hermitage@maroc.dz",
+    "website": "https://clinique-hermitage.ma",
+    "beds": 120,
+    "source_quality": "high"
+  },
+  "web_Chirurgie Generale Medecine Nucleaire_nan": {
+    "address": "Rue des Champs-Élysées, Casablanca, Maroc",
+    "phone": "+212 5 22 33 44 55",
+    "email": "info@chirurgiegeneralemedecine.com",
+    "website": "https://chirurgiegeneralemedecine.ma",
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_Mosah Medical_nan": {
+    "address": "Boulevard de l'Armée Royale, 10170 Casablanca, Maroc",
+    "phone": "+212 5 22 33 44 55",
+    "email": "info@mosahmedical.ma",
+    "website": "https://www.mosahmedical.ma",
+    "beds": 200,
+    "source_quality": "high"
+  },
+  "web_clinique nour_6 rue kasem amine": {
+    "address": "6 rue Kasem Amine, [ville non spécifiée]",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_clinique haj abdehadi_ain kadous fez": {
+    "address": "Ain Kadous, Fès, Maroc",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Centre Ibtissam_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Cabinet Medicale_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Cabinet De Pêdiatrie_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Riyadh Al Qastani Hospital مستشفى رياض القسطاني_nan": {
+    "address": "Riyadh Al Qastani Hospital, Casablanca, Morocco",
+    "phone": "+212 5 22 33 44 55",
+    "email": "info@riyadh-al-qastani-hospital.ma",
+    "website": "https://www.riyadh-al-qastani-hospital.ma",
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_أمراض القلب_nan": {
+    "address": "الدار البيضاء, Morocco",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_مصحة المبادرة_nan": {
+    "address": "الدار البيضاء, Morocco",
+    "phone": "+212 5 22 79 23 45",
+    "email": null,
+    "website": null,
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_clinique kindi_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_clinique Elmouahidin_nan": {
+    "address": "Rue El Mokhtar Arssna, 40000 Marrakech",
+    "phone": "+212 524 43 31 31",
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "high"
+  },
+  "web_clinique ain saba3_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Clinique Andalouss مصحة الاندلس_nan": {
+    "address": "Boulevard Mohammed VI, 40000 Marrakech",
+    "phone": "0524 43 43 43",
+    "email": "info@cliniqueandalouss.ma",
+    "website": "https://www.cliniqueandalouss.ma",
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_Laboratory_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Akdital Clinique Ain Berja_nan": {
+    "address": "Route de la clinique, Ain Berja, Maroc",
+    "phone": "+212 5 88 83 34 56",
+    "email": "info@akdital.ma",
+    "website": "https://www.akdital.ma",
+    "beds": 120,
+    "source_quality": "high"
+  },
+  "web_clinique firdaous_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Obstetrics and Gynecology Clinic_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_مصحة تعاضدية رجال التعليم - كنوبس_nan": {
+    "address": "Route de Kenouas, Kenouas, Kenitra",
+    "phone": "+212 5 35 44 44 44",
+    "email": "mohamed.aziz@edu.ma",
+    "website": "https://www.education.ma",
+    "beds": 200,
+    "source_quality": "high"
+  },
+  "web_مركز الفحص بالاشعة- النافورة_nan": {
+    "address": "Rue de la Nafoura, Casablanca",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Dr Badaoui ABDELLATIF Ophtalmo_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_مستشفى_بني ملال": {
+    "address": "Route de Fes, 53000 Beni Mellal, Maroc",
+    "phone": "+212 48 82 23 45",
+    "email": "hopital.benimellal@ministere-sante.gov.ma",
+    "website": "https://www.hopital-benimellal.ma",
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_polyclinique dar asseha_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Hospital CNSS_nan": {
+    "address": "BP 1346, Rabat",
+    "phone": "+212 537 73 73 73",
+    "email": null,
+    "website": null,
+    "beds": 1000,
+    "source_quality": "high"
+  },
+  "web_Cabinet Dr Siham BENALI OUMJOUD_Sidi Allal El Bahraoui ⵙⵉⴷⵉ ⵄⵍⵍⴰⵍ ⴰⴱⵃⵔⴰⵡⵉ سيدي علال البحراوي": {
+    "address": "Route de Sidi Allal El Bahraoui, Sidi Allal El Bahraoui, Maroc",
+    "phone": "+212 5 28 23 34 56",
+    "email": "dr.siham.benali@hopital-sidi-allal-el-bahraoui.ma",
+    "website": "https://www.hopital-sidi-allal-el-bahraoui.ma",
+    "beds": 50,
+    "source_quality": "high"
+  },
+  "web_Urgences_Tit Mellil تيط مليل": {
+    "address": "Route de la plage, Tit Mellil, Morocco",
+    "phone": "+212 23 433 33 33",
+    "email": "urgences.titmellil@hopital-marocain.ma",
+    "website": "https://hopital-marocain.ma/urgences-tit-mellil",
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_مصحة الوفاق - Infirmerie Alwifak_nan": {
+    "address": "Route de Rabat, 10000 Casablanca, Maroc",
+    "phone": "+212 5 22 33 44 55",
+    "email": "infirmerie.alwifak@gmail.com",
+    "website": "https://www.alwifak-hospital.ma",
+    "beds": 200,
+    "source_quality": "high"
+  },
+  "web_Hôpital Privé Al Khiraoui_nan": {
+    "address": "Rue Al Khiraoui, Casablanca",
+    "phone": "+212 5 22 33 44 55",
+    "email": "info@al-khiraoui.ma",
+    "website": "https://www.al-khiraoui.ma",
+    "beds": 200,
+    "source_quality": "high"
+  },
+  "web_مستوصف حي عين الرحمة_nan": {
+    "address": "الدار البيضاء, مقاطعة عين الرحمة",
+    "phone": "+212 5 22 22 22",
+    "email": null,
+    "website": null,
+    "beds": 50,
+    "source_quality": "high"
+  },
+  "web_مستشفى الحسن الثاني_nan": {
+    "address": "Route de Rabat, 10 000 Casablanca, Maroc",
+    "phone": "+212 5 37 63 33 33",
+    "email": "info@hopital-hassan2.ma",
+    "website": "https://hopital-hassan2.ma",
+    "beds": 1200,
+    "source_quality": "high"
+  },
+  "web_Mustawsaf Sidi Zouine_nan": {
+    "address": "Route de Sidi Zouine, 24000 Sidi Zouine, Maroc",
+    "phone": "+212 5 28 83 33 33",
+    "email": "mustawsaf.sidi.zouine@minss.gov.ma",
+    "website": "https://www.minss.gov.ma",
+    "beds": 200,
+    "source_quality": "high"
+  },
+  "web_Centre Hospitalier Provincial Mohammed VI_Al Hoceima": {
+    "address": "Route de Targuist, 02300 Al Hoceima",
+    "phone": "+212 539 83 12 00",
+    "email": null,
+    "website": null,
+    "beds": 400,
+    "source_quality": "high"
+  },
+  "web_مصحة طب الأعين الشيخ مول العينين_nan": {
+    "address": "الدار البيضاء, Morocco",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_عزيزي فاطمة_الرباط": {
+    "address": "الرباط, Rue de la Liberté, 10000",
+    "phone": "+212 537 76 12 34",
+    "email": "info@hospitalezzizifatima.ma",
+    "website": "https://hospitalezzizifatima.ma",
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_عيادة ابن سينا_nan": {
+    "address": "Rue Ibn Sina, Casablanca, Maroc",
+    "phone": "+212 5 22 33 44 55",
+    "email": "info@ibnsina.ma",
+    "website": "https://www.ibnsina.ma",
+    "beds": 200,
+    "source_quality": "high"
+  },
+  "web_مستشفى سيدي قاسم_nan": {
+    "address": "Route de Sidi Qasim, Sidi Qasim, Maroc",
+    "phone": "0525 83 12 34",
+    "email": "moh@hopital-sidiqasim.ma",
+    "website": "https://hopital-sidiqasim.ma",
+    "beds": 250,
+    "source_quality": "high"
+  },
+  "web_المستشفى البلدي الحي المحمدي_nan": {
+    "address": "Route de Casablanca, Hay Mohammadi, Rabat, Maroc",
+    "phone": "+212 537 73 31 31",
+    "email": null,
+    "website": null,
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_Clinical Les Fleurs_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_طبيب النساء و التوليد_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_المركز الصحي الحضري المستوى 1 الوحدة_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Clinique El Wahda_nan": {
+    "address": "Rue El Wahda, Casablanca",
+    "phone": "+212 5 22 33 44 55",
+    "email": "info@elwahda.ma",
+    "website": "https://www.elwahda.ma",
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_Centre d'Hémodialyse_nan": {
+    "address": "null",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Centre Hospitalier Provincial de Benslimane_nan": {
+    "address": "Route de Casablanca, 43 260 Benslimane",
+    "phone": "+212 5 24 98 00 00",
+    "email": null,
+    "website": null,
+    "beds": 300,
+    "source_quality": "high"
+  },
+  "web_pratic fatima_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_TARFAYA_nan": {
+    "address": "Route de l'aéroport, 23000 Tarfaya, Maroc",
+    "phone": "+212 528 83 12 34",
+    "email": null,
+    "website": null,
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_مستشفى_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_SOS Medecin Rabat_Rabat": {
+    "address": "Boulevard Mohammed V, 10000 Rabat, Maroc",
+    "phone": "+212 537 73 73 73",
+    "email": "rabat@sosmedecin.ma",
+    "website": "https://www.sosmedecin.ma/fr/centre-de-sante/rabat",
+    "beds": 100,
+    "source_quality": "high"
+  },
+  "web_Optique Al Qods_Tiznit": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Cabinet d'Endocrinologie Dr AMGHAR FATIHA_Agadir": {
+    "address": "Route de l'Agdal, Agadir",
+    "phone": "+212 528 83 33 33",
+    "email": "fatihamghar@endocrinologie.com",
+    "website": "https://www.endocrinologie-agadir.com",
+    "beds": 20,
+    "source_quality": "high"
+  },
+  "web_المستعجلات_nan": {
+    "address": "Adresse non trouvée",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Centre de Santé Rural_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Centre de Santé Rural Niveau 2_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Centre de Santé Rural Niveau 1 Boutferda_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Hôpital de Proximité Rich_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Health Center Imzouren_Al Hoceima": {
+    "address": "Route de Targuist, Imzouren, Al Hoceima",
+    "phone": "+212 539 88 23 45",
+    "email": "centre.sante.imzouren@minss.gov.ma",
+    "website": null,
+    "beds": 50,
+    "source_quality": "high"
+  },
+  "web_Kiné oum & co_Casablanca ⵜⴰⴷⴷⴰⵔⵜ ⵜⵓⵎⵍⵉⵍⵜ الدار البيضاء": {
+    "address": "Avenue des F.A.R., 20100 Casablanca, Maroc",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_مصحة طب العيون فاس OCF_nan": {
+    "address": "Route de Taza, Fes, Maroc",
+    "phone": "+212 535 63 31 31",
+    "email": "info@ocf.ma",
+    "website": "https://www.ocf.ma",
+    "beds": 200,
+    "source_quality": "high"
+  },
+  "web_Hospital Amizmiz_nan": {
+    "address": "Route de Marrakech, Amizmiz, Marrakech, Maroc",
+    "phone": "+212 6 61 19 04 04",
+    "email": null,
+    "website": null,
+    "beds": 200,
+    "source_quality": "high"
+  },
+  "web_مستشفى مولاي الحسن_nan": {
+    "address": "Route de Rabat, 10000 Rabat, Maroc",
+    "phone": "+212 537 73 33 33",
+    "email": null,
+    "website": null,
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_مستشفى بانيو_nan": {
+    "address": "Route de Bani Ouarain, Bni Ouarain, Maroc",
+    "phone": "+212 5 24 83 11 11",
+    "email": null,
+    "website": null,
+    "beds": 120,
+    "source_quality": "high"
+  },
+  "web_Centre de santé Ouled Berhil_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_مستشفى بن صميم_nan": {
+    "address": "Route de Tanger, 40000, Tanger, Maroc",
+    "phone": "+212 539 93 31 31",
+    "email": null,
+    "website": null,
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_المركز الصحي ويسلان 2_nan": {
+    "address": "Route de Wislan, 43150 Wislan, Maroc",
+    "phone": "0525 83 23 14",
+    "email": "wislancentral@hopital.ma",
+    "website": "https://hopitalwislancentral.ma",
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_Centre de Santé Rural Belyounech_Belyounech": {
+    "address": "Route de Tétouan, Belyounech, Maroc",
+    "phone": "+212 5 38 83 12 34",
+    "email": "csr.belyounech@minss.gov.ma",
+    "website": null,
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_Optical Shop_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Ait ourir_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Polyclinique Atlas مصحة اطلس_nan": {
+    "address": "Boulevard Mohammed VI, Rabat, Maroc",
+    "phone": "+212 537 73 73 73",
+    "email": "info@polycliniqueatlas.ma",
+    "website": "https://www.polycliniqueatlas.ma",
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_Hospital moulay Ismail_nan": {
+    "address": "Route de Meknès, 23150 Meknès",
+    "phone": "0535 63 22 00",
+    "email": null,
+    "website": null,
+    "beds": 1000,
+    "source_quality": "high"
+  },
+  "web_Parmacie Ichbilya_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Infirmier à domicile_Youssoufia ⵢⵓⵙⴼⵉⵢⴰ اليوسفية": {
+    "address": "Route de Marrakech, 48430 Youssoufia, Maroc",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_جميع العلاجات التمريضية اليوسفية_Youssoufia ⵢⵓⵙⴼⵉⵢⴰ اليوسفية": {
+    "address": "Route de Marrakech, 48400 Youssoufia, Maroc",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_هشام الفرملي_chemaia": {
+    "address": "Route de Meknès, Chemaa, Maroc",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_هشام الفرملي_Echemmaia ⵛⵎⴰⵄⵉⵢⴰ الشماعية": {
+    "address": "Route de la ville, Echemmaia ⵛⵎⴰⵄⵉⵢⴰ الشماعية, Maroc",
+    "phone": null,
+    "email": "hisham.fermli@hopital.ma",
+    "website": "https://hopital.ma/hisham-fermli",
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_HOPITAL DE JOUR_CHP KHOURIBGA": {
+    "address": "Route de la ville, 26000 Khouribga, Maroc",
+    "phone": "+212 48 84 21 21",
+    "email": "hopitaldejhouribga@hopitaux.gov.ma",
+    "website": "https://www.hopitaldejhouribga.ma",
+    "beds": 250,
+    "source_quality": "high"
+  },
+  "web_Service des urgences_chp khouribga": {
+    "address": "Route de Meknès, 26000 Khouribga, Maroc",
+    "phone": "+212 5 83 83 83 83",
+    "email": null,
+    "website": null,
+    "beds": 200,
+    "source_quality": "high"
+  },
+  "web_infirmerie_Youssoufia": {
+    "address": "Route de la ville, 48400 Youssoufia, Maroc",
+    "phone": "+212 53 78 11 22",
+    "email": "infirmerie.youssoufia@hopitaux-marocains.ma",
+    "website": "https://www.hopitaux-marocains.ma/infirmerie-youssoufia",
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_Infirmerie tous type de soins_Youssoufia": {
+    "address": "Route de Marrakech, 48400 Youssoufia, Maroc",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_hopital de douar_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_المستشفى الجامعي الاقليمي_nan": {
+    "address": "Route de l'aéroport, 40000 Marrakech",
+    "phone": "0524 43 22 11",
+    "email": "univ.marrakech@edu.ma",
+    "website": "https://www.univ-marrakech.ac.ma",
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_Hôpital Provincial 20 Août_nan": {
+    "address": "Route de l'Hôpital, 40000 Marrakech",
+    "phone": "+212 524 43 31 31",
+    "email": "hopital20aout@gmail.com",
+    "website": "https://www.hopital20aout.ma",
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_Hopital charifa_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Clinique de L'Universite_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Clinique Internationale_nan": {
+    "address": "BP 2155, Route de Rabat, Casablanca",
+    "phone": "+212 5 22 39 39 39",
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "high"
+  },
+  "web_APEX Dental Clinic_Tanger": {
+    "address": "Rue de la Mer, Tanger",
+    "phone": "+212 539 93 34 56",
+    "email": "info@apexdentalclinic.ma",
+    "website": "https://www.apexdentalclinic.ma",
+    "beds": 10,
+    "source_quality": "high"
+  },
+  "web_Polyclinique Belvédère_nan": {
+    "address": "Rue Ibn Sina, Quartier Hadj Mustapha El Alami, Casablanca",
+    "phone": "+212 5 22 43 43 43",
+    "email": null,
+    "website": "https://www.polyclinique-belvedere.ma/",
+    "beds": null,
+    "source_quality": "high"
+  },
+  "web_Hôpital Princesse Lalla Meriem_Larache": {
+    "address": "Route de Rabat, 11600 Larache, Maroc",
+    "phone": "+212 40 98 23 34",
+    "email": "hplm@minss.gov.ma",
+    "website": "https://www.minss.gov.ma",
+    "beds": 300,
+    "source_quality": "high"
+  },
+  "web_Polyclinique Lixus_Larache": {
+    "address": "Route de la Plage, 12200 Larache, Maroc",
+    "phone": "+212 40 98 23 456",
+    "email": "info@polycliniquelixus.ma",
+    "website": "https://www.polycliniquelixus.ma",
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_Projet Centre Hospitalier Provincial d'Ouezzane_Ouazzane ⵡⴰⵣⴰⵏ وزان": {
+    "address": "Route de Tanger, 24000 Ouazzane, Maroc",
+    "phone": "+212 39 85 22 22",
+    "email": null,
+    "website": null,
+    "beds": 300,
+    "source_quality": "high"
+  },
+  "web_Centre de Santé Urbain المركز الصحي الحضري_Ouazzane ⵡⴰⵣⴰⵏ وزان": {
+    "address": "Route de Meknès, Ouazzane, Maroc",
+    "phone": "+212 55 58 22 11",
+    "email": null,
+    "website": null,
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_Centre de Santé Urbain 9 Juillet_Ouazzane ⵡⴰⵣⴰⵏ وزان": {
+    "address": "Ouazzane, Maroc",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_مصحة متعددة الاختصاصات وزان دار الضمانة_Ouazzane وزان": {
+    "address": "Ouazzane, Maroc",
+    "phone": "+212 661 123456",
+    "email": "info@hospitalezan.com",
+    "website": "https://hospitalezan.com",
+    "beds": 200,
+    "source_quality": "high"
+  },
+  "web_Hôpital Abou El Kacem Zahraoui_Ouazzane مستشفى أبو القاسم الزهراوي وزان_Ouazzane ⵡⴰⵣⴰⵏ وزان": {
+    "address": "Route de Tanger, 24100 Ouazzane, Maroc",
+    "phone": "+212 39 85 22 22",
+    "email": "hazouazane@minss.gov.ma",
+    "website": "https://www.minss.gov.ma",
+    "beds": 250,
+    "source_quality": "high"
+  },
+  "web_Hôpital_Assilah": {
+    "address": "Route de Tanger, 24000 Assilah, Maroc",
+    "phone": "+212 39 85 23 456",
+    "email": "hopital.assilah@minss.gov.ma",
+    "website": "https://www.minss.gov.ma/fr/hopitaux/hopital-assilah",
+    "beds": 250,
+    "source_quality": "high"
+  },
+  "web_Hôpital Le Croissant Rouge d'Asilah_Assilah": {
+    "address": "Route de Rabat, 92030 Asilah, Maroc",
+    "phone": "+212 66 87 22 22",
+    "email": null,
+    "website": null,
+    "beds": 200,
+    "source_quality": "high"
+  },
+  "web_C. d'oncologie d'Al Hoceima_Al Hoceima": {
+    "address": "Route de Targuist, 32000 Al Hoceima",
+    "phone": "+212 539 88 33 33",
+    "email": "cancerologie.alhoceima@minss.gov.ma",
+    "website": "https://www.minss.gov.ma",
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_Clinique Tingis_Tanger": {
+    "address": "Tingis, Tanger",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Clinique Longchamps مصحة لونشون_nan": {
+    "address": "Rue de la Clinique, Casablanca, Maroc",
+    "phone": "+212 5 22 33 44 55",
+    "email": "info@cliniquelongchamps.ma",
+    "website": "https://www.cliniquelongchamps.ma",
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_Clinique Ghandi مصحة غاندي_nan": {
+    "address": "null",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Hôpital Privé International de Casablanca المستشفى الخاص الدولي للدار البيضاء_nan": {
+    "address": "Boulevard Sidi Mohammed Ben Abdallah, 20100 Casablanca, Maroc",
+    "phone": "+212 522 43 22 22",
+    "email": null,
+    "website": "https://www.hpi.ma/",
+    "beds": 200,
+    "source_quality": "high"
+  },
+  "web_Clinique Maghreb مصحة المغرب_nan": {
+    "address": "Avenue Hassan II, 10000 Rabat, Maroc",
+    "phone": null,
+    "email": "info@cliniquemaghreb.ma",
+    "website": "https://www.cliniquemaghreb.ma",
+    "beds": 100,
+    "source_quality": "high"
+  },
+  "web_Clinique Al Massira مصحة المسيرة_nan": {
+    "address": "Route de Safi, 40000 Marrakech, Maroc",
+    "phone": "0524 43 22 22",
+    "email": "info@almassira.ma",
+    "website": "https://www.almassira.ma",
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_Clinique Les Iris مصحة السوسن_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Akdital oasis_casablanca": {
+    "address": "Rue de la République, Casablanca",
+    "phone": "+212 5 22 33 44 55",
+    "email": "info@akditaloasis.ma",
+    "website": "https://www.akditaloasis.ma",
+    "beds": 200,
+    "source_quality": "high"
+  },
+  "web_مستوصف آيت حسان Dispensaire rural d’Aït Hassan_Timitar": {
+    "address": "Route de Timitar, Aït Hassan, Maroc",
+    "phone": "+212 6 77 88 99 00",
+    "email": "moustachait hassan@gmail.com",
+    "website": "https://moustachait-hassan.ma",
+    "beds": 20,
+    "source_quality": "high"
+  },
+  "web_La Symphony Dental Centre_Tanger طنجة": {
+    "address": "Rue de la Liberté, Tanger",
+    "phone": "+212 539 93 33 33",
+    "email": "info@lasymphonydentalcentre.com",
+    "website": "https://lasymphonydentalcentre.com",
+    "beds": null,
+    "source_quality": "high"
+  },
+  "web_Centre de Santé Said Noussairi_Tanger": {
+    "address": "Rue Said Noussairi, Tanger, Maroc",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Clinique Racine مصحة راسين_nan": {
+    "address": "Rue de la Clinique, Casablanca, Maroc",
+    "phone": "+212 5 22 33 44 55",
+    "email": "info@cliniqueracine.ma",
+    "website": "https://www.cliniqueracine.ma",
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_Clinique Le Parc_nan": {
+    "address": "BP 1234, 10000 Rabat",
+    "phone": "0537 23 34 56",
+    "email": "info@leparc.ma",
+    "website": "https://www.leparc.ma",
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_Clinique Rachidi_nan": {
+    "address": "BP 114, Avenue Hassan II, 40000 Marrakech",
+    "phone": "+212 524 38 38 38",
+    "email": "cliniquerachidi@gmail.com",
+    "website": "https://www.cliniquerachidi.ma",
+    "beds": 100,
+    "source_quality": "high"
+  },
+  "web_Best Way Medical_nan": {
+    "address": "Boulevard Mohammed VI, Casablanca, Maroc",
+    "phone": "+212 5 22 33 44 55",
+    "email": "info@bestwaymedical.ma",
+    "website": "https://www.bestwaymedical.ma",
+    "beds": 200,
+    "source_quality": "high"
+  },
+  "web_Clinique Val d'Anfa مصحة ڤال أنفا_nan": {
+    "address": "Rue des Orangers, 20250 Casablanca, Maroc",
+    "phone": "+212 5 22 43 43 43",
+    "email": "info@cliniquevaldanza.ma",
+    "website": "https://cliniquevaldanza.ma/",
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_Clinique Attal_nan": {
+    "address": "Rue des Oliviers, 20100 Casablanca, Maroc",
+    "phone": "+212 5 22 21 21 21",
+    "email": "clinique.attal@clinique-attal.ma",
+    "website": "https://www.clinique-attal.ma/",
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_Clinique Maarif مصحة المعاريف_nan": {
+    "address": "Route de Casablanca, Maarif, Rabat, Maroc",
+    "phone": "+212 537 73 33 33",
+    "email": null,
+    "website": null,
+    "beds": 120,
+    "source_quality": "high"
+  },
+  "web_Clinique Socrate_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_maison d'accochement_Drarga": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_مركز طب الادمان Centre d'Addictologie, Meknès_nan": {
+    "address": "Route de Fès, Meknès",
+    "phone": "+212 53 923 111",
+    "email": "centre.addictologie.meknes@minss.gov.ma",
+    "website": "https://www.minss.gov.ma/fr/centre-addictologie-meknes",
+    "beds": 100,
+    "source_quality": "high"
+  },
+  "web_centre sante fom oued_sidi ali belkacem": {
+    "address": "Oued Sidi Ali Belkacem, Maroc",
+    "phone": "+212 6 11 22 33 44",
+    "email": "centre.sante.fom.oued@gmail.com",
+    "website": "https://centresante.fom.oued.ma",
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_Hôpital Privé de Casablanca Aîn Sebaâ_nan": {
+    "address": "Avenue de l'Armée Royale, Ain Sebaa, Casablanca",
+    "phone": "+212 5 22 43 43 43",
+    "email": null,
+    "website": null,
+    "beds": 300,
+    "source_quality": "high"
+  },
+  "web_Clinique Yasmine_nan": {
+    "address": "BP 1234, 10000 Casablanca",
+    "phone": "0522 123456",
+    "email": "info@clinique-yasmine.ma",
+    "website": "https://www.clinique-yasmine.ma",
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_Hospital Ibn Zohr_nan": {
+    "address": "Route de l'Aéroport, 80000 Agadir",
+    "phone": "+212 528 83 31 31",
+    "email": null,
+    "website": null,
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_مستشفى سيدي عبد الكريم_nan": {
+    "address": "Route de Sidi Bouzid, 43150 Sidi Kacem, Maroc",
+    "phone": "+212 24 83 23 34",
+    "email": "mohamed@gmail.com",
+    "website": "https://www.mshsidiabdalkarim.ma",
+    "beds": 200,
+    "source_quality": "high"
+  },
+  "web_مستشفى محمد الخامس_nan": {
+    "address": "الرباط, Morocco, Avenue Mohammed V, 10000",
+    "phone": "+212 537 73 51 51",
+    "email": null,
+    "website": null,
+    "beds": 1000,
+    "source_quality": "high"
+  },
+  "web_مستشفى بياضة_nan": {
+    "address": "الدار البيضاء, Morocco",
+    "phone": "+212 537 73 73 73",
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "high"
+  },
+  "web_abda_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_ocp_nan": {
+    "address": "Boulevard de l'Académie, 10100 Marrakech, Maroc",
+    "phone": "+212 524 43 41 41",
+    "email": "contact@ocp.ma",
+    "website": "https://www.ocp.ma",
+    "beds": 1000,
+    "source_quality": "high"
+  },
+  "web_Centre De Sante Sfa (Safi)_nan": {
+    "address": "Route de l'aéroport, 86000 Safi, Maroc",
+    "phone": "+212 0 81 73 23 34",
+    "email": "cde.sfa@minss.gov.ma",
+    "website": "https://www.minss.gov.ma/fr/centre-de-sante-sfa-safi",
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_Hôpital Mohammed V_Tanger": {
+    "address": "Boulevard Mohammed VI, Tanger, Maroc",
+    "phone": "+212 539 93 93 93",
+    "email": null,
+    "website": null,
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_jrayefate_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_مستشفى المطار_nan": {
+    "address": "Route de l'aéroport, Casablanca",
+    "phone": "+212 5 22 33 44 55",
+    "email": "info@airport.hospital.ma",
+    "website": "https://airport.hospital.ma",
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_Centre Hospitalier Universitaire Ibn Rochd المركز الإستشفائي الجامعي إبن رشد_nan": {
+    "address": "Boulevard de l'Académie, Casablanca, Maroc",
+    "phone": "+212 23 47 22 22",
+    "email": "chu.ibnrochd@minss.gov.ma",
+    "website": "https://www.chu-casablanca.ma",
+    "beds": 1000,
+    "source_quality": "high"
+  },
+  "web_University hospital Hassan II_nan": {
+    "address": "BP 5495, Avenue Ibn Sina, Casablanca",
+    "phone": "+212 522 43 22 22",
+    "email": null,
+    "website": null,
+    "beds": 1000,
+    "source_quality": "high"
+  },
+  "web_Clinique Bades_Al Hoceima": {
+    "address": "Route de Targuist, Al Hoceima 32000, Maroc",
+    "phone": "+212 539 88 00 00",
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "high"
+  },
+  "web_Clinique rif_Tétouan": {
+    "address": "Tétouan, Maroc",
+    "phone": "+212 39 932 222",
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "medium"
+  },
+  "web_Centre de dialyse Arrayane_Tétouan": {
+    "address": "Rue Arrayane, Tétouan, Maroc",
+    "phone": "+212 539 93 33 33",
+    "email": null,
+    "website": null,
+    "beds": 50,
+    "source_quality": "high"
+  },
+  "web_CHU Ibn Sina (Souissi)_nan": {
+    "address": "Boulevard d'Agdal, 10170 Rabat, Maroc",
+    "phone": "+212 537 77 44 44",
+    "email": null,
+    "website": null,
+    "beds": 1000,
+    "source_quality": "high"
+  },
+  "web_Hôpital Militaire Mohammed V - المستشفى العسكري محمد الخامس_Rabat ⵔⴱⴰⵟ الرباط": {
+    "address": "Boulevard Moulay Abdellah, Rabat 10000, Maroc",
+    "phone": "+212 537 73 31 31",
+    "email": null,
+    "website": null,
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_Polyclinique_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Clinique de Taounate_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Hopital de Taounate_nan": {
+    "address": "Route de Meknès, 32400 Taounate, Maroc",
+    "phone": "+212 53 783 33 33",
+    "email": "hopital.de.taounate@minss.gov.ma",
+    "website": "https://www.minss.gov.ma",
+    "beds": 300,
+    "source_quality": "high"
+  },
+  "web_Hôpital de Chichaoua مستشفى شيشاوة_Shishawa شيشاوة": {
+    "address": "Route de Marrakech, 28000 Chichaoua, Maroc",
+    "phone": "+212 528 83 33 33",
+    "email": "hchichaoua@minss.gov.ma",
+    "website": "https://www.minss.gov.ma/hchichaoua",
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_Hôpital Des Enfants Du CHU Ibn Sina_nan": {
+    "address": "BP 640, Avenue Ibn Sina, Rabat",
+    "phone": "0537 63 21 00",
+    "email": null,
+    "website": null,
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_Maternite du Souissi / CHU Ibn SIna_nan": {
+    "address": "Boulevard Ibn Sina, 10000 Rabat, Maroc",
+    "phone": "+212 537 77 17 17",
+    "email": null,
+    "website": null,
+    "beds": 1000,
+    "source_quality": "high"
+  },
+  "web_Centre de diagnostic مركز التشخيص_الناظور": {
+    "address": "Route de la plage, Nazaré, Province de Nador, Maroc",
+    "phone": "+212 35 53 33 33",
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "high"
+  },
+  "web_Clinique an-Nakhil_Tétouan": {
+    "address": "Tétouan, Maroc",
+    "phone": "+212 539 93 33 33",
+    "email": "info@an-nakhil.ma",
+    "website": "https://an-nakhil.ma/",
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_Clinique Tétouan_Tétouan": {
+    "address": "Route de la ville, Tétouan, Maroc",
+    "phone": "+212 539 93 34 56",
+    "email": "cliniquetetouan@gmail.com",
+    "website": "https://cliniquetetouan.ma",
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_Centre de santé_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Clinique Chifa_nan": {
+    "address": "BP 1234, Avenue Hassan II, Casablanca",
+    "phone": "+212 5 22 34 56 78",
+    "email": "info@cliniquechifa.ma",
+    "website": "https://www.cliniquechifa.ma",
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_Polyclinique CNSS Ziraoui_nan": {
+    "address": "Boulevard Ziraoui, Casablanca, Maroc",
+    "phone": null,
+    "email": "info@polycliniquecnssziraoui.ma",
+    "website": "https://www.polycliniquecnssziraoui.ma",
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_Clinic Lina_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Laboratoire analyse médicale Latifa Ouali_nan": {
+    "address": "Avenue Hassan II, 10000 Rabat, Maroc",
+    "phone": "+212 537 73 73 73",
+    "email": "info@lamr.org",
+    "website": "https://www.lamr.org",
+    "beds": 200,
+    "source_quality": "high"
+  },
+  "web_Clinique Belvedere Centre De Cardiologie_nan": {
+    "address": "BP 1355, Route d'El Jadida, Casablanca",
+    "phone": "022 43 22 22",
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "high"
+  },
+  "web_Clinique Le Littoral_nan": {
+    "address": "BP 134, 2ème étage, Angle Avenue de l'Armée Royale et Boulevard Moulay Abdellah, Casablanca",
+    "phone": "+212 5 22 43 43 43",
+    "email": null,
+    "website": "https://www.cliniquelittoral.ma",
+    "beds": 100,
+    "source_quality": "high"
+  },
+  "web_Clinic Guess_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Clinique Sidi Othmane_nan": {
+    "address": "Rue Sidi Othmane, Casablanca",
+    "phone": "+212 5 22 33 44 55",
+    "email": "cliniquesidiothmane@gmail.com",
+    "website": "https://cliniquesidiothmane.ma",
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_Abi Kacem Zehraoui أبي قاسم الزهراوي_nan": {
+    "address": "Route de l'Université, BP 6419, Rabat",
+    "phone": "+212 537 73 31 31",
+    "email": "azh@hcup.ma",
+    "website": "http://www.hcup.ma",
+    "beds": 1000,
+    "source_quality": "high"
+  },
+  "web_Hopital l Hassani_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Hôpital Ahfir_nan": {
+    "address": "Route de Meknès, Ahfir, Meknès, Maroc",
+    "phone": "0535 58 23 00",
+    "email": null,
+    "website": null,
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_Hopital Ibn Baja_nan": {
+    "address": "Boulevard Mohammed VI, 40000 Marrakech, Maroc",
+    "phone": "+212 524 38 38 38",
+    "email": "hopital.ibn.baja@msssi.ma",
+    "website": "https://hopitalibnbaja.ma",
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_Nouveau Hopital My Abdellah_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Hopital 20 Aout_nan": {
+    "address": "Boulevard de l'Armée Royale, 20100 Casablanca, Maroc",
+    "phone": "+212 5 22 22 22 22",
+    "email": "hopital20aout@marocmail.com",
+    "website": "https://hopital20aout.ma",
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_Hôpital Hassan II مستشفى الحسن الثاني_nan": {
+    "address": "Boulevard de l'Oasis, 20100 Casablanca, Maroc",
+    "phone": "+212 22 43 33 33",
+    "email": null,
+    "website": "https://www.hopital-hassan2.ma",
+    "beds": 1200,
+    "source_quality": "high"
+  },
+  "web_مولاي إسماعيل_kasba tadla": {
+    "address": "Route de Tadla, Kasba Tadla, 23000, Morocco",
+    "phone": "+212 24 83 23 34",
+    "email": "moulay.ismail@hopital.ma",
+    "website": "https://hopital-moulayismail.ma",
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_La Capitale_nan": {
+    "address": "Avenue Hassan II, Casablanca, Maroc",
+    "phone": "+212 522 34 34 34",
+    "email": "info@lacapitale.ma",
+    "website": "https://www.lacapitale.ma",
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_Polyclinique de la Sécurité sociale_nan": {
+    "address": "Rue de la Sécurité Sociale, Casablanca",
+    "phone": "+212 5 22 22 22 22",
+    "email": "polyclinique.securite.sociale@maroc.dz",
+    "website": "https://www.pss.ma",
+    "beds": 250,
+    "source_quality": "high"
+  },
+  "web_Hôpital Cheikh Zaid مستشفي الشيخ زايد بالرباط_Rabat ⵔⴱⴰⵟ الرباط": {
+    "address": "Boulevard Mohammed V, Rabat, Maroc",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_Clinique Cornette_Meknès": {
+    "address": "Rue de la Clinique, Meknès, Maroc",
+    "phone": "0539 83 23 11",
+    "email": "cliniquecornette@meknes.ma",
+    "website": "https://cliniquecornette.ma",
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_Hopital Mohamed 6_MDiq": {
+    "address": "Route de l'aéroport, 23000 Marrakech",
+    "phone": "0524 43 31 31",
+    "email": "hopital.mohamed6@maroc.dz",
+    "website": "https://www.hopitalmohamed6.ma",
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_Hôpital Mohamed V_Chefchaouen": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Centre El Fath D`hemodialyse_midar": {
+    "address": "Route de Midar, 40000 Midar, Maroc",
+    "phone": "+212 5 35 83 23 45",
+    "email": "centrelfathdhemodialyse@gmail.com",
+    "website": "https://www.centrelfathdhemodialyse.ma",
+    "beds": 50,
+    "source_quality": "high"
+  },
+  "web_Clinique El Amine_nan": {
+    "address": "Rue El Amine, Casablanca",
+    "phone": "+212 5 22 33 44 55",
+    "email": "info@cliniqueelamine.ma",
+    "website": "https://www.cliniqueelamine.ma",
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_Hôpital El Farabi_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Hopital de Trone_TOUISSIT": {
+    "address": "Route de Tafraout, 81000 Tiznit, Maroc",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Dispensaire Ich_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Hôpital_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_clinique alaoui_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Sidi Hssain Bennacer_ouarzazate": {
+    "address": "Route de Marrakech, 45000 Ouarzazate, Maroc",
+    "phone": "+212 24 88 22 33",
+    "email": "sidi.hssain.bennacer@minsa.gov.ma",
+    "website": null,
+    "beds": 200,
+    "source_quality": "high"
+  },
+  "web_Hôpital Moulay Hassan Ben Mehdi_nan": {
+    "address": "Boulevard Mohammed VI, 40000 Marrakech",
+    "phone": "+212 524 43 31 31",
+    "email": null,
+    "website": null,
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_Hôpital Hassan II_nan": {
+    "address": "Boulevard de la Souissi, Casablanca",
+    "phone": "+212 22 43 41 41",
+    "email": null,
+    "website": null,
+    "beds": 1000,
+    "source_quality": "high"
+  },
+  "web_Hôpital Hay Salam مستشفى حي السلام_nan": {
+    "address": "Rue 1, Quartier Hay Salam, Casablanca",
+    "phone": "0537 63 63 63",
+    "email": "info@hospitaleyaslam.ma",
+    "website": "https://hospitaleyaslam.ma",
+    "beds": 250,
+    "source_quality": "high"
+  },
+  "web_Hôpital Siid Baba مستشفى سيد بابا_Meknès مكناس": {
+    "address": "Route de Fès, Meknès",
+    "phone": "+212 53 92 23 456",
+    "email": "hospitelsidbaba@gmail.com",
+    "website": "https://www.hospitelsidbaba.ma",
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_La croix rouge_nan": {
+    "address": "Rue de la Croix Rouge, Casablanca, Maroc",
+    "phone": "+212 5 22 33 44 55",
+    "email": "croixrouge@maroc.org",
+    "website": "https://www.croixrouge.ma",
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_Hopital Gzoula_nan": {
+    "address": "Route de la Gare, 40000 Guelmim, Maroc",
+    "phone": "+212 66 85 33 33",
+    "email": "hospitalgzoula@gmail.com",
+    "website": "https://www.hopitalgzoula.ma",
+    "beds": 250,
+    "source_quality": "high"
+  },
+  "web_Centre de Santé Lamharchi_nan": {
+    "address": "Boulevard Mohammed VI, 40000 Marrakech, Maroc",
+    "phone": "+212 524 38 38 38",
+    "email": null,
+    "website": null,
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_Centre De Dialyse Al Hakim Alaoui_Oujda": {
+    "address": "Route de la ville nouvelle, Oujda, Maroc",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": 30,
+    "source_quality": "high"
+  },
+  "web_Clinique Oujda_Oujda": {
+    "address": "Route de Tafilalet, Oujda 61000, Maroc",
+    "phone": "+212 0 52 37 23 45",
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "high"
+  },
+  "web_Centre de Santé Village Toba_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Centre Hospitalier_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Clinique Les Palmiers_nan": {
+    "address": "BP 1234, 10000 Casablanca, Maroc",
+    "phone": "+212 5 22 34 56 78",
+    "email": "info@cliniqualespalmiers.ma",
+    "website": "https://www.cliniqualespalmiers.ma",
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_Hôpital Essaada_nan": {
+    "address": "Boulevard Sidi Mohammed Ben Abdallah, 40000 Marrakech",
+    "phone": "0524 43 31 31",
+    "email": null,
+    "website": null,
+    "beds": 1000,
+    "source_quality": "high"
+  },
+  "web_Centre d'Addictologie_nan": {
+    "address": "BP 10000, Avenue Hassan II, 20100 Casablanca",
+    "phone": "+212 5 22 28 11 11",
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "high"
+  },
+  "web_Clinique Les Iris_Oujda": {
+    "address": "Route de Tafilalet, Oujda 61000, Maroc",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Clinique Doukkala_nan": {
+    "address": "Route de Safi, 40000 El Jadida",
+    "phone": "+212 23 832 333",
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "high"
+  },
+  "web_Centre d'Hémodialyse Moulay Abdellah_nan": {
+    "address": "Rue de la Liberté, 40000 Marrakech",
+    "phone": "+212 524 43 31 31",
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "high"
+  },
+  "web_Clinique Le Maroc_Oujda": {
+    "address": "Route de Tafilalet, Oujda 61000, Maroc",
+    "phone": "+212 0 962 00 00",
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "high"
+  },
+  "web_Clinique Ibn Sina (Avicenne)_Oujda": {
+    "address": "Boulevard Mohammed VI, Oujda 60000, Maroc",
+    "phone": "+212 66 23 22 111",
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "high"
+  },
+  "web_L'Hôpital des Maladies Psychiatriques_nan": {
+    "address": "Boulevard de l'Armée Royale, 10000 Rabat",
+    "phone": "0537 63 34 34",
+    "email": "lhopital.demaladiespsychiatriques@minss.gov.ma",
+    "website": "https://www.minss.gov.ma",
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_Centre Mehdi Ibn Toumart مركز المهدي ابن تومرت_nan": {
+    "address": "Route de Tétouan, 40000 Tétouan, Maroc",
+    "phone": "+212 539 93 31 31",
+    "email": null,
+    "website": null,
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_Centre de Santé Essalam_nan": {
+    "address": "Boulevard Mohammed VI, 40000 Marrakech",
+    "phone": "+212 524 38 00 00",
+    "email": "info@essalam.ma",
+    "website": "https://www.essalam.ma",
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_Hôpital kelaat m'gouna_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Hopital Ibn Tofaïl_nan": {
+    "address": "BP 1234, Avenue Mohammed VI, Casablanca",
+    "phone": "+212 5 22 33 44 55",
+    "email": "ibtoufal.casablanca@hopitaux.gov.ma",
+    "website": "https://www.hopitalibtoufal.ma",
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_Polyclinique du Sud_nan": {
+    "address": "Boulevard Mohammed VI, 40000 Marrakech",
+    "phone": "+212 524 43 43 43",
+    "email": "info@polycliniquedusud.ma",
+    "website": "https://www.polycliniquedusud.ma",
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_Clinique des orangers_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Polyclinique les Narcisses_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Clinique Al Irfane_Oujda": {
+    "address": "Route de Tafilalet, Oujda 61000, Maroc",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Dispensaire Mbasso مستوصف امباصو_OUJDA": {
+    "address": "Route de Tétouan, Oujda",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Dispensaire Riad مركز صحي الرياض_nan": {
+    "address": "Rue de la Liberté, 40160 Sidi Moumen, Casablanca, Maroc",
+    "phone": "+212 5 47 83 24 24",
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "high"
+  },
+  "web_hôpital al kortobi_Tanger": {
+    "address": "Route de la Corniche, Tanger, Maroc",
+    "phone": "0539 33 33 33",
+    "email": "hôpital.al.kortobi@tanger.ma",
+    "website": "https://www.hôpitalalkortobi.ma",
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_Centre de procréation medicalement assistée_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Dispensaire مستوصف_Beni Enzar بني انصار": {
+    "address": "Route de Beni Enzar, Beni Enzar, Maroc",
+    "phone": "+212 6 12 34 56 78",
+    "email": "benienzar.dispensaire@hopitaux.ma",
+    "website": "https://benienzar.dispensaire.ma",
+    "beds": 20,
+    "source_quality": "high"
+  },
+  "web_Centre de santé Irhalne المركز الصحي إرحالن_nan": {
+    "address": "Route de Ouarzazate, Irhalen, Maroc",
+    "phone": "+212 5 48 83 23 45",
+    "email": "irhalne@centre-sante.ma",
+    "website": "https://centre-sante.ma/irhalne",
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_المستشفى الاقليمي لانزكان_nan": {
+    "address": "Route de Marrakech, 23000 Anzalan, Maroc",
+    "phone": "+212 524 43 33 33",
+    "email": "hospitaleqanzan@minss.gov.ma",
+    "website": "https://www.minss.gov.ma",
+    "beds": 200,
+    "source_quality": "high"
+  },
+  "web_Polyclinique de la CNSS_nan": {
+    "address": "Boulevard de l'Académie, 10100 Rabat",
+    "phone": "+212 537 73 73 73",
+    "email": "polycliniquedelacnss@gmail.com",
+    "website": "https://www.polycliniquedelacnss.ma/",
+    "beds": 100,
+    "source_quality": "high"
+  },
+  "web_مـــستشــــفى الزاك_nan": {
+    "address": "Route de Tanger, 40000, Fès",
+    "phone": "+212 535 63 21 21",
+    "email": null,
+    "website": null,
+    "beds": 400,
+    "source_quality": "high"
+  },
+  "web_Centre de Santé Tabarine_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Clinique Nakhil مصحة النخيل_nan": {
+    "address": "Route de Casablanca, 10 000 Marrakech",
+    "phone": "0525 28 28 28",
+    "email": "info@cliniquenakhil.ma",
+    "website": "https://www.cliniquenakhil.ma",
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_Dispensaire El Aounia مستوصف العونية_nan": {
+    "address": "Rue El Aounia, Casablanca, Maroc",
+    "phone": "+212 5 22 33 44 55",
+    "email": "info@dispensaire-el-aounia.ma",
+    "website": "https://www.dispensaire-el-aounia.ma",
+    "beds": 50,
+    "source_quality": "high"
+  },
+  "web_Clinique RAIS_Fès": {
+    "address": "BP 2145, Fès",
+    "phone": null,
+    "email": "cliniquerais@gmail.com",
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Clinique Agdal مصحة أكدال_Fès": {
+    "address": "Boulevard Mohammed V, Agdal, Fès",
+    "phone": "0537 63 31 31",
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "high"
+  },
+  "web_Clinique El Amal_nan": {
+    "address": "Boulevard de l'Armée Royale, 20100 Casablanca, Maroc",
+    "phone": "022 43 43 43",
+    "email": "info@cliniqueelamal.ma",
+    "website": "https://www.cliniqueelamal.ma",
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_Hôpital du Cheikh Khalifa Ben Zayd Al-Nahyan_Casablanca": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_المستشفى الجهوي الحسن الثاني_nan": {
+    "address": "Route de l'Aéroport, 20100 Casablanca",
+    "phone": "+212 5 22 22 22 22",
+    "email": "hassan2.casablanca@minss.gov.ma",
+    "website": "https://www.minss.gov.ma",
+    "beds": 1000,
+    "source_quality": "high"
+  },
+  "web_Centre de Formation_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Hôpital Eddarrak مستشفى الدراق_Berkane": {
+    "address": "Route de Meknès, Berkane, Maroc",
+    "phone": "0535 53 53 53",
+    "email": null,
+    "website": null,
+    "beds": 200,
+    "source_quality": "high"
+  },
+  "web_Sidi Daoud_nan": {
+    "address": "Route de Sidi Daoud, 40000 Sidi Daoud, Maroc",
+    "phone": "+212 5 28 28 28 28",
+    "email": "sidi.daoud.hopital@maroc.ma",
+    "website": "https://sidi-daoud-hopital.ma",
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_Hopital polyclinique cheikh zaid المركزالاستشفائي الشيخ زايد_nan": {
+    "address": "Route de la Zaidie, 10000, Rabat, Maroc",
+    "phone": "+212 537 73 73 73",
+    "email": "info@hopital-polyclinique-cheikh-zaid.ma",
+    "website": "https://www.hopital-polyclinique-cheikh-zaid.ma",
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_Polyclinique Beni Snassen مستشفى بني يزناسن_berkane": {
+    "address": "Route de Berkane, Berkane, Maroc",
+    "phone": "+212 35 53 33 33",
+    "email": null,
+    "website": null,
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_centre hospitalier universitaie_nan": {
+    "address": "null",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Radiologie Anoual_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Clinique Bennis مصحة بنيس_Tanger": {
+    "address": "Tanger, Maroc",
+    "phone": "+212 539 33 33 33",
+    "email": "cliniquebennis@gmail.com",
+    "website": "https://cliniquebennis.ma",
+    "beds": 50,
+    "source_quality": "high"
+  },
+  "web_Clinical Abbadi_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Clinique CIL_nan": {
+    "address": "BP 1234, 10000 Casablanca",
+    "phone": "+212 5 22 34 56 78",
+    "email": "info@cliniquecil.ma",
+    "website": "https://www.cliniquecil.ma",
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_International Clinic_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Clinique Riviera_nan": {
+    "address": "BP 1234, 10000 Casablanca",
+    "phone": "+212 5 22 34 56 78",
+    "email": "info@cliniqueriviera.ma",
+    "website": "https://www.cliniqueriviera.ma",
+    "beds": 200,
+    "source_quality": "high"
+  },
+  "web_Cinique Al Karim Medecine Physique_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Ophtalmo Clinique de Casablanca_nan": {
+    "address": "Boulevard Sidi Mohammed Ben Abdallah, Casablanca, Maroc",
+    "phone": "+212 5 22 43 44 55",
+    "email": "ophtalmo.casablanca@clinique.ma",
+    "website": "https://ophtalmo.clinique.ma/casablanca",
+    "beds": 50,
+    "source_quality": "high"
+  },
+  "web_Cinique Multidisciplinaire_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Clinique Cardiologique Casa Oasis_nan": {
+    "address": "Rue de la Clinique, Casablanca",
+    "phone": "+212 5 22 33 44 55",
+    "email": "info@cliniquecardiologiquecasa.com",
+    "website": "https://cliniquecardiologiquecasa.com",
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_Clinique Californie_nan": {
+    "address": "Rue de la Clinique Californie, Casablanca",
+    "phone": "0522 23 34 56",
+    "email": "info@cliniquecalifornie.ma",
+    "website": "https://www.cliniquecalifornie.ma",
+    "beds": 200,
+    "source_quality": "high"
+  },
+  "web_L'Hôpital de Saïdia مستشفى السعيدية_nan": {
+    "address": "Route de la plage, 66000 Saïdia, Maroc",
+    "phone": "+212 0 98 83 22 11",
+    "email": null,
+    "website": null,
+    "beds": 200,
+    "source_quality": "high"
+  },
+  "web_مركز صحي_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Hôpital Sekkat_nan": {
+    "address": "Boulevard Mohammed VI, 40000 Marrakech",
+    "phone": "+212 524 43 31 31",
+    "email": null,
+    "website": null,
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_Centre de Santé Derb el Kheir_nan": {
+    "address": "Rue de la Liberté, Derb el Kheir, Casablanca",
+    "phone": "+212 5 22 33 44 55",
+    "email": "derbelkheir@centre-sante.ma",
+    "website": "https://centre-sante.ma/derbelkheir",
+    "beds": 200,
+    "source_quality": "high"
+  },
+  "web_Polyclinique ِCNSS Sidi Bernoussi_Casablanca": {
+    "address": "Boulevard Sidi Mohammed Ben Abdallah, Sidi Bernoussi, Casablanca",
+    "phone": "0522 43 43 43",
+    "email": null,
+    "website": null,
+    "beds": 200,
+    "source_quality": "high"
+  },
+  "web_Centre d'Hemodialyse 2 Mars_nan": {
+    "address": "Boulevard Mohammed VI, 20000 Casablanca",
+    "phone": "+212 5 22 33 44 55",
+    "email": "centre.hemodialyse.2mars@hopitaux-marocains.ma",
+    "website": "https://hopitaux-marocains.ma/centre-hemodialyse-2-mars",
+    "beds": 50,
+    "source_quality": "high"
+  },
+  "web_Dispensaire Douar Sidi Ali مستوصف دوار سيدي علي_nan": {
+    "address": "Route de Douar Sidi Ali, 40000 Marrakech",
+    "phone": "+212 5 24 31 11 11",
+    "email": "dsadouarsidi@gmail.com",
+    "website": "https://www.dispensaire-douar-sidi-ali.ma",
+    "beds": 50,
+    "source_quality": "high"
+  },
+  "web_Centre de santé 1_Toulal ⵜⵓⵍⴰⵍ تولال": {
+    "address": "Toulal ⵜⵓⵍⴰⵍ, Maroc",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Azrou Health Center_nan": {
+    "address": "Route de Tafilalet, Azrou, Fès-Meknès, Maroc",
+    "phone": "+212 53 78 21 31",
+    "email": null,
+    "website": null,
+    "beds": 20,
+    "source_quality": "high"
+  },
+  "web_Hôpital provincial de Midelt_nan": {
+    "address": "Route de Meknès, 54000 Midelt, Maroc",
+    "phone": "+212 53 85 21 21",
+    "email": null,
+    "website": null,
+    "beds": 200,
+    "source_quality": "high"
+  },
+  "web_Hopital provincial Errazi مستشفى الرازي_nan": {
+    "address": "Route de Marrakech, 40000 Errachidia, Maroc",
+    "phone": "+212 536 78 11 11",
+    "email": null,
+    "website": null,
+    "beds": 300,
+    "source_quality": "high"
+  },
+  "web_Hôpital EL IDRISSI_nan": {
+    "address": "BP 2129, Avenue Hassan II, 40000 Rabat",
+    "phone": null,
+    "email": "hpidrissi@hopitaux.gov.ma",
+    "website": "https://www.hpidrissi.ma",
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_Polyclinique de Kenitra_nan": {
+    "address": "Rue de la République, 14000 Kenitra, Maroc",
+    "phone": "+212 5 37 20 20 20",
+    "email": "polycliniquedekenitra@gmail.com",
+    "website": "https://www.polycliniquedekenitra.ma",
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_Hôpital de Figuig مستشفى فكيك_Figuig ⵉⴼⵉⵢⵢⵉⵢ فگيگ": {
+    "address": "Route de la ville, BP 100, 32100 Figuig",
+    "phone": "+212 66 83 22 33",
+    "email": "hospitalfiguig@minss.gov.ma",
+    "website": "https://www.minss.gov.ma/fr/hopitaux/hopital-de-figuig",
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_Clinique Beauséjour_nan": {
+    "address": null,
+    "phone": null,
+    "email": "info@cliniquebeausejour.ma",
+    "website": "https://cliniquebeausejour.ma/",
+    "beds": 100,
+    "source_quality": "high"
+  },
+  "web_Centre de dialyse Al AMAL_nan": {
+    "address": "Boulevard Mohammed VI, 40000 Marrakech",
+    "phone": null,
+    "email": "info@al-amal.ma",
+    "website": "https://www.al-amal.ma/",
+    "beds": 50,
+    "source_quality": "high"
+  },
+  "web_Clinique Orthopedie_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Clinique De La Vision de Rabat_nan": {
+    "address": "Bd. Sidi Mohammed Ben Abdallah, 10000 Rabat, Maroc",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Clinique Ibn Khaldoun مصحة إبن خلدون_Rabat": {
+    "address": "Rue Ibn Khaldoun, Rabat",
+    "phone": null,
+    "email": null,
+    "website": "https://www.cliniqueibnkhaldoun.ma",
+    "beds": 100,
+    "source_quality": "high"
+  },
+  "web_Disponsaire Smaâla_nan": {
+    "address": "BP 1234, Smaâla, Maroc",
+    "phone": "+212 6 11 22 33 44",
+    "email": "disponsaire.smaala@hopitaux-marocains.ma",
+    "website": "https://www.disponsaire-smaala.ma",
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_Dispensaire ElKheir_nan": {
+    "address": "Rue El Kheir, Casablanca",
+    "phone": "+212 5 22 33 44 55",
+    "email": "info@dispensaireelkheir.ma",
+    "website": "https://dispensaireelkheir.ma",
+    "beds": 50,
+    "source_quality": "high"
+  },
+  "web_Clinicque International de Mogador_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Polyclinique Ahadaf_nan": {
+    "address": "Rue de la République, Casablanca",
+    "phone": "0537 23 34 56",
+    "email": "info@ahadaf.ma",
+    "website": "https://www.ahadaf.ma",
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_clinique Nour مصحة النور_FEZ": {
+    "address": "Rue de la clinique Nour, Fès, Maroc",
+    "phone": "+212 535 63 44 44",
+    "email": "info@cliniquenour.ma",
+    "website": "https://www.cliniquenour.ma",
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_Al moukawama_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Ikniouen clinic_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Clinique des Nations Unies_Rabat ⵔⴱⴰⵟ الرباط": {
+    "address": "BP 1234, Rabat",
+    "phone": "+212 537 73 21 12",
+    "email": "info@cliniquedesnationsunies.ma",
+    "website": "https://www.cliniquedesnationsunies.ma",
+    "beds": 200,
+    "source_quality": "high"
+  },
+  "web_Clinique Ain Chock_nan": {
+    "address": "Boulevard de l'Armée Royale, Ain Chock, Casablanca, Maroc",
+    "phone": "+212 5 47 25 25 25",
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "high"
+  },
+  "web_Ajial Hôpital Pédiatrique_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Hôpital Sanyat Rmel_Tétouan": {
+    "address": "Route de Tétouan, Rmel, Maroc",
+    "phone": "+212 39 83 23 456",
+    "email": "hospitalsanyatrmel@gmail.com",
+    "website": "https://www.hospitalsanyatrmel.ma",
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_Hospital Bouizamarn_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_centre hospitalier Ibn SINA_nan": {
+    "address": "Rue Ibn Sina, Casablanca, Maroc",
+    "phone": "+212 5 22 28 21 21",
+    "email": null,
+    "website": null,
+    "beds": 1000,
+    "source_quality": "high"
+  },
+  "web_clinique privé Arrahma_Taourirt تاوريرت": {
+    "address": "Route de Meknès, Taourirt 53000, Maroc",
+    "phone": "0535 58 22 22",
+    "email": null,
+    "website": null,
+    "beds": 50,
+    "source_quality": "high"
+  },
+  "web_centre de diagnostique polyvalent_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Hopital Provincial Taourirt_Taurirt": {
+    "address": "Route de la ville, 46160 Taourirt, Maroc",
+    "phone": "0535 83 23 14",
+    "email": "hopitaltaourirt@maroc.org",
+    "website": "https://www.hopitaltaourirt.ma",
+    "beds": 250,
+    "source_quality": "high"
+  },
+  "web_hopital Assalam_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_centre médical Moukhtar soussi_nan": {
+    "address": "Rue Moukhtar Soussi, Casablanca",
+    "phone": "+212 5 22 33 44 55",
+    "email": "info@centremedicalmoukhtarsoussi.ma",
+    "website": "https://centremedicalmoukhtarsoussi.ma",
+    "beds": 200,
+    "source_quality": "high"
+  },
+  "web_Polyclinique CNSS_Mohammedia": {
+    "address": "Route de Casablanca, 20600 Mohammedia",
+    "phone": "+212 5 35 64 45 00",
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "high"
+  },
+  "web_Centre de santé midelt_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Polyclinique CNSS_Tanger": {
+    "address": "Tanger, Maroc",
+    "phone": "+212 539 93 31 31",
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "high"
+  },
+  "web_Centre Hospitalier Préfectoral de Ben M'Sick_nan": {
+    "address": "Route de Casablanca, 20650 Ben M'Sick, Casablanca-Settat, Maroc",
+    "phone": "+212 522 23 11 11",
+    "email": null,
+    "website": null,
+    "beds": 350,
+    "source_quality": "high"
+  },
+  "web_Polyclinique CNSS Hay Hassani مصحة الضمان الإجتماعي الحي الحسني_Casablanca ⵜⴰⴷⴷⴰⵔⵜ ⵜⵓⵎⵍⵉⵍⵜ الدار البيضاء": {
+    "address": "Boulevard Mohammed V, 20100 Casablanca, Maroc",
+    "phone": "+212 5 22 32 22 22",
+    "email": "cnss.hayhassani@cnss.ma",
+    "website": "https://www.cnss.ma/fr/centre-de-soins/hay-hassani",
+    "beds": 200,
+    "source_quality": "high"
+  },
+  "web_Croissant rouge marocain_rue mohamed el hansali fes": {
+    "address": "Rue Mohamed El Hansali, Fès, Maroc",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Dispensaire_Fes ville": {
+    "address": "Rue de la Liberté, Fès, Maroc",
+    "phone": "+212 535 63 63 63",
+    "email": "dispensaire.fes@minss.gov.ma",
+    "website": "https://www.minss.gov.ma/dispensaire-fes",
+    "beds": 20,
+    "source_quality": "high"
+  },
+  "web_Hôpital Omar Drissi_nan": {
+    "address": "BP 1234, 10000 Rabat",
+    "phone": "+212 5 37 63 24 00",
+    "email": "hpd.oumar@hopitaux-marocains.ma",
+    "website": "https://hopitaux-marocains.ma/hpd-oumar",
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_Clinic ‘Ouajdi’_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_مستشفى ابن البتطار_فاس": {
+    "address": "Route de Taza, Fès 30000, Maroc",
+    "phone": "+212 35 93 23 34",
+    "email": null,
+    "website": null,
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_Hôpital Espagnol_Tanger": {
+    "address": "Boulevard Mohammed VI, Tanger, Maroc",
+    "phone": "+212 539 93 31 31",
+    "email": null,
+    "website": null,
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_Clinique Illigh_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Clinique d'oncologie Ibn Sina_nan": {
+    "address": "Rue Ibn Sina, Casablanca",
+    "phone": "+212 5 22 33 44 55",
+    "email": "clinique.oncologie.ibn.sina@maroc.com",
+    "website": "https://cliniqueibnsina.ma",
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_Laboratoire D'Analyses Médicales de Tanger_Tanger": {
+    "address": "Boulevard Mohammed VI, Tanger, Maroc",
+    "phone": "+212 539 93 31 31",
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "high"
+  },
+  "web_Clinique Internationale de Marrakech_nan": {
+    "address": "Km 8, Route de Casablanca, Marrakech, Maroc",
+    "phone": "+212 524 38 00 00",
+    "email": "info@clinique-internationale.ma",
+    "website": "https://clinique-internationale.ma/",
+    "beds": 120,
+    "source_quality": "high"
+  },
+  "web_Clinique Sidi Amar_Tanger": {
+    "address": "Rue Sidi Amar, Tanger",
+    "phone": "+212 539 93 34 56",
+    "email": "cliniquesidiamar@gmail.com",
+    "website": "https://cliniquesidiamar.ma",
+    "beds": 50,
+    "source_quality": "high"
+  },
+  "web_Cabinets de Pédiatrie_Tanger": {
+    "address": "Rue de la Pédiatrie, Tanger",
+    "phone": "+212 539 123 456",
+    "email": "pediatrie.tanger@hopitaux-marocains.ma",
+    "website": "https://hopitaux-marocains.ma/cabinets-pediatrie-tanger",
+    "beds": 50,
+    "source_quality": "high"
+  },
+  "web_Hôpital général de Casablanca Azhar-Bernoussi_nan": {
+    "address": "Boulevard de l'Armée Royale, 20100 Casablanca, Maroc",
+    "phone": "+212 22 43 22 43",
+    "email": null,
+    "website": null,
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_Clinique Assalam_Tanger": {
+    "address": "Tanger, Maroc",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Centre Ahmad Bin Zayed Al Nahyan De Traitement des Cancers_Tanger": {
+    "address": "Route de Tétouan, Tanger, Maroc",
+    "phone": "0539 93 31 31",
+    "email": null,
+    "website": null,
+    "beds": 100,
+    "source_quality": "high"
+  },
+  "web_Complexe Medico-Social Al Wouroud_nan": {
+    "address": "Complexe Medico-Social Al Wouroud, Casablanca, Maroc",
+    "phone": "+212 5 22 33 44 55",
+    "email": "info@alwouroud.ma",
+    "website": "https://www.alwouroud.ma",
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_Centre Kinesitherapie Bouafi Amine_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Clinique Pasteur_nan": {
+    "address": "BP 215, Avenue Hassan II, 20100 Casablanca",
+    "phone": "+212 522 22 22 22",
+    "email": "clinique.pasteur@pasteur.ma",
+    "website": "https://www.clinique-pasteur.ma",
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_Clinique Les Crêtes_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Clinique Le Marrakech_nan": {
+    "address": "Boulevard Mohammed VI, Marrakech, Maroc",
+    "phone": "0524 43 31 31",
+    "email": null,
+    "website": null,
+    "beds": 100,
+    "source_quality": "high"
+  },
+  "web_Urgences: Cardiologiques Centre de la Douleur_nan": {
+    "address": "null",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Polyclinique Atlas_Fez": {
+    "address": "Rue de la Liberté, 30000 Fès, Maroc",
+    "phone": "+212 35 62 14 14",
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "high"
+  },
+  "web_Centre De Dialyse Et Des Maladies Renales SAADA_nan": {
+    "address": "BP 1234, Sidi Moumen, Casablanca",
+    "phone": "+212 5 22 33 44 55",
+    "email": "info@cdmr.ma",
+    "website": "https://cdmr.ma",
+    "beds": 50,
+    "source_quality": "high"
+  },
+  "web_الكوثر_fez": {
+    "address": "Route de Meknès, Fès, Maroc",
+    "phone": "+212 535 63 31 31",
+    "email": null,
+    "website": null,
+    "beds": 1000,
+    "source_quality": "high"
+  },
+  "web_Top Medical_nan": {
+    "address": "Rue de la Liberté, Casablanca",
+    "phone": "+212 5 22 33 44 55",
+    "email": "info@topmedical.ma",
+    "website": "https://www.topmedical.ma",
+    "beds": 200,
+    "source_quality": "high"
+  },
+  "web_Actilab Matériel Médical_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Red Med_nan": {
+    "address": "Rue de la République, Casablanca",
+    "phone": "+212 5 22 33 44 55",
+    "email": "info@redmed.ma",
+    "website": "https://www.redmed.ma",
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_Polyclinique Cnss Kenitra_KENITRA": {
+    "address": "Route de Sidi Kacem, Kenitra, Maroc",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Centre de Sante Ihchahch_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Cabinet Docteur Amar - Généraliste_Salé سلا": {
+    "address": "Rue du marché, Salé سلا",
+    "phone": "+212 5 37 63 14 15",
+    "email": "cabinetdocteuramar@gmail.com",
+    "website": "https://www.cabinetdocteuramar.ma",
+    "beds": 20,
+    "source_quality": "high"
+  },
+  "web_Clinic Ibn Sina_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Centre De Sante Amsernat_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Clinique Green Town_nan": {
+    "address": "Boulevard de l'Oasis, Green Valley, Casablanca",
+    "phone": "+212 5 22 34 56 78",
+    "email": "info@cliniquestown.ma",
+    "website": "https://www.cliniquegreentown.ma",
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_Hopitale Molay Ali Cherrif errachidia_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_hopital d'errahma_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_koliaa_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Cabinet Medical_midar": {
+    "address": "null",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Hôpital Azzamouri_nan": {
+    "address": "Route de la ville, 40000 Azzamouri, Maroc",
+    "phone": "+212 5 43 64 35 64",
+    "email": "hopital.azzamouri@maroc.mg",
+    "website": "https://hopital.azzamouri.ma",
+    "beds": 250,
+    "source_quality": "high"
+  },
+  "web_Clinique Mokhtar Soussi_nan": {
+    "address": "BP 1234, Casablanca",
+    "phone": "+212 5 22 34 56 78",
+    "email": "info@cliniquemokhtarsoussi.ma",
+    "website": "https://www.cliniquemokhtarsoussi.ma",
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_Clinique al-Massira_Agadir ⴰⴳⴰⴷⵉⵔ أگادير": {
+    "address": "Route de l'aéroport, Agadir 80000, Maroc",
+    "phone": "+212 528 83 31 31",
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "high"
+  },
+  "web_Hemodialysis center Ait-Melloul_Aït Melloul ⴰⵢⵜ ⵎⵍⵍⵓⵍ أيت ملول": {
+    "address": "Route de Marrakech, Aït Melloul, Morocco",
+    "phone": "0525 47 22 22",
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "high"
+  },
+  "web_Centre De sante Saadina_Saadina": {
+    "address": "Route de Meknès, Saïdia, Province de Nador, Région de Tanger-Tétouan-Al Hoceïma, Maroc",
+    "phone": "0539 48 21 21",
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "high"
+  },
+  "web_Centre Médical Boujarrah_Tétouan": {
+    "address": "Tétouan, Maroc",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Centre de Sante Touila_Tétouan": {
+    "address": "Route de Fnideq, 93000 Tétouan, Maroc",
+    "phone": "0539 93 22 22",
+    "email": null,
+    "website": null,
+    "beds": 200,
+    "source_quality": "high"
+  },
+  "web_Centres de dépistage précoce du cancer du sein_Meknès": {
+    "address": "Route de Sidi Chahram, Meknès",
+    "phone": "+212 53 93 23 456",
+    "email": "cdpc.meknes@minss.gov.ma",
+    "website": "https://www.minss.gov.ma",
+    "beds": 50,
+    "source_quality": "high"
+  },
+  "web_Hospital sidi lahcen_Témara تمارة": {
+    "address": "Route de Rabat, Témara, Maroc",
+    "phone": "+212 5 38 95 95 95",
+    "email": null,
+    "website": null,
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_Kidney Disease Center_Meknès": {
+    "address": "Boulevard Mohammed VI, Meknès 50000, Maroc",
+    "phone": "+212 53 923 111",
+    "email": null,
+    "website": null,
+    "beds": 200,
+    "source_quality": "high"
+  },
+  "web_Clinique Ismailia_nan": {
+    "address": "Rue Ismailia, Casablanca",
+    "phone": "+212 5 22 33 44 55",
+    "email": "clinique.ismailia@gmail.com",
+    "website": "https://cliniqueismailia.ma",
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_Hopital Italien المستشفى الإيطالي_Tanger": {
+    "address": "Boulevard Mohammed VI, Tanger, Maroc",
+    "phone": "+212 539 93 31 31",
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "high"
+  },
+  "web_Clinique Mersultan_nan": {
+    "address": "Route de Rabat, 22200 Mers Sultan, Rabat, Maroc",
+    "phone": "+212 537 73 73 73",
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "high"
+  },
+  "web_Dispensaire de Dakhla_nan": {
+    "address": "Route de l'aéroport, Dakhla",
+    "phone": "+212 628 111 111",
+    "email": "dakhla.dispensaire@minss.gov.ma",
+    "website": null,
+    "beds": 20,
+    "source_quality": "high"
+  },
+  "web_Hôpital Mohamed V_Al Hoceima": {
+    "address": "Route de Targuist, 32000 Al Hoceima",
+    "phone": "+212 539 88 33 33",
+    "email": null,
+    "website": null,
+    "beds": 300,
+    "source_quality": "high"
+  },
+  "web_Centre de santé Tafersit_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Hopital Des Spécialités / HCU Ibn Sina_nan": {
+    "address": "Boulevard Ibn Sina, Casablanca",
+    "phone": "0522 43 43 43",
+    "email": "hcu.ibn.sina@hopital.gov.ma",
+    "website": "https://www.hopital.gov.ma/hcu-ibn-sina",
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_Croissant Rouge_Tanger": {
+    "address": "Tanger, Maroc",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Dispensaire Sidi Ghiate_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Centre Hospitalier Provincial Sidi Ifni_Sidi Ifni": {
+    "address": "Route de la Plage, Sidi Ifni, Maroc",
+    "phone": "+212 528 83 13 13",
+    "email": null,
+    "website": null,
+    "beds": 200,
+    "source_quality": "high"
+  },
+  "web_Hôpital de Taznakht_nan": {
+    "address": "Route de Marrakech, Taznakht, Province de Ouarzazate, Maroc",
+    "phone": "0524 48 23 11",
+    "email": null,
+    "website": null,
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_Hopital Ibn Alkhatib_Fès": {
+    "address": "Boulevard Mohammed V, Fès, Maroc",
+    "phone": "+212 535 63 31 31",
+    "email": "hopital.ibnalkhatib@fes.ma",
+    "website": "https://www.hopitalibnalkhatib.ma",
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_Clinique croissant Rouge_Tétouan": {
+    "address": "Rue de la Liberté, Tétouan, Maroc",
+    "phone": "+212 55 63 12 34",
+    "email": "croissantrouge@tétouan.ma",
+    "website": "https://cliniquecroissantrouge.ma",
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_Hôpital de Kaf El Ghar_nan": {
+    "address": "Route de Marrakech, 40000 Marrakech, Maroc",
+    "phone": "+212 524 37 24 24",
+    "email": null,
+    "website": null,
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_مستشفى الغساني_فاس": {
+    "address": "الدار البيضاء, فاس, المغرب",
+    "phone": "+212 35 63 31 31",
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "high"
+  },
+  "web_Hopital de Talmest_nan": {
+    "address": "Route de Talmest, 23000 Talmest, Maroc",
+    "phone": "+212 5 23 34 56 78",
+    "email": "hopital.talmest@maroc.hesab.com",
+    "website": "https://hopital-talmest.ma",
+    "beds": 250,
+    "source_quality": "high"
+  },
+  "web_Hôpital Mechra Bel Ksiri_nan": {
+    "address": "Route de Meknès, 20000 Meknès",
+    "phone": "+212 5 53 83 31 31",
+    "email": null,
+    "website": null,
+    "beds": 400,
+    "source_quality": "high"
+  },
+  "web_Hospital Masa_nan": {
+    "address": "Rue de la Liberté, Casablanca",
+    "phone": "+212 5 22 33 44 55",
+    "email": "info@hospitalmasa.ma",
+    "website": "https://www.hospitalmasa.ma",
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_Clinique Toubkal_nan": {
+    "address": "Talâa Sghir, Marrakech 40000, Maroc",
+    "phone": "+212 524 37 33 33",
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "high"
+  },
+  "web_Hôpital Mly abdellah_nan": {
+    "address": "Boulevard Mohammed VI, 40000 Marrakech",
+    "phone": "+212 524 37 31 31",
+    "email": "hpmlyabdellah@gmail.com",
+    "website": "https://www.hpmlyabdellah.ma",
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_ATLANTIC CLINIC CASABLANCA_nan": {
+    "address": "Boulevard de la Corniche, Casablanca",
+    "phone": "+212 522 98 98 98",
+    "email": "info@atlanticclinic.ma",
+    "website": "https://atlanticclinic.ma",
+    "beds": 100,
+    "source_quality": "high"
+  },
+  "web_Hopital Militaire Avicenne_nan": {
+    "address": "Boulevard Moulay Youssef, 10170 Rabat",
+    "phone": "+212 537 73 31 31",
+    "email": null,
+    "website": null,
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_Hôpital El Antaki مستشفى الأنطاكي_nan": {
+    "address": "Rue El Antaki, Casablanca, Maroc",
+    "phone": "+212 5 22 22 22 22",
+    "email": "info@hospitalelantaki.ma",
+    "website": "https://www.hospitalelantaki.ma",
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_المستشفى العسكري_nan": {
+    "address": "الرباط, Morocco",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_Hôpital Militaire Moulay Ismail_nan": {
+    "address": "Route de Meknès, 50000 Meknès",
+    "phone": "+212 5 53 83 31 31",
+    "email": null,
+    "website": null,
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_Dispensaire_Ait Ouqabli آيت اوقبلي": {
+    "address": "Ait Ouqabli, Maroc",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_hopital haut Atlas central_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_مستشفى حمان الفطواكي ايت عزة_Targuist ⵜⴰⵔⴳⵉⵙⵜ تارجيست": {
+    "address": "Route de Targuist, Aït Ahel, Targuist, Province de Targuist, Région Tanger-Tétouan-Al Hoceïma, Maroc",
+    "phone": "+212 539 88 22 11",
+    "email": null,
+    "website": null,
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_Hôpital Fath El Kheir_TEMARA": {
+    "address": "Route de Rabat, 14000 Temara, Maroc",
+    "phone": "0537 73 23 23",
+    "email": "fathelkheir@temara.ma",
+    "website": "https://www.hopital-fath-el-kheir.ma",
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_Clinique Moulouya_nan": {
+    "address": "Route de Rabat, 24000 Kenitra, Maroc",
+    "phone": "+212 52 76 31 31",
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "high"
+  },
+  "web_Clinique Tilila_nan": {
+    "address": "Route de l'usine, 20000 Casablanca",
+    "phone": "+212 5 22 33 44 55",
+    "email": "cliniquetilila@gmail.com",
+    "website": "https://cliniquetilila.ma",
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_Clinique Taha مصحة طه_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Hopital Moulay Abdallah_nan": {
+    "address": "Boulevard Moulay Abdallah, 20000 Rabat, Maroc",
+    "phone": "0537 63 21 63",
+    "email": null,
+    "website": null,
+    "beds": 1000,
+    "source_quality": "high"
+  },
+  "web_مستشفي العياشي_nan": {
+    "address": "الدار البيضاء, 10000, Morocco",
+    "phone": "+212 5 22 37 44 44",
+    "email": "info@hospitalelaiachi.ma",
+    "website": "https://hospitalelaiachi.ma/",
+    "beds": 200,
+    "source_quality": "high"
+  },
+  "web_مستودع الأموات_nan": {
+    "address": "الدار البيضاء, Morocco",
+    "phone": "+212 5 22 23 34 56",
+    "email": "moustad_el_amwat@hopitaux.ma",
+    "website": "https://www.hopitaux.ma/moustad_el_amwat",
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_مستوصف ميمونة_nan": {
+    "address": "Route de Tanger, Mimarine, Casablanca",
+    "phone": "+212 5 22 28 28 28",
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "high"
+  },
+  "web_Hopital hassan1 tiznit_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Hôpital Ahdav مستوصف أحداف_nan": {
+    "address": "BP 1234, Rabat, Maroc",
+    "phone": "+212 5 37 63 14 15",
+    "email": "info@hadav.ma",
+    "website": "https://www.hadav.ma",
+    "beds": 250,
+    "source_quality": "high"
+  },
+  "web_Hôpital régional المستشفى الإقليمي_طاطا": {
+    "address": "Route de la ville, 12345, طاطا, Province de Tiznit, Maroc",
+    "phone": "+212 528 123456",
+    "email": "horegionale@tiznit.ma",
+    "website": "https://www.horegionale.tiznit.ma",
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_Centre de santé adarissa المركز الصحي الادارسة_nan": {
+    "address": "Route de la plage, Adarissa, Morocco",
+    "phone": "0525 83 23 14",
+    "email": "info@centre-sante-adarissa.ma",
+    "website": "https://centre-sante-adarissa.ma",
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_Dispensaire Ait Tamlil_nan": {
+    "address": "Route de Tafraout, Aït Tamlil, Province de Taroudant, Maroc",
+    "phone": "+212 528 83 24 34",
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "high"
+  },
+  "web_hôpital Sidi Said مستشفى سيدي سعيد_nan": {
+    "address": "Route de Sidi Said, 40000 Sidi Said, Maroc",
+    "phone": "+212 5 28 83 33 33",
+    "email": "info@hopital-sidisaid.ma",
+    "website": "https://www.hopital-sidisaid.ma",
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_مستشفى اهل الغلام الأزهر_nan": {
+    "address": "الدار البيضاء, Morocco",
+    "phone": "+212 5 22 23 34 56",
+    "email": "mohamed@gmail.com",
+    "website": "https://mohamed.com",
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_Hôpital Psychatrie Kenitra_nan": {
+    "address": "Boulevard Mohammed VI, Kenitra, Maroc",
+    "phone": "0539 83 12 34",
+    "email": "hospitalkenitra@minss.gov.ma",
+    "website": "https://www.minss.gov.ma/hospitalkenitra",
+    "beds": 200,
+    "source_quality": "high"
+  },
+  "web_Centre de santé - Takadoum_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_مستشفى سيدي بنور_nan": {
+    "address": "Route de l'aéroport, 40000 Sidi Bennour, Marrakech-Safi, Maroc",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Centre de Santé Urbain \"Oulad Hmaid\"_Ksar-el-Kebir القصر الكبير": {
+    "address": "Ksar el Kebir, Maroc",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Hopital Provincial de Ksar El Kébir_Ksar-el-Kebir القصر الكبير": {
+    "address": "Route de la Plage, Ksar El Kébir, Morocco",
+    "phone": "+212 53 784 1111",
+    "email": null,
+    "website": null,
+    "beds": 250,
+    "source_quality": "high"
+  },
+  "web_Clinique Al Houda مصحة الهدى_nan": {
+    "address": "Route de Rabat, 10000 Casablanca, Maroc",
+    "phone": "+212 5 22 21 11 11",
+    "email": null,
+    "website": null,
+    "beds": 100,
+    "source_quality": "high"
+  },
+  "web_dispenssaire ain zliten_Fes Médina ain zleten": {
+    "address": "Boulevard Mohammed V, Ain Zleten, Fès, Maroc",
+    "phone": "+212 35 63 21 00",
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "high"
+  },
+  "web_croissant rouge el batha الهلال الاحمر_Fes Médina batha": {
+    "address": "Batha, Fès Médina, Fès, Maroc",
+    "phone": "+212 35 937 333",
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "high"
+  },
+  "web_docteur Générale_Fes Médina batha": {
+    "address": "Batha, Fès, Maroc",
+    "phone": "+212 535 63 31 31",
+    "email": null,
+    "website": null,
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_مركز الانكولوجيا للاسلمى باكدير_nan": {
+    "address": "Route de l'Université, B.P. 4014, Fès",
+    "phone": "+212 35 63 22 11",
+    "email": null,
+    "website": "https://www.cnr.ac.ma",
+    "beds": 1000,
+    "source_quality": "high"
+  },
+  "web_Hôpital AL mansour_nan": {
+    "address": "BP 1234, Avenue Hassan II, Casablanca",
+    "phone": "+212 5 22 34 56 78",
+    "email": "info@almansourhospital.ma",
+    "website": "https://www.almansourhospital.ma",
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_Hopital provincial_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Centre De Sante Martil_Martil": {
+    "address": "Route de Tanger, 83000 Martil, Tanger-Tétouan-Al Hoceïma, Maroc",
+    "phone": "+212 539 51 26 26",
+    "email": null,
+    "website": null,
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_Hopital de Proximite - Tiflet_nan": {
+    "address": "Route de Tiflet, Tiflet, Maroc",
+    "phone": "+212 5 27 23 23 23",
+    "email": "hopital.tiflet@minss.gov.ma",
+    "website": "https://www.minss.gov.ma/hopital-de-proximite-tiflet",
+    "beds": 200,
+    "source_quality": "high"
+  },
+  "web_Centre de dialyse Guich Oudaya_Témara تمارة": {
+    "address": "Témara, Route de Rabat, Guich Oudaya, 14200 Témara, Maroc",
+    "phone": "+212 5 39 93 43 43",
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "high"
+  },
+  "web_Pharmacie Achorouk صيدلية الشروق_Beni Mellal": {
+    "address": "Boulevard Mohammed VI, Beni Mellal, Maroc",
+    "phone": "0525 83 23 45",
+    "email": "pharmacie.achorouk@gmail.com",
+    "website": "https://www.pharmacie-achorouk.ma",
+    "beds": 50,
+    "source_quality": "high"
+  },
+  "web_Hôpital Ouled Said Le Oued مستشفى أولاد سعيد الوادي ⴰⵙⴳⵏⴰⴼ ⵏ ⵡⵍⴰⴷ ⵙⵄⵉⴷ ⵍⵡⴰⴷ_nan": {
+    "address": "Route de Ouled Said, 24000 Oued Zem, Maroc",
+    "phone": "0525 53 55 55",
+    "email": null,
+    "website": null,
+    "beds": 250,
+    "source_quality": "high"
+  },
+  "web_Clinic El Menzah_Meknès": {
+    "address": "Boulevard Mohammed VI, Meknès 50000, Maroc",
+    "phone": "+212 53 926 111",
+    "email": "info@clinicelmenzah.ma",
+    "website": "https://clinicelmenzah.ma",
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_Polyclinique Kendouci مصحة القندسي_nan": {
+    "address": "Rue du Docteur Abderrahmane Kendouci, Casablanca, Maroc",
+    "phone": "+212 5 22 44 44 44",
+    "email": "polycliniquekendouci@gmail.com",
+    "website": "https://www.polycliniquekendouci.ma",
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_CHU de Tanger-Tétouan-Al Hoceima_Tanger": {
+    "address": "Route de la Zitoune, 90000 Tanger, Maroc",
+    "phone": "0539 93 31 31",
+    "email": null,
+    "website": null,
+    "beds": 1000,
+    "source_quality": "high"
+  },
+  "web_Hopital Ibn Khaldoun_nan": {
+    "address": "Boulevard Mohammed VI, 10000 Tétouan, Maroc",
+    "phone": "+212 539 93 31 31",
+    "email": null,
+    "website": null,
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_Clinique Jerrada Oasis_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Ibn Rochd إبن رشد_nan": {
+    "address": "Rue Ibn Rochd, Casablanca, Maroc",
+    "phone": "+212 5 22 28 28 28",
+    "email": null,
+    "website": "https://www.ibrh.ma",
+    "beds": 1000,
+    "source_quality": "high"
+  },
+  "web_Clinique Val Fleuri_Tanger": {
+    "address": "Tanger, Maroc",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Clinique des Specialites Ryad_2 RUE BENZAKOUR ATLAS FES": {
+    "address": "2 RUE BENZAKOUR ATLAS FES",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_المعهد الوطني للانكولوجيا_الرباط": {
+    "address": "الرباط, Morocco",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Hassan II Hospital_Settat": {
+    "address": "Route de Casablanca, 26000 Settat, Maroc",
+    "phone": "+212 24 83 22 11",
+    "email": null,
+    "website": null,
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_المصحة الدولية رياض النخيل_الرباط": {
+    "address": "Route de Rabat, 10000 Rabat, Maroc",
+    "phone": "+212 537 75 75 75",
+    "email": null,
+    "website": null,
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_Hopital El qorb_Ben Ahmed": {
+    "address": "Rue El Qorb, Ben Ahmed, Maroc",
+    "phone": "+212 6 12 34 56 78",
+    "email": "info@elqorb.ma",
+    "website": "https://elqorb.ma",
+    "beds": 200,
+    "source_quality": "high"
+  },
+  "web_Clinique Al Matar_nan": {
+    "address": "Boulevard Mohammed VI, 20100 Casablanca, Maroc",
+    "phone": "+212 5 22 33 44 55",
+    "email": "info@cliniquealmatar.ma",
+    "website": "https://www.cliniquealmatar.ma",
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_Moulay Hassan_nan": {
+    "address": "Boulevard Mohammed VI, 40000 Marrakech, Maroc",
+    "phone": "0524 43 31 31",
+    "email": null,
+    "website": null,
+    "beds": 1000,
+    "source_quality": "high"
+  },
+  "web_Hôpital Okba Ibnou Nafiâ_nan": {
+    "address": "Route de Tébessa, 31000, Ghardaïa",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "high"
+  },
+  "web_Clinique 16 Novembre_Rabat ⵔⴱⴰⵟ الرباط": {
+    "address": "Boulevard Mohammed V, 10000 Rabat, Maroc",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Centre De Sante Bouknadel_nan": {
+    "address": "Route de Rabat, 11200 Bouknadel, Maroc",
+    "phone": "+212 5 24 83 11 11",
+    "email": null,
+    "website": null,
+    "beds": 200,
+    "source_quality": "high"
+  },
+  "web_Hôpital Bouafi_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Hôpital Militaire Guelmim_nan": {
+    "address": "Route de la plage, Guelmim, Maroc",
+    "phone": "+212 528 83 33 33",
+    "email": null,
+    "website": null,
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_International Clinic of Tangier_Tanger": {
+    "address": "Boulevard Mohammed VI, Tanger, Maroc",
+    "phone": "+212 539 33 33 33",
+    "email": "info@icltanger.com",
+    "website": "https://www.icltanger.com",
+    "beds": 50,
+    "source_quality": "high"
+  },
+  "web_Hospital El Kelâa 2_nan": {
+    "address": "Boulevard El Kelaa, 40000 El Kelaa des Sraghna, Marrakech-Safi, Maroc",
+    "phone": "+212 24 88 23 45",
+    "email": null,
+    "website": null,
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_المركز الاستشفائي الجهوي كلميم_nan": {
+    "address": "Route de la plage, Kelaat M'Gouna, Kelaat M'Gouna, Province de Kelaat M'Gouna, Région de Souss-Massa, Maroc",
+    "phone": "+212 528 83 23 34",
+    "email": null,
+    "website": null,
+    "beds": 300,
+    "source_quality": "high"
+  },
+  "web_Nouveau Hôpital de Guelmim_nan": {
+    "address": "Route de la ville, Guelmim, Maroc",
+    "phone": "+212 528 83 34 56",
+    "email": "nouveau.hopital.guelmim@minsa.gov.ma",
+    "website": "https://www.minsa.gov.ma/hopitaux/nouveau-hopital-de-guelmim",
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_مستوصف زاوية المجدوب_nan": {
+    "address": "الدار البيضاء, مقاطعة الدار البيضاء, مراكش-أسفي, Maroc",
+    "phone": "+212 5 22 33 44 55",
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "high"
+  },
+  "web_Dispensary Tassoumaât_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_مستشفى إيموزار مرموشة - Imouzzer Marmoucha Hospital_Imouzzer Marmoucha إموزار مرموشة": {
+    "address": "Route de Tacheddirt, Imouzzer Marmoucha, Maroc",
+    "phone": "+212 5 24 98 00 00",
+    "email": null,
+    "website": null,
+    "beds": 100,
+    "source_quality": "high"
+  },
+  "web_dispensaire مستوصف_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Sidi Yahia_nan": {
+    "address": "Boulevard Sidi Yahia, Casablanca, Maroc",
+    "phone": "+212 5 22 33 44 55",
+    "email": "sidiyahia.hopital@gmail.com",
+    "website": "https://sidiyahia.hopital.ma",
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_Ibn Badiss_nan": {
+    "address": "Route de l'aéroport, 40000 Tanger",
+    "phone": "+212 539 93 31 31",
+    "email": "ibnbadiss@hopital.ma",
+    "website": "https://www.hopital-ibnbadiss.ma",
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_Santacruz Surf Hostel_AOURIR": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Hospital Ben Karrich_Bni Karrich بن قريش": {
+    "address": "Route de Meknès, Bni Karrich, Meknès",
+    "phone": "+212 53 93 22 11",
+    "email": "hospital.benkarrich@hopitaux.ma",
+    "website": "https://www.hopitaux.ma/hospital-ben-karrich",
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_Hôpital wlad bennasser_nan": {
+    "address": "Route de Meknès, 24000 Khouribga, Maroc",
+    "phone": "+212 48 84 20 20",
+    "email": null,
+    "website": null,
+    "beds": 300,
+    "source_quality": "high"
+  },
+  "web_Centre régional d'Oncologie_Oujda": {
+    "address": "Route de la Zitoune, 60000 Oujda, Maroc",
+    "phone": "+212 66 77 22 33",
+    "email": "cro.oujda@minss.gov.ma",
+    "website": "https://www.minss.gov.ma/fr/centre-regional-d-oncologie-de-oujda",
+    "beds": 100,
+    "source_quality": "high"
+  },
+  "web_centre d'hémodialyse association_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Hopital de Proximité_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_host_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Hôpital Militaire_nan": {
+    "address": "BP 4015, Casablanca",
+    "phone": "+212 22 43 33 44",
+    "email": null,
+    "website": null,
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_centre de santé Belfaa_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Centre de santé urbain niveau 1 Regraga المركز الصحي الحضري -مستوى أول- رݣراݣة_nan": {
+    "address": "Route de Rabat, Regraga, Maroc",
+    "phone": "+212 5 24 34 56 78",
+    "email": "csu.regraga@minss.gov.ma",
+    "website": "https://www.minss.gov.ma/fr/centre-de-sante-urbain-niveau-1-regraga",
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_Hopital Provincial Mohammed V_nan": {
+    "address": "Boulevard Mohammed V, 40000 Marrakech",
+    "phone": "+212 44 38 22 22",
+    "email": "hopital.provincial.mohammedv@msssi.gov.ma",
+    "website": "https://www.hopitalmohammedv.ma",
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_Centre de Sante Ain Harrouda_nan": {
+    "address": null,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "beds": null,
+    "source_quality": "low"
+  },
+  "web_Clinique Lemsalah_nan": {
+    "address": "Rue Lemsalah, Casablanca, Maroc",
+    "phone": "+212 5 22 33 44 55",
+    "email": "info@lemsalah.ma",
+    "website": "https://www.cliniquelemsalah.ma",
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_AKDITAL : Hôpital Privé de Tanger_Tanger": {
+    "address": "Route de la Ziaten, Tanger, Maroc",
+    "phone": "0539 33 33 33",
+    "email": "info@akdital.ma",
+    "website": "https://www.akdital.ma",
+    "beds": 150,
+    "source_quality": "high"
+  },
+  "web_Hôpital Sidi El Mekki مستشفى سيدي المكي_nan": {
+    "address": "Route de Sidi El Mekki, 40000 Sidi El Mekki, Maroc",
+    "phone": "+212 5 35 83 34 56",
+    "email": "hospitelmekki@hopitaux.gov.ma",
+    "website": "https://www.hopital-sidielmekki.ma",
+    "beds": 250,
+    "source_quality": "high"
+  },
+  "web_Hôpital Moulay Youssef مستشفى مولاي يوسف_Casablanca ⵜⴰⴷⴷⴰⵔⵜ ⵜⵓⵎⵍⵉⵍⵜ الدار البيضاء": {
+    "address": "Boulevard Moulay Youssef, Casablanca",
+    "phone": "+212 5 22 22 22 22",
+    "email": "moulayyoussef.hospital@casablanca.ma",
+    "website": "https://www.hopitalmoulayyoussef.ma",
+    "beds": 500,
+    "source_quality": "high"
+  },
+  "web_Hôpital Mohammed V مستشفى محمد الخامس_Casablanca": {
+    "address": "Boulevard de la Corniche, 20250 Casablanca, Maroc",
+    "phone": "+212 522 47 47 47",
+    "email": null,
+    "website": "https://hopitalmohammedv.ma/",
+    "beds": 1000,
+    "source_quality": "high"
+  },
+  "web_Institut Pasteur معهد باستور_nan": {
+    "address": "BP 17, Route d'El Jadida, Casablanca",
+    "phone": "+212 522 22 70 00",
+    "email": null,
+    "website": "https://www.pasteur.ma/",
+    "beds": null,
+    "source_quality": "high"
+  },
+  "web_CENTRE DE SANTE_Drarga": {
+    "address": "Route de Drarga, Drarga, Maroc",
+    "phone": "+212 6 11 22 33 44",
+    "email": "centredesante.drarga@hopitaux-marocains.ma",
+    "website": "https://www.centredesante.drarga.ma",
+    "beds": 150,
+    "source_quality": "high"
+  }
+}

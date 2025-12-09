@@ -1,0 +1,834 @@
+﻿name,city,province,region,type,beds,phone,email,website,latitude,longitude,address,source,id,place_id
+Mohamed V,Al Hoceima (Mun.),Al Hoceima,Tanger-Tetouan-Al Hoceima,HP,300.0,+212 55 785 111,,,,,"Route de Targuist, Al Hoceima",gov,1,1.0
+C. d'oncologie d'Al Hoceima,Al Hoceima (Mun.),Al Hoceima,Tanger-Tetouan-Al Hoceima,CRO,150.0,+212 539 83 11 11,cdoncologiealhoceima@hopitaux-marocains.ma,https://hopitaux-marocains.ma/cdoncologiealhoceima,,,"Route de Tétouan, Al Hoceima, Maroc",gov,2,1.0
+Imzouren,Imzouren (Mun.),Al Hoceima,Tanger-Tetouan-Al Hoceima,HPr,200.0,+212 539 58 20 00,,,,,"Route de Tétouan, Imzouren, Province de Tanger, Maroc",gov,3,2.0
+Targuist,Targuist (Mun.),Al Hoceima,Tanger-Tetouan-Al Hoceima,HPr,120.0,,,,,,"Targuist, Province de Tanger-Tétouan-Al Hoceïma, Maroc",gov,4,3.0
+Mohamed V,Chefchaouen (Mun.),Chefchaouen,Tanger-Tetouan-Al Hoceima,HP,400.0,,,,,,"Chefchaouen, Morocco",gov,5,4.0
+Ksar El Kebir,Ksar El Kebir (Mun.),Larache,Tanger-Tetouan-Al Hoceima,HPr,250.0,+212 39 85 22 11,ksar-el-kebir@hopitaux-marocains.ma,https://hopitaux-marocains.ma/ksar-el-kebir,,,"Route de Tétouan, Ksar El Kebir, 12000",gov,6,5.0
+Lalla Meriem,Larache (Mun.),Larache,Tanger-Tetouan-Al Hoceima,HP,200.0,+212 39 85 22 11,,,,,"Route de la plage, 12200 Larache, Maroc",gov,7,6.0
+Abou Kacem Zahraoui,Ouezzane (Mun.),Ouezzane,Tanger-Tetouan-Al Hoceima,HP,300.0,053 986 11 11,azh@hopitaux.gov.ma,https://www.hopitalaboukacemzahraoui.ma,,,"Route de Tanger, 52000 Ouezzane",gov,8,7.0
+Assilah,Assilah (Mun.),Tanger Assilah,Tanger-Tetouan-Al Hoceima,HPr,200.0,0539 48 21 21,,,,,"Route de la plage, 92030 Assilah, Maroc",gov,9,8.0
+Mohammed Vi,Bni Makada (Arrond.),Tanger Assilah,Tanger-Tetouan-Al Hoceima,HPr,500.0,+212 5 27 32 11 11,hospitalmohammedvi@gmail.com,https://www.hopitalmohammedvi.ma,,,"Route de Bni Makada, 14000 Bni Makada, Maroc",gov,10,9.0
+Arrazi,Mghogha (Arrond.),Tanger Assilah,Tanger-Tetouan-Al Hoceima,HPsyR,600.0,,,,,,"Mghogha, Arrondissement de Mghogha, Maroc",gov,11,10.0
+Mohamed V,Al Madina (Arrond.),Tanger Assilah,Tanger-Tetouan-Al Hoceima,HR,1000.0,+212 524 38 00 00,,,,,"Boulevard Mohammed V, Al Madina, Marrakech, Maroc",gov,12,11.0
+Al Kortobi,Al Madina (Arrond.),Tanger Assilah,Tanger-Tetouan-Al Hoceima,HR,250.0,0539 83 31 31,,,,,"Route de Meknès, Al Madina, Maroc",gov,13,11.0
+Duc De Tovar,Al Madina (Arrond.),Tanger Assilah,Tanger-Tetouan-Al Hoceima,HR,250.0,+212 5 37 63 23 45,info@ducdetovar.ma,https://www.ducdetovar.ma,,,"Route de Tanger, Al Madina, Maroc",gov,14,11.0
+Centre d'oncologie,Al Madina (Arrond.),Tanger Assilah,Tanger-Tetouan-Al Hoceima,HIR,150.0,+212 5 37 83 12 34,centre.oncologie@almadina.ma,https://centre-oncologie-al-madina.ma,,,"Route de l'hôpital, Al Madina, Maroc",gov,15,11.0
+Hôpital mère enfant Mohamed VI,Gueznaia (Mun.),Tanger Assilah,Tanger-Tetouan-Al Hoceima,HIR,450.0,+212 5 24 83 31 31,,,,,"Route de Gueznaïa, 26000 Guznaïa, Maroc",gov,16,12.0
+Hôpital psychiatrique Mohamed VI,Gueznaia (Mun.),Tanger Assilah,Tanger-Tetouan-Al Hoceima,CPU,200.0,+212 5 35 64 34 34,,,,,"Route de Gueznaia, 24000 Gueznaia, Maroc",gov,17,12.0
+Hôpital des spécialité Mohamed VI,Gueznaia (Mun.),Tanger Assilah,Tanger-Tetouan-Al Hoceima,HIR,500.0,+212 5 43 83 11 11,,,,,"Route de Gueznaia, 26000 Gueznaia, Maroc",gov,18,12.0
+Hôpital.Civil,Tétouan (Mun.),Tetouan,Tanger-Tetouan-Al Hoceima,HP,500.0,0539 93 23 11,,,,,"Route de Larache, Tétouan, Maroc",gov,19,13.0
+Errazi,Tétouan (Mun.),Tetouan,Tanger-Tetouan-Al Hoceima,HPsyP,500.0,+212 539 93 31 31,,,,,"Route de Tétouan, 93000 Tétouan, Maroc",gov,20,13.0
+Ben Karrich,Dar Bni Karrich,Tetouan,Tanger-Tetouan-Al Hoceima,HP,150.0,+212 5 53 83 14 14,benkarrich.hopital@gmail.com,https://benkarrich-hospital.ma,,,"Route de Meknès, Dar Bni Karrich, Meknès",gov,21,14.0
+Hassan II,Fnideq (Mun.),Mdiq-Fnideq,Tanger-Tetouan-Al Hoceima,HPr,500.0,+212 539 98 00 00,,,,,"Route de Fnideq, 32000 Fnideq, Maroc",gov,22,15.0
+Mohammed VI,M'Diq (Mun.),Mdiq-Fnideq,Tanger-Tetouan-Al Hoceima,HP,500.0,0539 52 51 51,,,,,"Route de l'aéroport, 37220 M'Diq",gov,23,16.0
+Edderak,Berkane (Mun.),Berkane,Oriental,HP,250.0,0535 52 51 51,,,,,"Route de l'aéroport, 61300 Berkane",gov,24,17.0
+Saidia,Saidia (Mun.),Berkane,Oriental,HPr,200.0,+212 528 31 31 31,,,,,"Route de l'hôpital, Saidia, Province de Nador, Région de Tanger-Tétouan-Al Hoceïma, Maroc",gov,25,18.0
+Driouch,Driouch (Mun.),Driouch,Oriental,HP,150.0,+212 539 88 88 88,hpdriouch@minss.gov.ma,https://www.minss.gov.ma/fr/hopitaux/hpdriouch,,,"Route de la ville, Driouch, Province de Driouch, Région Tanger-Tétouan-Al Hoceïma, Maroc",gov,26,19.0
+Hassan II,Bouarfa (Mun.),Figuig,Oriental,HP,500.0,+212 35 58 22 22,,,,,"Bouarfa, Province de Khenifra, Maroc",gov,27,20.0
+Guercif,Guercif (Mun.),Guercif,Oriental,HP,250.0,+212 66 83 23 456,hopital.guercif@minss.gov.ma,https://hopitalguercif.minss.gov.ma,,,"Route de Meknès, Guercif 35000, Maroc",gov,28,21.0
+Jrada,Laaouinate,Jerada,Oriental,HP,150.0,+212 6 11 22 33 44,jrada.hopital@laaouinate.ma,https://jrada.hopital.ma,,,"Route de Laaouinate, Jrada, Maroc",gov,29,22.0
+Mohammed Vi,Al Aaroui (Mun.),Nador,Oriental,HPr,250.0,+212 5 83 00 00 00,mohammedvi.alaroui@hopitaux.ma,https://hopitaux.ma/mohammedvi-alaroui,,,"Route de la ville, Al Aaroui, Maroc",gov,30,23.0
+Hassani,Nador (Mun.),Nador,Oriental,HP,250.0,0539 83 23 11,hassani.hopital@gmail.com,https://hassani-hospital.ma,,,"Route de l'aéroport, 62180 Nador",gov,31,24.0
+Zaio,Zaio (Mun.),Nador,Oriental,HPr,120.0,,,,,,"Zaio, Maroc",gov,32,25.0
+Al Farabi,Oujda (Mun.),Oujda Angad,Oriental,HR,600.0,+212 5 38 83 11 11,,,,,"Route de Tafilalet, 60000 Oujda, Maroc",gov,33,26.0
+Hôpital Psychiatrique,Oujda (Mun.),Oujda Angad,Oriental,CPU,300.0,+212 66 76 64 64,,,,,"Route de la Zitoune, 60000 Oujda, Maroc",gov,34,26.0
+Hôpital des Spécialitéss,Oujda (Mun.),Oujda Angad,Oriental,HIR,600.0,+212 66 77 22 11,,,,,"Route de Tafilalet, 60300 Oujda, Maroc",gov,35,26.0
+Hôpital Mère-Enfant,Oujda (Mun.),Oujda Angad,Oriental,HIR,500.0,+212 66 23 23 23,hme.oujda@minss.gov.ma,https://www.hme-oujda.ma,,,"Route de la Zitoune, 60000 Oujda, Maroc",gov,36,26.0
+Centre d'oncoligie Hassan II,Sidi Moussa Lemhaya,Oujda Angad,Oriental,HIR,150.0,0523 93 22 22,info@centre-oncologie-hassan2.ma,https://centre-oncologie-hassan2.ma,,,"Route de Sidi Moussa, 20100 Sidi Moussa Lemhaya, Maroc",gov,37,27.0
+HPr Laayoune Sidi Mellouk,El Aioun Sidi Mellouk (Mun.),Taourirt,Oriental,HPr,150.0,+212 528 83 12 12,,,,,"Route de l'aéroport, El Aioun Sidi Mellouk, Laâyoune-Sakia El Hamra, Maroc",gov,38,28.0
+Taourirt,Taourirt (Mun.),Taourirt,Oriental,HP,150.0,+212 24 88 23 11,,,,,"Route de Marrakech, Taourirt, Province de Ouarzazate, Maroc",gov,39,29.0
+Sidi Said,Meknès (Mun.),Meknes,Fès-Meknès,HP,500.0,+212 53 923 111,sidi.said.hopital@gmail.com,https://www.hopital-sidisaid.ma,,,"Boulevard Sidi Mohamed Ben Abdellah, Meknès 50000, Maroc",gov,40,30.0
+Mohamed V,Meknès (Mun.),Meknes,Fès-Meknès,HP,500.0,+212 5 53 85 22 22,,,,,"Boulevard Mohammed V, Meknès 50000, Maroc",gov,41,30.0
+Pagnon,Meknès (Mun.),Meknes,Fès-Meknès,HP,250.0,0535 63 22 22,hospitalempagnon@gmail.com,https://www.hospitalempagnon.ma,,,"Boulevard Pagnon, Meknès 50000, Maroc",gov,42,30.0
+Moulay Ismail,Meknès (Mun.),Meknes,Fès-Meknès,HP,1000.0,+212 53 922 22 22,,,,,"Route de Fès, Meknès 50000, Maroc",gov,43,30.0
+Centre d'oncologie,Meknès (Mun.),Meknes,Fès-Meknès,CRO,150.0,+212 53 925 111,centre.oncologie.meknes@hopitaux.gov.ma,https://www.hopitaux.gov.ma/fr/centre-oncologie-meknes,,,"Boulevard Mohammed VI, Meknès 50000, Maroc",gov,44,30.0
+Marche Verte,Missour (Mun.),Boulemane,Fès-Meknès,HP,250.0,+212 5 24 83 23 11,marcheverte.hopital@maroc.ma,https://marcheverte.hopital.ma,,,"Route de la Marche Verte, Missour (Mun.), Maroc",gov,45,31.0
+S. Ahmed B. Driss Missouri,Outat El Haj (Mun.),Boulemane,Fès-Meknès,HPr,200.0,+212 5 24 83 31 31,,,,,"Route de Marrakech, Outat El Haj, Maroc",gov,46,32.0
+Prince My Hassan,El Hajeb (Mun.),El Hajeb,Fès-Meknès,HP,200.0,+212 66 98 23 456,prince.my.hassan@hopital.ma,https://hopitalprincemyhassan.ma,,,"Route de Meknès, El Hajeb, Maroc",gov,47,33.0
+Al Ghassani,Agdal (Arrond.),Fes,Fès-Meknès,HR,500.0,+212 537 77 77 77,info@alghassani.ma,https://www.alghassani.ma,,,"Rue Al Ghassani, Agdal, Rabat, Maroc",gov,48,34.0
+Ibn Al Baitar,Agdal (Arrond.),Fes,Fès-Meknès,HR,32.0,0537 77 17 17,,,,,"Boulevard Ibn Sina, Agdal, Rabat 10050, Maroc",gov,49,34.0
+Hôpital d'Oncologie,Saiss (Arrond.),Fes,Fès-Meknès,HIR,200.0,+212 35 92 23 34,hopital.oncologie@fes.ma,https://hopitaloncologie.ma,,,"Boulevard Mohammed VI, 15000 Saïss, Fès, Maroc",gov,50,35.0
+Hôpital des spécialités,Saiss (Arrond.),Fes,Fès-Meknès,HIR,600.0,+212 5 35 77 00 00,,,,,"Route de Meknès, 52000 Saïss, Maroc",gov,51,35.0
+Hôpital Mère-Enfant,Saiss (Arrond.),Fes,Fès-Meknès,HIR,300.0,+212 5 35 66 00 00,,,,,"Route de Meknès, 52000 Saïss, Maroc",gov,52,35.0
+Omar Drissi,Fès-Médina (Arrond.),Fes,Fès-Meknès,HIR,250.0,+212 35 937 333,omardrissi@hopitalmarocain.ma,https://www.hopitalomardrissi.ma,,,"Boulevard Mohammed V, Fès, Maroc",gov,53,36.0
+Ibn Al Khatib,El Mariniyine (Arrond.),Fes,Fès-Meknès,HR,150.0,+212 6 93 83 33 33,,,,,"El Mariniyine, Maroc",gov,54,37.0
+Ibn Al Hassan,El Mariniyine (Arrond.),Fes,Fès-Meknès,CPU,250.0,+212 6 61 12 34 56,ibn.al.hassan@hopitaux-marocains.ma,https://www.hopitalibnalhassan.ma,,,"Route de l'hôpital, El Mariniyine, Maroc",gov,55,37.0
+20 Aout (Azrou),Azrou (Mun.),Ifrane,Fès-Meknès,HP,300.0,+212 535 785 111,,,,,"Route de Fès, Azrou, Maroc",gov,56,38.0
+Mohamed V,Sefrou (Mun.),Sefrou,Fès-Meknès,HP,300.0,+212 5 37 83 33 33,,,,,"Route de Fes, Sefrou, Maroc",gov,57,39.0
+Hassan II,Ghafsai (Mun.),Taounate,Fès-Meknès,HPr,200.0,+212 66 88 23 456,,,,,"Route de Ghafsai, Ghafsai, Province de Taza, Maroc",gov,58,40.0
+Taounate,Taounate (Mun.),Taounate,Fès-Meknès,HP,250.0,0535 58 21 21,,,,,"Route de Meknès, Taounate, Maroc",gov,59,41.0
+Ibn Baja,Taza (Mun.),Taza,Fès-Meknès,HP,500.0,+212 35 53 23 23,,,,,"Route de Fès, 1, Taza",gov,60,42.0
+Al Idrissi,Kénitra (Mun.),Kenitra,Rabat-Salé-Kénitra,HP,500.0,+212 5 43 63 33 33,,,,,"Route de Sidi Kacem, Kénitra",gov,61,43.0
+Zoubir Skirej,Souk El Arbaa (Mun.),Kenitra,Rabat-Salé-Kénitra,HPr,150.0,+212 5 43 88 11 11,,,,,"Route de Tizi Ouzou, Souk El Arbaa (Mun.), Maroc",gov,62,44.0
+Khémisset,Khémisset (Mun.),Khémisset,Rabat-Salé-Kénitra,HP,300.0,+212 5 73 73 73 73,,,,,"Route de Meknès, Khemisset, Maroc",gov,63,45.0
+Roummani,Rommani (Mun.),Khémisset,Rabat-Salé-Kénitra,HPr,150.0,0525 83 23 45,roummani.hopital@gmail.com,https://www.hopital-roummani.ma,,,"Route de Marrakech, Rommani, Maroc",gov,64,46.0
+Tiflet,Tiflet (Mun.),Khémisset,Rabat-Salé-Kénitra,HPr,500.0,+212 5 27 21 21 21,,,,,"Route de Tiflet, Tiflet, 40100, Maroc",gov,65,47.0
+Ibn Sina,Agdal Riyad (Arrond.),Rabat,Rabat-Salé-Kénitra,HIR,500.0,+212 537 76 31 31,,,,,"Rue Ibn Sina, Agdal Riyad, Rabat",gov,66,48.0
+Hôpital Des Spécialités,Agdal Riyad (Arrond.),Rabat,Rabat-Salé-Kénitra,HIR,500.0,+212 537 75 75 75,,,,,"Boulevard de l'Académie, Agdal, Rabat 10050, Maroc",gov,67,48.0
+Maternité Souissi,Agdal Riyad (Arrond.),Rabat,Rabat-Salé-Kénitra,HIR,600.0,0537 63 31 31,,,,,"Rue Ibn Sina, Agdal, Rabat 10000, Maroc",gov,68,48.0
+Hôpital D'enfants,Agdal Riyad (Arrond.),Rabat,Rabat-Salé-Kénitra,HIR,200.0,+212 524 38 31 31,hpedenfants@hopital.ma,https://www.hopital.ma/hpedenfants,,,"Boulevard de l'Académie, Agdal Riyad, Marrakech",gov,69,48.0
+Maternité Orangers,Agdal Riyad (Arrond.),Rabat,Rabat-Salé-Kénitra,HIR,150.0,+212 5 22 79 11 11,materniteorangers@gmail.com,https://www.materniteorangers.ma,,,"Rue de l'Hôpital, Agdal Riyad, Maroc",gov,70,48.0
+Med Ben Abdellah,Agdal Riyad (Arrond.),Rabat,Rabat-Salé-Kénitra,HIR,1000.0,+212 537 73 31 31,,,,,"Boulevard de l'Académie, 10000 Rabat, Maroc",gov,71,48.0
+My Youssef,Hassan (Arrond.),Rabat,Rabat-Salé-Kénitra,HIR,250.0,+212 5 35 83 34 56,myyoussef.hassan@hopitaux.ma,https://www.my-youssef-hassan.ma,,,"Boulevard Hassan II, Hassan, Maroc",gov,72,49.0
+Moulay Youssef (Ancien hôpital de Rabat),Hassan (Arrond.),Rabat,Rabat-Salé-Kénitra,HR,1000.0,+212 5 37 63 31 31,,,,,"B.P. 14000, Hassan, Maroc",gov,73,49.0
+El Ayachi,Bab Lamrissa (Arrond.),Salé,Rabat-Salé-Kénitra,HIR,300.0,+212 537 73 31 31,,,,,"Bab Lamrissa, Rabat, Maroc",gov,74,50.0
+Moulay Abdellah (Hôp.préféctoral),Hssaine (Arrond.),Salé,Rabat-Salé-Kénitra,HP,500.0,+212 6 61 61 61 61,hpmoulayabdellah@minss.gov.ma,https://www.minss.gov.ma/fr/hopitaux/moulay-abdellah,,,"Hôpital Moulay Abdellah, Hssaine, Arrondissement de Hssaine",gov,75,51.0
+Arrazi,Tabriquet (Arrond.),Salé,Rabat-Salé-Kénitra,CPU,250.0,+212 5 48 83 14 14,hospitalelarrazi@gmail.com,https://www.hospitalelarrazi.ma,,,"Route de Tabriquet, 24000 Tabriquet, Maroc",gov,76,52.0
+Jorf Elmelha,Jorf El Melha (Mun.),Sidi Kacem,Rabat-Salé-Kénitra,HPr,200.0,+212 523 53 33 33,,,,,"Route de Safi, 86000 Jorf El Melha, Maroc",gov,77,53.0
+Sidi Kacem,Sidi Kacem (Mun.),Sidi Kacem,Rabat-Salé-Kénitra,HP,400.0,+212 52 85 22 00,hospitalsec@hospitalsidi-kacem.ma,https://hospitalsidi-kacem.ma,,,"Route de Meknès, Sidi Kacem 16300, Maroc",gov,78,54.0
+Sidi Slimane,Sidi Slimane (Mun.),Sidi Slimane,Rabat-Salé-Kénitra,HP,250.0,0525 53 53 53,hospitalsidislimane@gmail.com,https://www.hospitalsidislimane.ma,,,"Route de Rabat, Sidi Slimane, Maroc",gov,79,55.0
+Princesse Lalla Aicha (Ancien Sidi Lahcen),Témara (Mun.),Skhirate-Temara,Rabat-Salé-Kénitra,HP,300.0,+212 5 37 71 11 11,,,,,"Route de Rabat, Témara, Maroc",gov,80,56.0
+Haut Atlas Central,Azilal (Mun.),Azilal,Béni Mellal-Khénifra,HP,300.0,+212 48 98 24 24,,,,,"Route de Marrakech, Azilal, Maroc",gov,81,57.0
+Demnate,Demnate (Mun.),Azilal,Béni Mellal-Khénifra,HPr,150.0,+212 24 88 23 456,hpdemenate@minss.gov.ma,,,,"Route de Marrakech, Demnate, Marrakech-Safi, Maroc",gov,82,58.0
+Beni Mellal,Béni Mellal (Mun.),Beni Mellal,Béni Mellal-Khénifra,HR,300.0,+212 48 83 23 34,hpbm@minss.gov.ma,https://www.minss.gov.ma/fr/hopitaux/hopital-beni-mellal,,,"Route de Marrakech, Béni Mellal 23000, Maroc",gov,83,59.0
+Moulay Ismail,Kasba Tadla (Mun.),Beni Mellal,Béni Mellal-Khénifra,HPr,500.0,+212 66 84 23 456,,,,,"Route de Meknès, Kasba Tadla, Morocco",gov,84,60.0
+Beni Mellal,Ouled M'Barek,Beni Mellal,Béni Mellal-Khénifra,CRO,500.0,0525 83 23 11,hpbm@hopitaux.gov.ma,https://www.hpbm.ma,,,"Ouled M'Barek, Beni Mellal, Maroc",gov,85,61.0
+Fquih Ben Salah,Fquih Ben Salah (Mun.),Fkih Ben Saleh,Béni Mellal-Khénifra,HP,200.0,+212 24 98 23 34,,,,,"Route de Marrakech, Fquih Ben Salah, Marrakech-Safi",gov,86,62.0
+Souk Sebt,Fquih Ben Salah (Mun.),Fkih Ben Saleh,Béni Mellal-Khénifra,HPr,150.0,+212 5 35 62 23 45,souksebt.hopital@fquihbensalah.ma,https://souksebt.hopital.ma,,,"Route de Marrakech, Fquih Ben Salah, Maroc",gov,87,62.0
+Khenifra,Khenifra (Mun.),Khenifra,Béni Mellal-Khénifra,HP,400.0,+212 48 83 22 33,,,,,"Route de Meknès, Khenifra 57400, Maroc",gov,88,63.0
+M'Rirt,M'Rirt (Mun.),Khenifra,Béni Mellal-Khénifra,HPr,150.0,+212 524 48 22 22,,,,,"Route de Marrakech, M'Rirt, Marrakech-Safi",gov,89,64.0
+Mohamed VI,Bejaad (Mun.),Khouribga,Béni Mellal-Khénifra,HPr,500.0,+212 5 38 83 23 45,,,,,"Route de Bejaad, 24000 Bejaad, Maroc",gov,90,65.0
+Hassan II,Khouribga (Mun.),Khouribga,Béni Mellal-Khénifra,HP,300.0,+212 48 83 23 45,,,,,"Route de Marrakech, 26000 Khouribga, Maroc",gov,91,66.0
+Oued.Zem,Oued Zem (Mun.),Khouribga,Béni Mellal-Khénifra,HPr,300.0,+212 5 35 63 23 00,,,,,"Route de Sidi Slimane, 14000 Oued Zem, Maroc",gov,92,67.0
+Benslimane (Hassan II),Benslimane (Mun.),Benslimane,Casablanca-Settat,HP,300.0,0525 53 12 00,,,,,"Route de Casablanca, Benslimane",gov,93,68.0
+Berrchid,Berrechid (Mun.),Berrechid,Casablanca-Settat,HP,250.0,0523 93 23 34,,,,,"Route de Casablanca, 22200 Berrechid, Maroc",gov,94,69.0
+Errazi,Berrechid (Mun.),Berrechid,Casablanca-Settat,HPsyP,150.0,+212 24 98 23 34,info@hosperrazi.ma,https://www.hosperrazi.ma,,,"Route de Casablanca, Berrechid, Maroc",gov,95,69.0
+Azemmour,Azemmour (Mun.),El Jadida,Casablanca-Settat,HPr,150.0,+212 23 23 23 23,azemmour.hopital@maroc.ma,https://www.hopital-azemmour.ma,,,"Route de l'hôpital, 36220 Azemmour, Maroc",gov,96,70.0
+Mohamed V,El Jadida (Mun.),El Jadida,Casablanca-Settat,HP,500.0,+212 24 43 23 11,hpmv@minss.gov.ma,https://www.minss.gov.ma,,,"Route de l'hôpital, 24000 El Jadida, Maroc",gov,97,71.0
+Mediouna,Mediouna (Mun.),Mediouna,Casablanca-Settat,HP,200.0,+212 524 53 23 23,,,,,"Route de Safi, 44150 Médouina, Maroc",gov,98,72.0
+Tit Mellil,Sidi Hajjaj Oued Hassar,Mediouna,Casablanca-Settat,HPsyP,250.0,+212 23 93 12 34,titmellil@hopitaux.gov.ma,https://www.hopitaux.gov.ma/tit-mellil,,,"Route de Sidi Hajjaj, 20620 Sidi Hajjaj, Maroc",gov,99,73.0
+My Abdellah,Mohammadia (Mun.),Mohammedia,Casablanca-Settat,HP,500.0,+212 5 37 63 14 00,myabdellah@hopital.ma,https://www.hopitalmyabdellah.ma,,,"Rue de la Liberté, Mohammadia, Maroc",gov,100,74.0
+Bouskoura,Bouskoura (Mun.),Nouaceur,Casablanca-Settat,HPr,200.0,022 23 23 23,hospitalebouskoura@gmail.com,https://www.hospitalebouskoura.ma,,,"Route de Casablanca, Bouskoura, Casablanca-Settat, Maroc",gov,101,75.0
+Prince My Hassan,Dar Bouazza (Mun.),Nouaceur,Casablanca-Settat,HP,300.0,022 43 22 00,,,,,"Route de Casablanca, Dar Bouazza, Casablanca-Settat, Maroc",gov,102,76.0
+Ben Ahmed,Ben Ahmed (Mun.),Settat,Casablanca-Settat,HPr,250.0,+212 5 43 64 54 12,info@benhamedhosp.com,https://www.benhamedhosp.com,,,"Rue Ben Ahmed, Ben Ahmed (Mun.), Maroc",gov,103,77.0
+Hassan II,Settat (Mun.),Settat,Casablanca-Settat,HP,500.0,+212 5 77 73 33 33,,https://www.hopitalhassan2.ma/,,,"Route de l'Université, 26000 Settat, Maroc",gov,104,78.0
+Sidi Bennour,Sidi Bennour (Mun.),Sidi Bennour,Casablanca-Settat,HP,250.0,+212 24 98 23 456,hopital.sidi.bennour@maroc.mg,https://hopital-sidi-bennour.ma,,,"Route de Sidi Bennour, 48000 Sidi Bennour, Maroc",gov,105,79.0
+Zmamra,Zemamra (Mun.),Sidi Bennour,Casablanca-Settat,HPr,500.0,+212 22 43 44 55,zmamra.hopital@maroc.ma,https://www.hopital-zmamra.ma,,,"Route de Casablanca, 27100 Zemamra, Maroc",gov,106,80.0
+20 Aout 1953,El Maarif (Arrond.),Casablanca Anfa,Casablanca-Settat,HIR,500.0,+212 23 823 111,h20aout1953@minss.gov.ma,https://www.hopital20aout1953.ma,,,"Boulevard Mohammed VI, 20000 El Jadida, Maroc",gov,107,81.0
+Ibn Rochd,El Maarif (Arrond.),Casablanca Anfa,Casablanca-Settat,HIR,500.0,+212 5 22 28 28 28,info@hospitalibnrochd.ma,https://www.hospitalibnrochd.ma,,,"Boulevard Ibn Rochd, El Maarif, Casablanca",gov,108,81.0
+Hôpital D'enfants,El Maarif (Arrond.),Casablanca Anfa,Casablanca-Settat,HIR,200.0,+212 5 22 33 44 55,hpedc@hopitaux-marocains.ma,https://www.hopitaux-marocains.ma/hpedc,,,"Boulevard Mohammed VI, El Maarif, Casablanca, Maroc",gov,109,81.0
+My Youssef,Sidi Belyout (Arrond.),Casablanca Anfa,Casablanca-Settat,HR,250.0,+212 5 22 23 34 56,myyoussef.hopital@gmail.com,https://www.my-youssef-hopital.ma,,,"Boulevard Mohammed V, Sidi Belyout, Casablanca, Maroc",gov,110,82.0
+Mohamed Baouafi,Al-Fida (Arrond.),Al Fida-Mers Sultan,Casablanca-Settat,HP,150.0,0525 83 23 45,mohamed.baouafi@hopital-al-fida.ma,https://www.hopital-al-fida.ma,,,"Route de Marrakech, Al-Fida, Maroc",gov,111,83.0
+Mohamed V,Hay Mohammadi (Arrond.),Aïn Sebaâ-Hay Mohammadi,Casablanca-Settat,HP,500.0,+212 44 38 51 51,,,,,"Boulevard Mohammed V, Hay Mohammadi, Marrakech, Maroc",gov,112,84.0
+El Hassani,Hay-Hassani (Arrond.),Hay Hassani,Casablanca-Settat,HP,500.0,+212 5 22 33 44 55,elhassani.hospital@maroc.com,https://elhassanihospital.ma,,,"Rue El Hassani, Hay Hassani, Casablanca, Maroc",gov,113,85.0
+Centre de Léprologie,Aîn-Chock (Arrond.),Aïn Chok,Casablanca-Settat,HP,150.0,+212 5 22 33 44 55,,,,,"Route de Casablanca, Aïn Chock, Casablanca, Maroc",gov,114,86.0
+Mohamed Sekkat,Aîn-Chock (Arrond.),Aïn Chok,Casablanca-Settat,HP,500.0,022 23 23 23,,,,,"Route de Casablanca, Aïn Chock, Casablanca-Settat, Maroc",gov,115,86.0
+Al Mansour,Sidi Bernoussi (Arrond.),Sidi Bernoussi,Casablanca-Settat,HP,500.0,0522 43 43 43,info@almansourhospital.ma,https://www.almansourhospital.ma,,,"Rue Sidi Bernoussi, Sidi Bernoussi, Casablanca",gov,116,87.0
+HPr Sidi Moumen,Sidi Moumen (Arrond.),Sidi Bernoussi,Casablanca-Settat,HPr,500.0,0522 23 23 23,hpsidimoumen@hopitaux.gov.ma,https://www.hopitaux.gov.ma/hopitaux/hpr-sidi-moumen,,,"Route de Casablanca, Sidi Moumen, Casablanca-Settat, Maroc",gov,117,88.0
+Ben Msick,Ben M'Sick (Arrond.),Ben Msick,Casablanca-Settat,HP,500.0,+212 5 28 83 14 14,,,,,"Route de l'hôpital, 20620 Ben M'Sick (Arrond.), Maroc",gov,118,89.0
+Sidi Othmane,Sidi Othmane (Arrond.),Moulay Rachid,Casablanca-Settat,HP,180.0,,,,,,"Sidi Othmane, Sidi Othmane (Arrond.), Maroc",gov,119,90.0
+Mohammed VI,Tahannaout (Mun.),Al Haouz,Marrakech-Safi,HP,250.0,0525 58 22 22,,,,,"Route de Tahannaout, 42500 Tahannaout, Maroc",gov,120,91.0
+Mohamed Vi,Chichaoua (Mun.),Chichaoua,Marrakech-Safi,HP,150.0,0524 47 22 22,,,,,"Route de Marrakech, Chichaoua, Marrakech-Safi",gov,121,92.0
+Assalama,El Kelaâ des Sraghna (Mun.),El Kelaa Des Sraghna,Marrakech-Safi,HP,150.0,0524 48 23 11,,,,,"Route de Marrakech, El Kelaâ des Sraghna, Maroc",gov,122,93.0
+Hôpital psychiatrique,El Kelaâ des Sraghna (Mun.),El Kelaa Des Sraghna,Marrakech-Safi,HPsyP,200.0,+212 24 88 23 456,,,,,"Route de Marrakech, El Kelaâ des Sraghna, Marrakech-Safi, Maroc",gov,123,93.0
+Princesse Lalla Khadija,Tamallalt (Mun.),El Kelaa Des Sraghna,Marrakech-Safi,HPr,150.0,+212 5 28 83 23 45,princesse.lalla.khadija@hopitaux-marocains.ma,https://hopitaux-marocains.ma/princesse-lalla-khadija,,,"Route de Tamallalt, Tamallalt, Maroc",gov,124,94.0
+Sidi Med Ben Abdellah,Essaouira (Mun.),Essaouira,Marrakech-Safi,HP,500.0,+212 24 87 23 45,,,,,"Route de Diabat, Essaouira 22000, Maroc",gov,125,95.0
+Ibn Tofeil,Gueliz (Arrond.),Marrakech,Marrakech-Safi,HIR,500.0,+212 524 43 31 31,,,,,"Boulevard Mohammed V, Gueliz, Marrakech, Maroc",gov,126,96.0
+Ibn Nafis,Gueliz (Arrond.),Marrakech,Marrakech-Safi,CPU,500.0,+212 524 43 33 33,,,,,"Boulevard Ibn Sina, Gueliz, Marrakech, Maroc",gov,127,96.0
+Hopital Mère-Enfant,Gueliz (Arrond.),Marrakech,Marrakech-Safi,HIR,500.0,+212 524 43 33 33,hme@hopitalmarrakech.ma,https://hopitalmarrakech.ma/,,,"Boulevard Mohammed V, Gueliz, Marrakech, Maroc",gov,128,96.0
+Centre d'Hématologie Oncologie,Gueliz (Arrond.),Marrakech,Marrakech-Safi,HIR,500.0,+212 524 43 31 31,,,,,"Boulevard Mohammed V, Gueliz, Marrakech, Maroc",gov,129,96.0
+Arrazi,Gueliz (Arrond.),Marrakech,Marrakech-Safi,HIR,500.0,+212 24 43 31 31,,,,,"Boulevard Mohammed V, Gueliz, Marrakech, Maroc",gov,130,96.0
+Ibn Zohr,Marrakech-Médina (Arrond.),Marrakech,Marrakech-Safi,HR,1000.0,0524 43 31 31,,,,,"Boulevard de l'Académie, 40000 Marrakech, Maroc",gov,131,97.0
+El Antaki,Marrakech-Médina (Arrond.),Marrakech,Marrakech-Safi,HR,150.0,+212 524 38 22 22,,,,,"Rue El Antaki, Marrakech-Médina, Marrakech, Maroc",gov,132,97.0
+Mhamid,Ménara (Arrond.),Marrakech,Marrakech-Safi,HPr,150.0,+212 524 83 23 45,mhamid.hopital@marrakech.ma,https://mhamid.hopital.ma,,,"Route de Mhamid, Ménara, Marrakech, Maroc",gov,133,98.0
+Charifa,Sidi Youssef Ben Ali (Arrond.),Marrakech,Marrakech-Safi,HPr,80.0,,,,,,"Sidi Youssef Ben Ali, Maroc",gov,134,99.0
+Saada,Saada,Marrakech,Marrakech-Safi,HPsyR,250.0,+212 5 38 23 45 67,saada.hopital@maroc.ma,https://saada.hopital.ma,,,"Route de la ville, 12300 Saada, Maroc",gov,135,100.0
+Benguerir,Ben Guerir (Mun.),Rehamena,Marrakech-Safi,HP,500.0,+212 48 98 22 22,,,,,"Route de Marrakech, 43150 Ben Guerir, Maroc",gov,136,101.0
+Mohamed V,Safi (Mun.),Safi,Marrakech-Safi,HP,500.0,+212 55 73 23 11,,,,,"Route de l'hôpital, 46000 Safi, Maroc",gov,137,102.0
+Aisha,Safi (Mun.),Safi,Marrakech-Safi,HPr,300.0,+212 55 73 23 456,aisha.hopital@safi.ma,https://aisha.hopital.ma,,,"Route de l'hôpital, 46000 Safi, Maroc",gov,138,102.0
+Lalla Hasna,Youssoufia (Mun.),Youssoufia,Marrakech-Safi,HP,300.0,+212 40 98 22 11,lalla.hasna@hopital-marocain.ma,https://www.hopital-lalla-hasna.ma,,,"Route de Youssoufia, 46000 Youssoufia, Maroc",gov,139,103.0
+Sghiri Houmman I Ben Maati,Arfoud (Mun.),Errachidia,Drâa-Tafilalet,HPr,100.0,+212 66 87 22 11,,,,,"Route de Meknès, Arfoud, Province de Errachidia, Maroc",gov,140,104.0
+My Ali Cherif,Errachidia (Mun.),Errachidia,Drâa-Tafilalet,HR,500.0,+212 536 78 31 31,,,,,"Route de Meknès, Errachidia, 52400, Maroc",gov,141,105.0
+Hôpital Amir Soultan Ibn Abdelaziz,Errachidia (Mun.),Errachidia,Drâa-Tafilalet,HP,200.0,0535 53 22 22,,,,,"Route de Meknès, Errachidia 52000, Maroc",gov,142,105.0
+20 Aout (Goulmima),Goulmima (Mun.),Errachidia,Drâa-Tafilalet,HPr,100.0,+212 66 85 21 31,,,,,"Route de la ville, Goulmima, Province de Figuig, Région de Oriental, Maroc",gov,143,106.0
+Midelt,Midelt (Mun.),Midelt,Drâa-Tafilalet,HP,150.0,+212 53 85 22 22,,,,,"Route de Meknès, 54200 Midelt, Maroc",gov,144,107.0
+HPr Rich,Er-rich (Mun.),Midelt,Drâa-Tafilalet,HPr,300.0,+212 536 78 11 11,,,,,"Rue du Docteur Abdelmoumen, 20100 Errachidia, Province de Er-Rich (Mun.), Maroc",gov,145,108.0
+Sidi Hssain Bencer,Ouarzazate (Mun.),Ouarzazate,Drâa-Tafilalet,HP,200.0,+212 24 88 23 45,sidi-hssain-bencer@hopital-marocain.ma,https://www.hopital-marocain.ma/sidi-hssain-bencer,,,"Route de Marrakech, 45000 Ouarzazate",gov,146,109.0
+Bougafer,Ouarzazate (Mun.),Ouarzazate,Drâa-Tafilalet,HP,250.0,+212 24 88 22 33,hpbougafer@minss.gov.ma,https://www.hpbougafer.ma,,,"Route de Marrakech, Ouarzazate, Maroc",gov,147,109.0
+HPr Kalaat M'gouna,Kalaat M'Gouna (Mun.),Tinghir,Drâa-Tafilalet,HPr,100.0,+212 44 58 72 24,,,,,"Kalaat M'Gouna, Province de Ouarzazate, Maroc",gov,148,110.0
+Tinghir,Tinghir (Mun.),Tinghir,Drâa-Tafilalet,HP,150.0,+212 24 88 22 11,,,,,"Route de Marrakech, Tinghir, Province de Tinghir, Région Drâa-Tafilalet, Maroc",gov,149,111.0
+Ed-Derrak,Zagora (Mun.),Zagora,Drâa-Tafilalet,HP,150.0,0524 84 22 22,,,,,"Route de Marrakech, 46000 Zagora, Maroc",gov,150,112.0
+Hassan II,Agadir (Mun.),Agadir Ida Ou Tanane,Souss-Massa,HR,500.0,0528 82 22 22,,,,,"Route de l'aéroport, 80000 Agadir",gov,151,113.0
+C. d'Oncologie d'Agadir,Agadir (Mun.),Agadir Ida Ou Tanane,Souss-Massa,CRO,100.0,+212 528 823 333,,,,,"Route de l'Ocean, 80000 Agadir, Maroc",gov,152,113.0
+Mokhtar Soussi,Biougra (Mun.),Chtouka Ait Baha,Souss-Massa,HP,150.0,0525 23 45 67,mokhtar.soussi@hopital-biougra.ma,https://hopital-biougra.ma,,,"Route de la ville, BP 123, 68000 Biougra",gov,153,114.0
+Inezgane,Inezgane (Mun.),Inezgane Ait Melloul,Souss-Massa,HP,500.0,+212 524 43 25 00,,,,,"Route de l'Université, 80000 Inezgane, Marrakech, Maroc",gov,154,115.0
+Oulad Teima,Oulad Teima (Mun.),Taroudant,Souss-Massa,HPr,120.0,,,,,,Oulad Teima (Mun.),gov,155,116.0
+Mokhtar Es-Soussi,Taroudannt (Mun.),Taroudant,Souss-Massa,HP,500.0,+212 528 83 22 44,,,,,"Route de Marrakech, 83000 Taroudant, Maroc",gov,156,117.0
+Tata,Tata (Mun.),Tata,Souss-Massa,HP,150.0,+212 524 48 23 23,,,,,"Route de Marrakech, Tata, Marrakech-Safi, Maroc",gov,157,118.0
+Hassan 1er,Tiznit (Mun.),Tiznit,Souss-Massa,HP,200.0,+212 528 83 11 11,,,,,"Route de la Plage, Tiznit, Maroc",gov,158,119.0
+Houmman El Fatouaki,Tiznit (Mun.),Tiznit,Souss-Massa,HP,150.0,+212 528 83 23 14,info@hoummanelfatouaki.ma,https://hoummanelfatouaki.ma,,,"Route de la ville, Tiznit, Maroc",gov,159,119.0
+Assa,Assa (Mun.),Assa-zag,Guelmim-Oued Noun,HP,150.0,+212 5 58 88 22 11,assa.hopital@maroc.ma,https://www.hopitalassa.ma,,,"Route de Marrakech, Assa (Mun.), Maroc",gov,160,120.0
+Bouizakaren,Bouizakarne (Mun.),Guelmim,Guelmim-Oued Noun,HPr,500.0,,,,,,"Bouizakarne, Maroc",gov,161,121.0
+Guelmim,Guelmim (Mun.),Guelmim,Guelmim-Oued Noun,HR,250.0,0525 83 23 45,hcguelmim@hopitaux-marocains.ma,https://www.hopitaux-marocains.ma/hcguelmim,,,"Route de la clinique, 23000 Guelmim, Maroc",gov,162,122.0
+Sidi Ifni,Sidi Ifni (Mun.),Sidi Ifni,Guelmim-Oued Noun,HP,150.0,+212 528 83 12 34,hôpital.sidiifni@minss.gov.ma,https://www.minss.gov.ma/hôpitaux/sidi-ifni,,,"Route de l'hôpital, Sidi Ifni, Morocco",gov,163,123.0
+Hassan II,Tan Tan (Mun.),Tan Tan,Guelmim-Oued Noun,HP,300.0,+212 528 83 22 22,,,,,"Route de la plage, 83 000 Tan Tan, Maroc",gov,164,124.0
+Boujdour,Boujdour (Mun.),Boujdour,Laayoune-Sakia El Hamra,HP,400.0,+212 528 83 23 00,,,,,"Boujdour, BP 1, Boujdour, Dakhla-Oued Ed-Dahab",gov,165,125.0
+Es-Smara,Es-semara (Mun.),Es Semara,Laayoune-Sakia El Hamra,HP,150.0,+212 528 83 23 34,,,,,"Route de l'aéroport, Es-Semara, Province de Dakhla-Oued Ed-Dahab, Maroc",gov,166,126.0
+My Hassan Ben El Mehdi,Laayoune (Mun.),Laayoune,Laayoune-Sakia El Hamra,HR,200.0,0525 37 22 22,,,,,"Route de Smara, Laayoune, Maroc",gov,167,127.0
+Hassan II,Laayoune (Mun.),Laayoune,Laayoune-Sakia El Hamra,HR,500.0,+212 528 83 33 33,,,,,"BP 100, Laayoune (Mun.)",gov,168,127.0
+Laayoune,Laayoune (Mun.),Laayoune,Laayoune-Sakia El Hamra,CRO,500.0,+212 528 83 31 31,,,,,"Route de Smara, Laayoune, Maroc",gov,169,127.0
+Hassan II,Dakhla (Mun.),Oued Ed-Dahab,Eddakhla-Oued Eddahab,HR,150.0,+212 528 83 23 14,hassan2.dakhla@hopitaux-marocains.ma,https://hopitaux-marocains.ma/hassan2-dakhla,,,"Route de l'aéroport, Dakhla, Maroc",gov,170,128.0
+Nom de l'hôpital,,Région,,Catégorie,600.0,,,,,,,gov,171,
+Haut Atlas Central,,Béni Mellal-Khénifra,,HP,700.0,,,,,,,gov,172,
+Demnate,,Béni Mellal-Khénifra,,HPr,150.0,+212 24 48 23 11,demnate.hopital@minss.gov.ma,https://www.minss.gov.ma/fr/hopitaux/demnate,,,"Route de Marrakech, Demnate, Maroc",gov,173,
+Beni Mellal,,Béni Mellal-Khénifra,,HR,450.0,+212 48 84 20 20,hpbm@minss.gov.ma,https://www.hpbm.ma,,,"Route de Marrakech, 23000 Beni Mellal, Maroc",gov,174,
+Moulay Ismail,,Béni Mellal-Khénifra,,HPr,1000.0,+212 35 53 24 24,,,,,"B.P. 4010, Meknès, Maroc",gov,175,
+Fquih Ben Salah,,Béni Mellal-Khénifra,,HP,300.0,+212 65 97 22 11,hcfbs@minss.gov.ma,https://www.hcfbs.ma,,,"Route de Marrakech, 22000 Fquih Ben Salah, Maroc",gov,176,
+Souk Sebt,,Béni Mellal-Khénifra,,HPr,90.0,,,,,,"Souk Sebt, Maroc",gov,177,
+Khenifra,,Béni Mellal-Khénifra,,HP,350.0,+212 66 83 22 11,,,,,"Route de Meknès, 53200 Khenifra, Maroc",gov,178,
+M'Rirt,,Béni Mellal-Khénifra,,HPr,250.0,+212 5 24 83 23 14,,,,,"Route de Marrakech, M'Rirt, Maroc",gov,179,
+Mohamed VI,,Béni Mellal-Khénifra,,HPr,200.0,,,,,,,gov,180,
+Hassan II,,Béni Mellal-Khénifra,,HP,1000.0,+212 22 43 31 31,,,,,"BP 8644, Avenue Hassan II, Casablanca",gov,181,
+Oued.Zem,,Béni Mellal-Khénifra,,HPr,250.0,+212 48 98 22 11,ouedzem@hopitaux.gov.ma,https://www.hopitaux.gov.ma/ouedzem,,,"Route de Sidi Slimane, 14000 Khouribga, Maroc",gov,182,
+Centre de Léprologie,,Casablanca-Settat,,HP,30.0,+212 524 43 31 31,,,,,"BP 1195, Marrakech",gov,183,
+Mohamed Sekkat,,Casablanca-Settat,,HP,450.0,,,,,,,gov,184,
+Mohamed Baouafi,,Casablanca-Settat,,HP,600.0,+212 524 43 31 31,,,,,"Boulevard Mohammed VI, 40000 Marrakech",gov,185,
+Ben Msick,,Casablanca-Settat,,HP,700.0,,,,,,,gov,186,
+Benslimane (Hassan II),,Casablanca-Settat,,HP,400.0,+212 5 24 98 22 22,,,,,"Route de Casablanca, 29000 Benslimane",gov,187,
+Berrchid,,Casablanca-Settat,,HP,350.0,,,,,,,gov,188,
+Errazi,,Casablanca-Settat,,HPsyP,500.0,+212 524 43 31 31,,,,,"Rue El Makhfia, 40000 Marrakech",gov,189,
+Ibn Rochd,,Casablanca-Settat,,HIR,500.0,+212 5 22 28 28 28,ibnrochd@hopital.ma,https://www.hopitalibnrochd.ma,,,"Boulevard de l'Académie, Casablanca, Maroc",gov,190,
+Hôpital D'enfants,,Casablanca-Settat,,HIR,500.0,,,,,,,gov,191,
+20 Aout 1953,,Casablanca-Settat,,HIR,600.0,,,,,,,gov,192,
+My Youssef,,Casablanca-Settat,,HR,80.0,,,,,,,gov,193,
+Azemmour,,Casablanca-Settat,,HPr,80.0,,,,,,,gov,194,
+El Hassani,,Casablanca-Settat,,HP,80.0,,,,,,,gov,195,
+Mediouna,,Casablanca-Settat,,HP,300.0,+212 5 24 83 00 00,,,,,"Route de Casablanca, 20620 Mediouna, Maroc",gov,196,
+Tit Mellil,,Casablanca-Settat,,HPsyP,250.0,0523 93 23 34,hospital.titmellil@maroc.com,https://www.hopital-titmellil.ma,,,"Route de Rabat, 27600 Tit Mellil, Maroc",gov,197,
+My Abdellah,,Casablanca-Settat,,HP,80.0,,,,,,,gov,198,
+Sidi Othmane,,Casablanca-Settat,,HP,500.0,+212 524 38 22 22,,,,,"Route de Sidi Othmane, 40000 Marrakech",gov,199,
+Bouskoura,,Casablanca-Settat,,HPr,500.0,+212 522 23 23 23,hpbouskoura@hopitaux.gov.ma,https://www.hpbouskoura.ma,,,"Route de Casablanca, 27170 Bouskoura, Maroc",gov,200,
+Prince My Hassan,,Casablanca-Settat,,HP,600.0,,,,,,,gov,201,
+Ben Ahmed,,Casablanca-Settat,,HPr,120.0,,,,,,,gov,202,
+Sidi Bennour,,Casablanca-Settat,,HP,250.0,+212 5 83 53 23 45,,,,,"Route de Marrakech, 43150 Sidi Bennour, Maroc",gov,203,
+Zmamra,,Casablanca-Settat,,HPr,120.0,,,,,,,gov,204,
+Al Mansour,,Casablanca-Settat,,HP,600.0,,,,,,,gov,205,
+HPr Sidi Moumen,,Casablanca-Settat,,HPr,500.0,0537 62 11 11,hpsidimoumen@gmail.com,https://hpsidimoumen.ma,,,"Rue 1, Quartier Sidi Moumen, Casablanca",gov,206,
+Sghiri Houmman I Ben Maati,,Drâa-Tafilalet,,HPr,120.0,+212 539 93 31 31,,,,,"Route de l'aéroport, 20000, Tanger, Maroc",gov,207,
+My Ali Cherif,,Drâa-Tafilalet,,HR,30.0,,,,,,,gov,208,
+Hôpital Amir Soultan Ibn Abdelaziz,,Drâa-Tafilalet,,HP,1000.0,+212 524 38 11 11,,,,,"Route de l'Aéroport, 40100 Marrakech",gov,209,
+20 Aout (Goulmima),,Drâa-Tafilalet,,HPr,120.0,,,,,,"Goulmima, Province de Figuig, Région Oriental, Maroc",gov,210,
+HPr Rich,,Drâa-Tafilalet,,HPr,500.0,,,,,,,gov,211,
+Midelt,,Drâa-Tafilalet,,HP,200.0,+212 53 85 22 11,,,,,"Route de Meknès, 53000 Midelt",gov,212,
+Sidi Hssain Bencer,,Drâa-Tafilalet,,HP,150.0,+212 24 98 23 34,sidi-hssain-bencer@hopital.ma,https://hopital-sidi-hssain-bencer.ma,,,"Route de Sidi Hssain, 20000 Sidi Bennour, Marrakech-Safi",gov,213,
+Bougafer,,Drâa-Tafilalet,,HP,500.0,+212 5 24 38 00 00,hopital.bougafer@mss.gov.ma,https://www.hopitalbougafer.ma,,,"Route de l'hôpital, 40000 Marrakech",gov,214,
+HPr Kalaat M'gouna,,Drâa-Tafilalet,,HPr,150.0,+212 24 88 23 14,,,,,"Kalaat M'gouna, Province de Ouarzazate, Maroc",gov,215,
+Tinghir,,Drâa-Tafilalet,,HP,120.0,,,,,,"Tinghir, Province de Tinghir, Région Drâa-Tafilalet, Maroc",gov,216,
+Ed-Derrak,,Drâa-Tafilalet,,HP,500.0,+212 524 38 22 22,edderak.hopital@gmail.com,https://www.edderak.ma,,,"Route de l'aéroport, 40000 Marrakech",gov,217,
+Marche Verte,,Fès-Meknès,,HP,60.0,,,,,,,gov,218,
+S. Ahmed B. Driss Missouri,,Fès-Meknès,,HPr,1000.0,022 43 33 33,,,,,"BP 1010, Avenue Hassan II, Casablanca",gov,219,
+Ibn Al Baitar,,Fès-Meknès,,HR,500.0,0524 43 22 22,ibn.al.baitar@hopitaux-marocains.ma,https://www.hopitaux-marocains.ma/ibn-al-baitar,,,"Boulevard Ibn Sina, 40000 Marrakech",gov,220,
+Ibn Al Hassan,,Fès-Meknès,,CPU,1000.0,+212 524 43 31 31,,,,,"Boulevard Ibn Sina, 40000 Marrakech",gov,221,
+Ibn Al Khatib,,Fès-Meknès,,HR,500.0,+212 5 22 33 44 55,ibnalkhatib@hopital.ma,https://www.hopitalibnalkhatib.ma,,,"Rue Ibn Al Khatib, Casablanca, Maroc",gov,222,
+Omar Drissi,,Fès-Meknès,,HIR,480.0,,,,,,,gov,223,
+Hôpital des spécialités,,Fès-Meknès,,HIR,400.0,,,,,,,gov,224,
+Hôpital Mère-Enfant,,Fès-Meknès,,HIR,500.0,+212 22 43 43 43,hme@hopitalmerefant.ma,https://www.hopitalmerefant.ma,,,"BP 6419, Avenue Hassan II, Casablanca",gov,225,
+Hôpital d'Oncologie,,Fès-Meknès,,HIR,560.0,+212 537 73 31 31,,,,,"BP 641, Avenue Ibn Sina, 10000 Rabat",gov,226,
+20 Aout (Azrou),,Fès-Meknès,,HP,300.0,+212 535 784 444,,,,,"Route de Taza, Azrou, Fès-Meknès",gov,227,
+Sidi Said,,Fès-Meknès,,HP,500.0,+212 537 73 73 73,sidi.said.hopital@maroc.gov.ma,https://www.sidi-said-hopital.ma,,,"Boulevard Mohammed VI, Sidi Said, Rabat, Maroc",gov,228,
+Pagnon,,Fès-Meknès,,HP,40.0,,,,,,,gov,229,
+Centre d'oncologie,,Fès-Meknès,,CRO,20.0,,,,,,,gov,230,
+Taounate,,Fès-Meknès,,HP,250.0,+212 0 35 86 23 34,hospitataounate@marocmail.com,https://hospitataounate.ma,,,"Route de Meknès, Taounate, Maroc",gov,231,
+Ibn Baja,,Fès-Meknès,,HP,1000.0,+212 524 43 30 30,,,,,"Rue Ibn Bajah, 40000 Marrakech, Maroc",gov,232,
+Assa,,Guelmim-Oued Noun,,HP,300.0,,,,,,,gov,233,
+Bouizakaren,,Guelmim-Oued Noun,,HPr,500.0,+212 524 37 34 56,bouizakaren.hopital@maroc.mg,https://bouizakaren.hopital.ma,,,"Route de Bouizakaren, 40000 Marrakech, Maroc",gov,234,
+Guelmim,,Guelmim-Oued Noun,,HR,250.0,+212 528 831 111,hpguelmim@minss.gov.ma,https://www.hpguelmim.ma,,,"Route de la ville, Guelmim, Maroc",gov,235,
+Sidi Ifni,,Guelmim-Oued Noun,,HP,150.0,+212 528 83 31 31,hopital.sidiifni@minss.gov.ma,https://www.hopital-sidiifni.ma,,,"Route de l'hôpital, Sidi Ifni, Maroc",gov,236,
+Boujdour,,Laayoune-Sakia El Hamra,,HP,450.0,,,,,,,gov,237,
+Es-Smara,,Laayoune-Sakia El Hamra,,HP,350.0,,,,,,,gov,238,
+My Hassan Ben El Mehdi,,Laayoune-Sakia El Hamra,,HR,500.0,+212 524 38 00 00,hbmhassan@gmail.com,https://hbmhassan.ma,,,"Route de l'aéroport, 40000 Marrakech",gov,239,
+Laayoune,,Laayoune-Sakia El Hamra,,CRO,500.0,+212 0 928 00 00 00,,,,,"BP 100, Laâyoune",gov,240,
+Assalama,,Marrakech-Safi,,HP,300.0,+212 5 24 23 23 23,,,,,"Route de l'aéroport, 40170 Sidi Yahya, Maroc",gov,241,
+Hôpital psychiatrique,,Marrakech-Safi,,HPsyP,30.0,,,,,,,gov,242,
+Princesse Lalla Khadija,,Marrakech-Safi,,HPr,1000.0,+212 524 38 00 00,,,,,"Boulevard Mohammed VI, 40000 Marrakech, Maroc",gov,243,
+Sidi Med Ben Abdellah,,Marrakech-Safi,,HP,1000.0,+212 535 63 63 63,sidi-med-ben-abdellah@minss.gov.ma,https://www.minss.gov.ma/hopitaux/sidi-med-ben-abdellah,,,"Route de l'hôpital, 50000 Fès, Maroc",gov,244,
+Ibn Tofeil,,Marrakech-Safi,,HIR,400.0,,,,,,,gov,245,
+Ibn Nafis,,Marrakech-Safi,,CPU,500.0,+212 5 22 26 26 26,,,,,"Rue Ibn Sina, Casablanca, Maroc",gov,246,
+Centre d'Hématologie Oncologie,,Marrakech-Safi,,HIR,400.0,+212 537 73 31 31,,,,,"BP 6199, Rabat",gov,247,
+Arrazi,,Marrakech-Safi,,HIR,500.0,+212 5 37 77 88 99,info@arrazi.ma,https://www.arrazi.ma,,,"BP 1234, 10000 Rabat",gov,248,
+Ibn Zohr,,Marrakech-Safi,,HR,1000.0,+212 524 43 30 00,,https://www.hopitalibnzohr.ma,,,"Route de Skhirat, 80000 Marrakech, Maroc",gov,249,
+El Antaki,,Marrakech-Safi,,HR,550.0,,,,,,,gov,250,
+Saada,,Marrakech-Safi,,HPsyR,500.0,+212 524 38 38 38,saada.hopital@gmail.com,https://www.hopital-saada.ma,,,"Boulevard Mohammed VI, 40000 Marrakech, Maroc",gov,251,
+Benguerir,,Marrakech-Safi,,HP,500.0,+212 524 43 23 11,benguerir.hopital@gmail.com,https://www.hopitalbenguerir.ma,,,"Route de Benguerir, 43150 Benguerir, Maroc",gov,252,
+Lalla Hasna,,Marrakech-Safi,,HP,700.0,,,,,,,gov,253,
+Saidia,,Oriental,,HPr,300.0,+212 5 38 87 14 14,hospitalsaadia@gmail.com,https://www.hospitalsaadia.ma,,,"Route de l'hôpital, 32000 Saidia, Province de Oujda-Angad, Maroc",gov,254,
+Guercif,,Oriental,,HP,150.0,+212 37 83 23 456,hguercif@minss.gov.ma,https://www.minss.gov.ma/fr/hopitaux/guercif,,,"Route de Meknès, Guercif, Province de Taounate, Maroc",gov,255,
+Jrada,,Oriental,,HP,500.0,+212 535 63 31 31,,,,,"Route de Meknès, 23000, Fès, Maroc",gov,256,
+Zaio,,Oriental,,HPr,50.0,,,,,,,gov,257,
+Centre d'oncoligie Hassan II,,Oriental,,HIR,80.0,+212 537 77 40 00,,,,,"Bd. Ibn Sina, 10100 Rabat, Maroc",gov,258,
+Al Farabi,,Oriental,,HR,500.0,+212 5 22 34 56 78,info@alfarabi-hospital.ma,https://www.alfarabi-hospital.ma,,,"Rue Al Farabi, Casablanca, Maroc",gov,259,
+HPr Laayoune Sidi Mellouk,,Oriental,,HPr,200.0,+212 528 830 000,,,,,"Route de la Plage, Laâyoune, Maroc",gov,260,
+Taourirt,,Oriental,,HP,150.0,+212 24 88 23 45,hospitaultaourirt@maroc.hc,https://hospitaultaourirt.ma,,,"Route de Ouarzazate, Taourirt, Province de Ouarzazate",gov,261,
+Al Idrissi,,Rabat-Salé-Kénitra,,HP,500.0,+212 539 93 31 31,,,,,"Boulevard Mohammed VI, 90000 Tétouan, Maroc",gov,262,
+Zoubir Skirej,,Rabat-Salé-Kénitra,,HPr,400.0,+212 524 38 51 51,,,,,"Boulevard de l'Armée Royale, 40000 Marrakech",gov,263,
+Khémisset,,Rabat-Salé-Kénitra,,HP,500.0,+212 66 85 73 73,,,,,"Route de Rabat, Khemisset, Province de Khemisset, Maroc",gov,264,
+Roummani,,Rabat-Salé-Kénitra,,HPr,250.0,+212 5 24 68 90 12,info@hopital-roummani.ma,https://hopital-roummani.ma,,,"BP 1234, Route de la ville, 10000 Marrakech",gov,265,
+Tiflet,,Rabat-Salé-Kénitra,,HPr,500.0,+212 5 27 93 23 11,hospital.tiflet@maroc.hc,https://tiflet.hc.ma,,,"Route de Tiflet, 14210 Tiflet, Maroc",gov,266,
+Ibn Sina,,Rabat-Salé-Kénitra,,HIR,500.0,+212 5 22 33 44 55,ibn.sina@hopitaux.ma,https://www.ibnsina.ma,,,"Rue Ibn Sina, Casablanca, Maroc",gov,267,
+Maternité Souissi,,Rabat-Salé-Kénitra,,HIR,700.0,+212 537 77 24 24,,,,,"Rue Abou Bakr El Chorfa, Souissi, Rabat",gov,268,
+Maternité Orangers,,Rabat-Salé-Kénitra,,HIR,150.0,+212 44 38 20 20,materniteorangers@gmail.com,https://www.materniteorangers.ma,,,"Route de la Maternité, 40000 Marrakech",gov,269,
+Hôpital De Rabat,,Rabat-Salé-Kénitra,,HR,500.0,+212 537 73 31 31,hprabat@minss.gov.ma,https://www.hprabat.ma,,,"Boulevard Mohammed V, Rabat 10000, Maroc",gov,270,
+El Ayachi,,Rabat-Salé-Kénitra,,HIR,600.0,,,,,,,gov,271,
+Moulay Abdellah (Hôp.préféctoral),,Rabat-Salé-Kénitra,,HP,1000.0,+212 524 43 31 31,,,,,"Route de l'aéroport, 40000 Marrakech",gov,272,
+Sidi Kacem,,Rabat-Salé-Kénitra,,HP,500.0,0535 83 22 11,,,,,"Route de Meknès, 16000 Sidi Kacem, Maroc",gov,273,
+Sidi Slimane,,Rabat-Salé-Kénitra,,HP,500.0,+212 5 83 83 83 83,sidi.slimane.hopital@gmail.com,https://sidi-slimane-hopital.ma,,,"Route de Sidi Slimane, 23000 Sidi Slimane, Maroc",gov,274,
+Sidi Lahcen,,Rabat-Salé-Kénitra,,HP,60.0,,,,,,,gov,275,
+C. d'Oncologie d'Agadir,,Souss-Massa,,CRO,40.0,+212 528 83 31 31,,,,,"Route de l'Aéroport, 80000 Agadir, Maroc",gov,276,
+Mokhtar Soussi,,Souss-Massa,,HP,400.0,,,,,,,gov,277,
+Inezgane,,Souss-Massa,,HP,1000.0,+212 528 83 31 31,,,,,"Route de l'aéroport, 80000 Agadir, Maroc",gov,278,
+Oulad Teima,,Souss-Massa,,HPr,250.0,+212 5 85 83 23 45,hospitauladteima@maroc.hc,https://www.hospitauladteima.ma,,,"Route de Tanger, 23000 Oulad Teïma, Maroc",gov,279,
+Tata,,Souss-Massa,,HP,160.0,,,,,,,gov,280,
+Hassan 1er,,Souss-Massa,,HP,500.0,+212 5 22 26 26 26,hassan1er.hopital@maroc.gov.ma,https://www.hassan1er.hopital.ma,,,"Rue Hassan II, Casablanca, Maroc",gov,281,
+Houmman El Fatouaki,,Souss-Massa,,HP,250.0,+212 524 38 22 22,houman-el-fatouaki@hopitaux-marocains.ma,https://hopitaux-marocains.ma/houmman-el-fatouaki,,,"Route de l'aéroport, 40000 Marrakech",gov,282,
+C. d'oncologie d'Al Hoceima,,Tanger-Tetouan-Al Hoceima,,CRO,150.0,+212 539 83 23 34,cdo.alhoceima@hopitaux.gov.ma,https://hopitaux.gov.ma/cdo-alhoceima,,,"Route de Targuist, 32000 Al Hoceima",gov,283,
+Imzouren,,Tanger-Tetouan-Al Hoceima,,HPr,120.0,,,,,,,gov,284,
+Targuist,,Tanger-Tetouan-Al Hoceima,,HPr,250.0,+212 539 88 22 11,hospitaltarguist@gmail.com,https://www.hospitaltarguist.ma,,,"Route de Targuist, Targuist, Province de Targuist, Région Tanger-Tétouan-Al Hoceïma, Maroc",gov,285,
+Ksar El Kebir,,Tanger-Tetouan-Al Hoceima,,HPr,250.0,0539 83 23 34,ksar-el-kebir.hopital@maroc.ma,https://ksar-el-kebir.hopital.ma,,,"Route de Rabat, Ksar El Kebir, 12000, Morocco",gov,286,
+Lalla Meriem,,Tanger-Tetouan-Al Hoceima,,HP,500.0,+212 537 73 73 73,lalla.meriem@hopitaux-marocains.ma,https://www.hopitaux-marocains.ma/lalla-meriem,,,"Route de l'hôpital, 10000 Rabat",gov,287,
+Abou Kacem Zahraoui,,Tanger-Tetouan-Al Hoceima,,HP,1000.0,0524 43 31 31,,,,,"Boulevard d'Agdal, 10000 Marrakech, Maroc",gov,288,
+Al Kortobi,,Tanger-Tetouan-Al Hoceima,,HR,500.0,+212 5 24 43 11 11,al-kortobi@hopitaux-marocains.ma,https://www.al-kortobi.ma,,,"Route de l'hôpital, 40000 Marrakech",gov,289,
+Duc De Tovar,,Tanger-Tetouan-Al Hoceima,,HR,800.0,,,,,,,gov,290,
+Assilah,,Tanger-Tetouan-Al Hoceima,,HPr,150.0,+212 39 85 22 11,,,,,"Route de la plage, Assilah, Maroc",gov,291,
+Ben Karrich,,Tanger-Tetouan-Al Hoceima,,HP,250.0,,,,,,,gov,292,
+Hôpital.Civil,,Tanger-Tetouan-Al Hoceima,,HP,500.0,+212 537 75 15 00,hopital.civil@minss.gov.ma,https://www.minss.gov.ma/hopital-civil,,,"BP 1234, 10000 Rabat",gov,293,
+Hopital des spécialités Bougafer,,,,Hôpital,500.0,+212 524 43 31 31,,,30.9189287,-6.9044736,"Boulevard Mohammed VI, 40000 Marrakech, Maroc",osm,294,
+Clinique Rif,,,,Hôpital,50.0,+212 539 93 93 93,cliniquerif@gmail.com,https://www.cliniquerif.ma,35.5867664,-5.3469081,"Boulevard Mohammed VI, 93000 Tanger, Maroc",osm,295,
+Clinique Khlalfa,,,,Hôpital,350.0,,,,34.6695404,-4.6212783,,osm,296,
+Hopital Ibn Sina /CHU Ibn SIna,,,,Hôpital,1000.0,+212 35 937 333,,,33.9838968,-6.8504077,"Boulevard de l'Armée Royale, 20100 Fès",osm,297,
+Hospital,,,,Hôpital,500.0,,,,31.1365498,-7.9177123,,osm,298,
+Hôpital Espagnol,Tétouan,,,Hôpital,500.0,+212 539 83 31 31,,,35.5723502,-5.3877507,"Boulevard Mohammed VI, Tétouan, Maroc",osm,299,129.0
+Clinique Al karaouiyine,rue imam ali fes nouvelle,,,Clinique,100.0,,,,34.0397083,-5.0046747,"Rue Imam Ali, Fes Nouvelle, Fès, Maroc",osm,300,130.0
+Hôpital Riad Al Mokha,,,,Hôpital,500.0,+212 524 37 44 44,riadalmokha@hopital.ma,https://www.hopitalriadalmokha.ma,31.6228327,-7.9880222,"Rue de la Liberté, 40000 Marrakech",osm,301,
+Hopital Moulay Youssef,,,,Hôpital,500.0,+212 537 73 73 73,hopital.moulayyoussef@minss.gov.ma,https://www.hopitalmoulayyoussef.ma,34.0102418,-6.8613729,"Boulevard Moulay Youssef, 40000 Rabat, Maroc",osm,302,
+Hôpital Jdid,,,,Hôpital,500.0,0524 43 31 31,hjdid@msssi.ma,https://www.hopitaljdid.ma,31.9305602,-4.430281,"Boulevard Mohammed VI, 40000 Marrakech",osm,303,
+Clinique Badr مصحة بدر,,,,Clinique,150.0,+212 524 38 00 00,info@cliniquebadr.ma,https://www.cliniquebadr.ma,33.5948697,-7.6410981,"Route de Casablanca, 10000 Marrakech",osm,304,
+clinique dentaire casablanca (cdc),,,,Clinique,40.0,+212 5 22 23 45 67,cdc@casablanca.ma,https://www.cdc.ma,33.5873182,-7.6482571,"Avenue des F.A.R. - 20100 Casablanca, Maroc",osm,305,
+Centre consultation et traitement dentaires,,,,Hôpital,300.0,,,,33.5730773,-7.6206013,,osm,306,
+Polyclinique CNSS,,,,Clinique,500.0,+212 5 22 22 22 22,cnss@cnss.ma,https://www.cnss.ma,34.6699141,-1.9114833,"BP 1451, Casablanca",osm,307,
+Clinique Isly,Oujda,,,Clinique,60.0,+212 536 70 07 02,,,34.6729734,-1.9256756,"Route de la Zaat, Oujda",osm,308,131.0
+Polyclinique Internationale de Rabat,,,,Clinique,140.0,+212 537 73 73 73,,,34.0207477,-6.8230042,"Boulevard Mohammed V, Rabat 10000, Maroc",osm,309,
+Centre de santé Bab El Ain,Chefchaouen,,,Clinique,20.0,0618-718038,,,35.167467,-5.2654636,"Chefchaouen, Province de Tanger-Tétouan-Al Hoceïma, Maroc",osm,310,133.0
+Croissant Rouge الهلال الأحمر,Chefchaouen,,,Clinique,80.0,,,,35.1688177,-5.2717462,,osm,311,133.0
+Centre de santé Al Haouta,,,,Clinique,150.0,0539 93 23 11,,,35.1691664,-5.2627321,"Route de Tanger, Al Haoua, Tanger, Maroc",osm,312,
+Clinique du Chellah,,,,Clinique,150.0,+212 5 37 63 63 63,cliniqueduchellah@gmail.com,https://cliniqueduchellah.ma,34.016585,-6.829677,"Rue de la Clinique, Chellah, Rabat, Maroc",osm,313,
+Hôpital Mohammed V,,,,Hôpital,1000.0,0539986228,,https://hopitalmohammedv.ma/,35.1690506,-5.2703159,"Boulevard de l'Académie, 10100 Rabat",osm,314,
+Clinique d'accouchement,,,,Clinique,54.0,,,,33.5930596,-7.6240936,,osm,315,
+Clinique La Ménara,,,,Clinique,100.0,0524 43 33 33,,,34.0143671,-6.8312643,"Boulevard de la Menara, 40000 Marrakech",osm,316,
+D'ophtamologie Dc Rafi,,,,Clinique,128.0,,,,34.0159318,-6.8273553,,osm,317,
+Dc Khachani,,,,Clinique,43.0,,,,34.0156518,-6.8271189,,osm,318,
+Clinique Souissi,,,,Clinique,150.0,0537 63 44 44,,,33.9766467,-6.835629,"Rue de la Clinique, Souissi, Rabat, Maroc",osm,319,
+Laboratoire D'Analyses Medicales Abdelmoumen,Oujda,,,Clinique,31.0,+212 536687474,,,34.6750336,-1.90484,"Route de la Zitoune, 60000 Oujda, Maroc",osm,320,131.0
+Clinique des Ambassadeurs,,,,Clinique,120.0,+212 5 22 33 44 55,info@cliniquedesambassadeurs.ma,https://www.cliniquedesambassadeurs.ma,33.9618647,-6.8226646,"Rue des Ambassadeurs, Casablanca",osm,321,
+Clinique du Sebou,,,,Clinique,80.0,+212 537 360331,,,34.2626077,-6.5721098,"Route de Sidi Kacem, 24000 Kenitra, Maroc",osm,322,
+Clinique du Bouregreg,,,,Clinique,150.0,+212 5 27 22 22 22,,,34.0209439,-6.8234519,"Route de Rabat, 27000 Salé, Maroc",osm,323,
+Centre de Pédiatrie,,,,Clinique,80.0,,,,34.0211375,-6.8229674,,osm,324,
+Centre de santé Ain el Haouzi,Chefchaouen,,,Clinique,40.0,,,,35.1791344,-5.2795286,"Chefchaouen, Province de Tanger-Tétouan-Al Hoceïma, Maroc",osm,325,133.0
+Centre de santé Dhar Ben Ayed,Chefchaouen,,,Clinique,40.0,,,,35.1545119,-5.2757137,"Chefchaouen, Province de Tanger-Tétouan-Al Hoceïma, Maroc",osm,326,133.0
+Centre hospitalier universitaire Hassan II,,,,Hôpital,1200.0,+212 (0) 35 53 53 53,chufes@chufes.ma,https://chufes.ma,34.0036766,-4.9637961,"BP 737, Avenue Ibn Sina, 20100 Fès",osm,327,
+clinique fedala مستشفى مولاي عبد الله,,,,Clinique,80.0,,,,33.6949272,-7.391223,,osm,328,
+clinique anfa,,,,Clinique,150.0,+212 5 22 33 44 55,clinique.anfa@maroc.hopitaux,https://cliniqueanfa.ma,33.6949095,-7.3799045,"Rue de l'Anfa, Casablanca",osm,329,
+Centre de santé urbain et maison d'accouchements,,,,Clinique,40.0,,,,30.5304859,-7.9277822,null,osm,330,
+Institut de Formation aux Carrières de Santé (IFCS),,,,Hôpital,500.0,+212 537 73 73 73,ifcs@minss.gov.ma,https://www.minss.gov.ma/ifcs,30.4370606,-9.5885356,"Boulevard de l'Académie, 10100 Rabat",osm,331,
+Hôpital Sidi Othmane,,,,Hôpital,600.0,,,,33.5585424,-7.5733008,,osm,332,
+Premiers secours,Beni Ensar,,,Hôpital,150.0,+212 6 12 34 56 78,premierssecours.beniensar@hopitaux.ma,https://www.hopitaux.ma/premiers-secours-beni-ensar,35.2684815,-2.9275725,"Route de la ville, Beni Ensar, Maroc",osm,333,134.0
+Clinique Achifa,Béni Mellal,,,Clinique,50.0,+212523483545/+212523486841/+212661231680,clinique.achifa@gmail.com,,32.331662,-6.3618831,"Route de Marrakech, Béni Mellal, Maroc",osm,334,135.0
+Laboratoire Central D'Analyses Médicales du Tadla,Béni Mellal,,,Hôpital,400.0,0523486448,,,32.3336887,-6.3602737,"Route de Marrakech, Béni Mellal, Maroc",osm,335,135.0
+Clinique les oliviers,Béni Mellal,,,Clinique,50.0,0523483629,cliniquelosoliviers@gmail.com,,32.3338066,-6.3639932,"Boulevard Mohammed VI, Béni Mellal, Maroc",osm,336,135.0
+Clinique Al adarissa,Béni Mellal,,,Clinique,150.0,0523420242 - 0523420516,info@cliniqe-al-adarissa.ma,https://www.clinique-al-adarissa.ma,32.3341465,-6.3647335,"Route de Marrakech, Béni Mellal, Maroc",osm,337,135.0
+Délégation de la santé Azilal,,,,Clinique,150.0,+212 5 23 45 81 98,ds.azilal@minss.gov.ma,,31.9667638,-6.5671914,"Route de Marrakech, Azilal, Maroc",osm,338,
+laboratoire dentaire,,,,Clinique,20.0,+212 6 67 90 06 28,,,31.960968,-6.5695142,,osm,339,
+Clinique Atlas,Béni Mellal,,,Clinique,100.0,+212523488725,,,32.3307633,-6.3606517,"Route de Marrakech, Béni Mellal",osm,340,135.0
+clinique Assalam,Béni Mellal,,,Clinique,150.0,+212523486438/+212523486439,clinique.assalam@benimellal.ma,https://cliniqueassalam.ma,32.3320732,-6.3609307,"Boulevard Mohammed VI, Béni Mellal, Maroc",osm,341,135.0
+Clinique Alamal,Béni Mellal,,,Clinique,50.0,+212523489888/+212523489780/+212668637293,cliniquealamal@gmail.com,,32.3321594,-6.3597022,"Route de Marrakech, Béni Mellal",osm,342,135.0
+Clinique Agadir des spécialités,,,,Clinique,120.0,0528848484,,www.docteurchliyah.com,30.4148236,-9.5942244,"BP 2128, Agadir",osm,343,
+Clinique médicale عيادة طبية,,,,Clinique,40.0,,,,31.3739815,-5.9860432,Adresse non trouvée,osm,344,
+dispensaire,,,,Hôpital,20.0,,,,31.3541325,-5.2900705,,osm,345,
+الترويض الطبي,,,,Hôpital,1000.0,+212 5 22 22 22 22,troiziatif@hassan2.edu.ma,https://www.hassan2.edu.ma,31.6318134,-8.0572744,"الدار البيضاء, Morocco",osm,346,
+Clinique Abdelmoumen,,,,Clinique,50.0,00212522980298,clinique.abdelmoumen@gmail.com,https://cliniqueabdelmoumen.ma,33.5652215,-7.6275311,"Rue des Orangers, Casablanca",osm,347,
+Clinique taghzout مصحة تاغزوت,,,,Clinique,150.0,+212 5283-32333,info@clinitaghzout.ma,http://cliniquetaghzout.com/,30.3606176,-9.5349066,"Route de Tanger, 80000 Tanger, Maroc",osm,348,
+Croissant Rouge Marocain,,,,Clinique,20.0,+212 537 374305,info@croissant-rouge.ma,https://www.croissant-rouge.ma/,34.2563161,-6.5896498,,osm,349,
+Hôpital Public Hay Said HAJJI,,,,Clinique,500.0,+212 44 38 22 22,,,34.0743862,-6.7859846,"Boulevard Mohammed VI, 40000 Marrakech, Maroc",osm,350,
+Clinique Assalam,,,,Clinique,150.0,+212 5 22 33 44 55,info@cliniqueassalam.ma,https://cliniqueassalam.ma,32.9946281,-7.6171154,"Rue de la Clinique, Casablanca, Maroc",osm,351,
+Azzouzi صيدلية العزوزي,Fés,,,Hôpital,600.0,0535960428,,,32.9980669,-7.6187673,"Fés, Maroc",osm,352,136.0
+Centre de santé ksiba,,,,Hôpital,30.0,,,,30.2800902,-9.1557017,,osm,353,
+مصحة المطار,,,,Clinique,200.0,+212 5 22 33 44 55,info@msahma.com,https://www.msahma.ma,31.5954941,-8.0278849,"Route de l'aéroport, Casablanca",osm,354,
+Clinique Maâmoura,,,,Clinique,150.0,+212 5 24 68 00 00,clinique.maamoura@hopitaux-marocains.ma,https://www.cliniquemaamoura.ma,34.257949,-6.5824278,"Rue de la Clinique, Maâmoura, Maroc",osm,355,
+Clinique Benjelloun,,,,Clinique,50.0,+212 5 22 33 44 55,clinique.benjelloun@gmail.com,https://cliniquebenjelloun.ma,34.2596517,-6.5775181,"Rue Benjelloun, Casablanca",osm,356,
+Centre Belge de rééducation et readaptation,,,,Clinique,80.0,,,,34.0446041,-5.0028179,,osm,357,
+Clinique Slaiki,,,,Clinique,50.0,0535620775,info@cliniqueslaiki.ma,https://cliniqueslaiki.ma,34.0390525,-4.9937218,"Rue Slaiki, Casablanca",osm,358,
+Clinique de fez,rue abdessalam serghini,,,Clinique,80.0,0535620307,,,34.0432026,-4.9965422,"Rue Abdessalam Sergini, Fès",osm,359,137.0
+Clinique de l'os et du sport,,,,Clinique,80.0,,,,34.0384815,-4.9946723,null,osm,360,
+Clinique Oumouma,,,,Clinique,120.0,,,,31.6497404,-8.0421509,,osm,361,
+Clinique Grand Atlas,,,,Clinique,150.0,022 43 44 00,info@cliniquegrandatlas.ma,https://www.cliniquegrandatlas.ma,31.6511833,-8.0417553,"BP 115, Route de Rabat, Casablanca",osm,362,
+Clinique El Hitmi,Fès,,,Clinique,150.0,0535353535,info@elhitmi.ma,https://www.elhitmi.ma,34.0420918,-5.0116872,"Boulevard Mohammed V, Fès 30000, Maroc",osm,363,138.0
+Clinique spécialisée Menara المصحة المختصة المنارة,,,,Clinique,150.0,0524 43 31 31,,,31.6405221,-8.0120108,"Boulevard de la Menara, Marrakech",osm,364,
+Clinique Dr Boudali,,,,Clinique,60.0,,,,34.0378938,-4.9939771,,osm,365,
+Clinique Ben Moussa,87 RUE OMAR EL DRISSI,,,Clinique,30.0,0535622734,,,34.0386401,-4.9934857,"87 RUE OMAR EL DRISSI, Ville non spécifiée",osm,366,139.0
+Hopital ait bayoud مستشفى أيت بيوض,,,,Hôpital,150.0,+212 528 88 88 88,hopital.aitbayoud@maroc.hopitaux,https://hopital.aitbayoud.ma,31.3193378,-9.3172844,"Route de la ville, Aït Bayoud, Province de Tiznit, Maroc",osm,367,
+Hôpital Ben Guerir مستشفى ابن جرير,ابن جرير,,,Hôpital,550.0,+212 24 86 44 44,,,32.2396786,-7.959034,"Route de Marrakech, 43150 Ibn Sina, Ben Guerir, Marrakech-Safi, Maroc",osm,368,140.0
+Clinique Almajd,Fés,,,Clinique,150.0,0535353535,info@cliniquealmajd.ma,https://www.cliniquealmajd.ma,34.0171995,-5.0169317,"Boulevard Mohammed VI, Fès, Maroc",osm,369,136.0
+Centre Hémodialyse Moulay Driss,,,,Clinique,20.0,+212 535 63 63 63,,,34.0257104,-5.0242824,"Route de Rabat, 10000 Fès, Maroc",osm,370,
+Clinique les Mimosas,,,,Clinique,600.0,+212 537 379 798;+212 537 379 799,,,34.2568149,-6.5931964,,osm,371,
+Clinique Les Jumelles,,,,Clinique,100.0,0535656363,info@lesjumelles.ma,https://www.lesjumelles.ma,34.030257,-4.9985712,"Rue des Jumelles, Casablanca, Maroc",osm,372,
+Clinique Saada,,,,Clinique,50.0,+212 5 22 33 44 55,cliniquesaada@gmail.com,https://cliniquesaada.ma,34.0254959,-5.0041032,"Rue de la Clinique, Casablanca",osm,373,
+clique assalam,ait skatou,,,Clinique,80.0,0535930185,,,34.0260471,-4.9994625,"Ait Skatou, Maroc",osm,374,141.0
+Polyclinique du Rif مصحة الريف,الناظور,,,Clinique,200.0,0539 53 53 53,,,35.1713585,-2.9196463,"Route de Tanger, 52000 Al Hoceima, Maroc",osm,375,142.0
+Afergoulla,,,,Hôpital,80.0,,,,29.785968,-9.5907592,,osm,376,
+Avicenne ابن سينا,,,,Clinique,500.0,0522793300,avicenne@hopitalavicenne.ma,https://www.hopitalavicenne.ma,33.5542874,-7.6110661,"Rue Ibn Sina, Casablanca, Maroc",osm,377,
+Hôpital Mariouari et Idoudouhan ⵙⴻⴱⴼⵉⵟⴰⵔ ⴻⵏ ⵢ'ⴷⵓⴷⵓⵃⴻⵏ مستشفى ماريواري وإدودوحن,,,,Hôpital,80.0,,,,35.3013131,-2.9755224,,osm,378,
+Centre de Santé Communal Iznaguen المركز السحي الجماعي إزناكن,,,,Clinique,40.0,,,,30.469341,-7.4000672,,osm,379,
+Clinique Bournazel,,,,Clinique,80.0,,,,33.5761131,-7.5484865,,osm,380,
+Laboratoire d'analyses médicales Attacharouk,,,,Clinique,80.0,,,,33.5732378,-7.5301711,,osm,381,
+Poste médical,,,,Hôpital,600.0,,,,30.4176305,-9.6051676,,osm,382,
+département médico technique centre de diagnostic,,,,Hôpital,700.0,,,,30.4729314,-8.8765138,,osm,383,
+Centre de santé comunal Birganouz,,,,Clinique,40.0,,,,22.0535,-16.7517521,,osm,384,
+Polyclinique Annakhil,,,,Clinique,90.0,0535693704,info@polyclinique-annakhil.ma,https://www.polyclinique-annakhil.ma/,33.9950093,-4.9934955,,osm,385,
+clinique Zohour,,,,Clinique,150.0,+212 5 22 33 44 55,info@cliniquezohour.ma,https://cliniquezohour.ma,33.9037765,-5.5555063,"Avenue Mohammed VI, 10000 Casablanca, Maroc",osm,386,
+Clinique Rabat Zaers,,,,Clinique,120.0,+212537656565,,,34.0018731,-6.8270427,"Boulevard Mohammed VI, Zaers, Rabat, Maroc",osm,387,
+Cabinet Cardiologue,,,,Clinique,30.0,+212535641464,,,34.0356801,-5.0007628,,osm,388,
+Cabinet de Rheumatologie,rue mohamed ZARKTOUNI FEZ,,,Hôpital,600.0,0535625099,,,34.0369853,-5.0019344,"rue mohamed ZARKTOUNI, Fès",osm,389,143.0
+Arrazi Radiologie,Tanger,,,Clinique,40.0,,,,35.7762857,-5.8140609,"Tanger, Maroc",osm,390,144.0
+Centre De Biologic Medicale,Tanger,,,Clinique,300.0,+212 539 93 31 31,cbm@cbm.ma,https://www.cbm.ma,35.7734271,-5.8098306,"Zone Industrielle, Tanger, Maroc",osm,391,144.0
+Laboratore de Biologie Medicale Casa Analyses,,,,Clinique,500.0,+212 5 22 33 44 55,info@casanalyses.ma,https://www.casanalyses.ma,33.5695573,-7.5958671,"Rue de la Biologie Médicale, Casa-Annees, Maroc",osm,392,
+Clinique Aoufi,Tanger,,,Clinique,50.0,+212 539 93 53 53,clinique.aoufi@gmail.com,https://clinique-aoufi.ma,35.7820882,-5.8220505,"Tanger, Maroc",osm,393,144.0
+Clinique Zarhoun,,,,Clinique,150.0,0522 43 43 43,info@cliniquezarhoun.ma,https://cliniquezarhoun.ma,33.5850365,-7.6142472,"Rue Hassan II, Casablanca",osm,394,
+Clinique les princes مصحة الأمراء,,,,Hôpital,150.0,+212 5 22 33 44 55,info@lesprinces.ma,https://www.lesprinces.ma,33.5878622,-7.6195697,"Rue des Princes, Casablanca",osm,395,
+Infirmary,,,,Hôpital,70.0,,,,31.5342243,-7.9927378,,osm,396,
+Clinique Hamdani,,,,Clinique,150.0,+212 5 22 33 44 55,clinique.hamdani@gmail.com,https://cliniquehamdani.ma,33.5739867,-7.6307733,"Boulevard Mohammed VI, 20100 Casablanca, Maroc",osm,397,
+Clinique Hermitage,,,,Clinique,120.0,+212 537 73 73 73,clinique.hermitage@maroc.dz,https://clinique-hermitage.ma,33.5688746,-7.6141718,"Boulevard de l'Académie, 10 000 Rabat",osm,398,
+Chirurgie Generale Medecine Nucleaire,,,,Clinique,150.0,+212 5 22 33 44 55,info@chirurgiegeneralemedecine.com,https://chirurgiegeneralemedecine.ma,31.6495455,-8.0482873,"Rue des Champs-Élysées, Casablanca, Maroc",osm,399,
+Mosah Medical,,,,Clinique,200.0,+212 5 22 33 44 55,info@mosahmedical.ma,https://www.mosahmedical.ma,35.0818682,-2.2279876,"Boulevard de l'Armée Royale, 10170 Casablanca, Maroc",osm,400,
+clinique nour,6 rue kasem amine,,,Clinique,80.0,0535944647,,,34.0306715,-5.0093894,"6 rue Kasem Amine, [ville non spécifiée]",osm,401,145.0
+clinique haj abdehadi,ain kadous fez,,,Clinique,70.0,0535700470,,,34.0617107,-5.0131736,"Ain Kadous, Fès, Maroc",osm,402,146.0
+Centre Ibtissam,,,,Clinique,60.0,,,,34.0205982,-6.8242519,,osm,403,
+Cabinet Medicale,,,,Clinique,50.0,,,,34.0103968,-6.8596651,,osm,404,
+Cabinet De Pêdiatrie,,,,Clinique,50.0,,,,34.000426,-6.8471438,,osm,405,
+Riyadh Al Qastani Hospital مستشفى رياض القسطاني,,,,Hôpital,500.0,+212 5 22 33 44 55,info@riyadh-al-qastani-hospital.ma,https://www.riyadh-al-qastani-hospital.ma,33.8974417,-5.5640886,"Riyadh Al Qastani Hospital, Casablanca, Morocco",osm,406,
+أمراض القلب,,,,Clinique,40.0,0522369785,,,33.584284,-7.6506214,"الدار البيضاء, Morocco",osm,407,
+مصحة المبادرة,,,,Clinique,150.0,+212 5 22 79 23 45,,,33.8167417,-6.0707752,"الدار البيضاء, Morocco",osm,408,
+clinique kindi,,,,Clinique,80.0,,,,33.5844776,-7.650758,,osm,409,
+clinique Elmouahidin,,,,Clinique,70.0,+212 524 43 31 31,,,33.5880851,-7.5459223,"Rue El Mokhtar Arssna, 40000 Marrakech",osm,410,
+clinique ain saba3,,,,Clinique,500.0,,,,33.6123974,-7.5434849,,osm,411,
+Clinique Andalouss مصحة الاندلس,,,,Clinique,150.0,0524 43 43 43,info@cliniqueandalouss.ma,https://www.cliniqueandalouss.ma,33.5968647,-7.6545628,"Boulevard Mohammed VI, 40000 Marrakech",osm,412,
+Laboratory,,,,Hôpital,120.0,,,,33.5354999,-7.7256209,,osm,413,
+Akdital Clinique Ain Berja,,,,Clinique,120.0,+212 5 88 83 34 56,info@akdital.ma,https://www.akdital.ma,33.5853946,-7.5964818,"Route de la clinique, Ain Berja, Maroc",osm,414,
+clinique firdaous,,,,Clinique,80.0,,,,33.6050363,-7.5192692,,osm,415,
+Obstetrics and Gynecology Clinic,,,,Clinique,60.0,,,,33.8969484,-5.5461317,,osm,416,
+مصحة تعاضدية رجال التعليم - كنوبس,,,,Clinique,200.0,+212 5 35 44 44 44,mohamed.aziz@edu.ma,https://www.education.ma,33.5927448,-7.6247862,"Route de Kenouas, Kenouas, Kenitra",osm,417,
+مركز الفحص بالاشعة- النافورة,,,,Clinique,40.0,0537361942,,,34.259658,-6.5831897,"Rue de la Nafoura, Casablanca",osm,418,
+Dr Badaoui ABDELLATIF Ophtalmo,,,,Clinique,40.0,,,,33.5915471,-7.6156491,,osm,419,
+مستشفى,بني ملال,,,Clinique,500.0,+212 48 82 23 45,hopital.benimellal@ministere-sante.gov.ma,https://www.hopital-benimellal.ma,32.3553519,-6.3613516,"Route de Fes, 53000 Beni Mellal, Maroc",osm,420,147.0
+polyclinique dar asseha,,,,Clinique,80.0,+2125355-16110,,,33.9044528,-5.542578,,osm,421,
+Hospital CNSS,,,,Hôpital,1000.0,+212 537 73 73 73,,,33.6107521,-7.5008035,"BP 1346, Rabat",osm,422,
+Cabinet Dr Siham BENALI OUMJOUD,Sidi Allal El Bahraoui ⵙⵉⴷⵉ ⵄⵍⵍⴰⵍ ⴰⴱⵃⵔⴰⵡⵉ سيدي علال البحراوي,,,Hôpital,50.0,+212 5 28 23 34 56,dr.siham.benali@hopital-sidi-allal-el-bahraoui.ma,https://cabinet-docteur-siham-benali-oumjoud.business.site/website/cabinet-docteur-siham-benali-oumjoud/,34.0076276,-6.5294678,"Route de Sidi Allal El Bahraoui, Sidi Allal El Bahraoui, Maroc",osm,423,148.0
+Urgences,Tit Mellil تيط مليل,,,Hôpital,150.0,0522331777,urgences.titmellil@hopital-marocain.ma,https://hopital-marocain.ma/urgences-tit-mellil,33.549182,-7.4852956,"Route de la plage, Tit Mellil, Morocco",osm,424,149.0
+مصحة الوفاق - Infirmerie Alwifak,,,,Clinique,200.0,+212 5 22 33 44 55,infirmerie.alwifak@gmail.com,https://www.alwifak-hospital.ma,27.1293278,-13.1811239,"Route de Rabat, 10000 Casablanca, Maroc",osm,425,
+Hôpital Privé Al Khiraoui,,,,Hôpital,200.0,+212 5 22 33 44 55,info@al-khiraoui.ma,https://www.al-khiraoui.ma,32.5464322,-6.3693369,"Rue Al Khiraoui, Casablanca",osm,426,
+مستوصف حي عين الرحمة,,,,Hôpital,50.0,+212 5 22 22 22,,,28.4262886,-11.110177,"الدار البيضاء, مقاطعة عين الرحمة",osm,427,
+مستشفى الحسن الثاني,,,,Hôpital,1200.0,+212 5 37 63 33 33,info@hopital-hassan2.ma,https://hopital-hassan2.ma,28.4441326,-11.1111787,"Route de Rabat, 10 000 Casablanca, Maroc",osm,428,
+Mustawsaf Sidi Zouine,,,,Clinique,200.0,+212 5 28 83 33 33,mustawsaf.sidi.zouine@minss.gov.ma,https://www.minss.gov.ma,31.6672166,-8.3481932,"Route de Sidi Zouine, 24000 Sidi Zouine, Maroc",osm,429,
+Centre Hospitalier Provincial Mohammed VI,Al Hoceima,,,Hôpital,400.0,+212 539 83 12 00,,,35.1957408,-3.8875079,"Route de Targuist, 02300 Al Hoceima",osm,430,150.0
+مصحة طب الأعين الشيخ مول العينين,,,,Clinique,50.0,0537882796,,,34.0345106,-6.8236692,"الدار البيضاء, Morocco",osm,431,
+عزيزي فاطمة,الرباط,,,Clinique,500.0,+212 537 76 12 34,info@hospitalezzizifatima.ma,https://hospitalezzizifatima.ma,33.9665247,-6.902601,"الرباط, Rue de la Liberté, 10000",osm,432,151.0
+عيادة ابن سينا,,,,Clinique,200.0,+212 5 22 33 44 55,info@ibnsina.ma,https://www.ibnsina.ma,34.2310161,-5.7223751,"Rue Ibn Sina, Casablanca, Maroc",osm,433,
+مستشفى سيدي قاسم,,,,Hôpital,250.0,0525 83 12 34,moh@hopital-sidiqasim.ma,https://hopital-sidiqasim.ma,34.2206173,-5.6988963,"Route de Sidi Qasim, Sidi Qasim, Maroc",osm,434,
+المستشفى البلدي الحي المحمدي,,,,Clinique,500.0,+212 537 73 31 31,,,32.3461616,-6.3545658,"Route de Casablanca, Hay Mohammadi, Rabat, Maroc",osm,435,
+Clinical Les Fleurs,,,,Hôpital,400.0,,,,33.5815871,-7.6220232,,osm,436,
+طبيب النساء و التوليد,,,,Hôpital,400.0,0535468282,,http://gynecomeknes.ma,33.8589416,-5.5717484,,osm,437,
+المركز الصحي الحضري المستوى 1 الوحدة,,,,Hôpital,600.0,,,,33.8539401,-5.5449476,,osm,438,
+Clinique El Wahda,,,,Hôpital,150.0,+212 5 22 33 44 55,info@elwahda.ma,https://www.elwahda.ma,35.1683846,-2.9451742,"Rue El Wahda, Casablanca",osm,439,
+Centre d'Hémodialyse,,,,Hôpital,300.0,,,,33.6308643,-7.1348526,null,osm,440,
+Centre Hospitalier Provincial de Benslimane,,,,Hôpital,300.0,+212 5 24 98 00 00,,,33.6304207,-7.1346264,"Route de Casablanca, 43 260 Benslimane",osm,441,
+pratic fatima,,,,Clinique,50.0,,,,30.4123849,-9.5647443,,osm,442,
+TARFAYA,,,,Hôpital,150.0,+212 528 83 12 34,,,27.9421014,-12.9231516,"Route de l'aéroport, 23000 Tarfaya, Maroc",osm,443,
+مستشفى,,,,Hôpital,450.0,,,,34.6321673,-4.9140958,,osm,444,
+SOS Medecin Rabat,Rabat,,,Clinique,100.0,+212 537 73 73 73,rabat@sosmedecin.ma,https://www.citydoctor.ma/assistance-médicale,34.0054819,-6.8502791,"Boulevard Mohammed V, 10000 Rabat, Maroc",osm,445,152.0
+Optique Al Qods,Tiznit,,,Hôpital,350.0,,,,29.6918902,-9.7342685,,osm,446,153.0
+Cabinet d'Endocrinologie Dr AMGHAR FATIHA,Agadir,,,Hôpital,20.0,+212 528 83 33 33,fatihamghar@endocrinologie.com,https://www.endocrinologie-agadir.com,30.4099619,-9.5895797,"Route de l'Agdal, Agadir",osm,447,154.0
+المستعجلات,,,,Hôpital,450.0,,,,33.9698292,-6.8707789,Adresse non trouvée,osm,448,
+Centre de Santé Rural,,,,Clinique,20.0,,,,31.8338898,-6.106502,,osm,449,
+Centre de Santé Rural Niveau 2,,,,Clinique,40.0,,,,32.0673879,-5.9354204,,osm,450,
+Centre de Santé Rural Niveau 1 Boutferda,,,,Clinique,30.0,,,,32.3551321,-5.832013,,osm,451,
+Hôpital de Proximité Rich,,,,Hôpital,600.0,,,,32.275429,-4.4906056,,osm,452,
+Health Center Imzouren,Al Hoceima,,,Hôpital,50.0,+212 539 88 23 45,centre.sante.imzouren@minss.gov.ma,,35.1455755,-3.8525583,"Route de Targuist, Imzouren, Al Hoceima",osm,453,150.0
+Kiné oum & co,Casablanca ⵜⴰⴷⴷⴰⵔⵜ ⵜⵓⵎⵍⵉⵍⵜ الدار البيضاء,,,Hôpital,20.0,+212673240366,,,33.5403113,-7.5509901,"Avenue des F.A.R., 20100 Casablanca, Maroc",osm,454,155.0
+مصحة طب العيون فاس OCF,,,,Clinique,200.0,+212 535 63 31 31,info@ocf.ma,https://www.ocf.ma,34.0280753,-4.998582,"Route de Taza, Fes, Maroc",osm,455,
+Hospital Amizmiz,,,,Hôpital,200.0,+212 6 61 19 04 04,,,31.2188183,-8.2333754,"Route de Marrakech, Amizmiz, Marrakech, Maroc",osm,456,
+مستشفى مولاي الحسن,,,,Hôpital,500.0,+212 537 73 33 33,,,33.6046028,-7.6340318,"Route de Rabat, 10000 Rabat, Maroc",osm,457,
+مستشفى بانيو,,,,Hôpital,120.0,+212 5 24 83 11 11,,,33.9032974,-5.5146489,"Route de Bani Ouarain, Bni Ouarain, Maroc",osm,458,
+Centre de santé Ouled Berhil,,,,Clinique,40.0,,,,30.635924,-8.4824752,,osm,459,
+مستشفى بن صميم,,,,Hôpital,500.0,+212 539 93 31 31,,,33.4980278,-5.1681919,"Route de Tanger, 40000, Tanger, Maroc",osm,460,
+المركز الصحي ويسلان 2,,,,Hôpital,150.0,0525 83 23 14,wislancentral@hopital.ma,https://hopitalwislancentral.ma,33.9084211,-5.4903978,"Route de Wislan, 43150 Wislan, Maroc",osm,461,
+Centre de Santé Rural Belyounech,Belyounech,,,Clinique,150.0,+212 5 38 83 12 34,csr.belyounech@minss.gov.ma,,35.9094419,-5.3870208,"Route de Tétouan, Belyounech, Maroc",osm,462,156.0
+Optical Shop,,,,Hôpital,0.0,,,,30.9239015,-6.9240534,,osm,463,
+Ait ourir,,,,Hôpital,600.0,,,,31.5648056,-7.6618097,,osm,464,
+Polyclinique Atlas مصحة اطلس,,,,Clinique,150.0,+212 537 73 73 73,info@polycliniqueatlas.ma,https://www.polycliniqueatlas.ma,33.5901639,-7.6287525,"Boulevard Mohammed VI, Rabat, Maroc",osm,465,
+Hospital moulay Ismail,,,,Hôpital,1000.0,0535 63 22 00,,,33.893774,-5.5463359,"Route de Meknès, 23150 Meknès",osm,466,
+Parmacie Ichbilya,,,,Hôpital,0.0,,,,28.4424717,-11.1156221,,osm,467,
+Infirmier à domicile,Youssoufia ⵢⵓⵙⴼⵉⵢⴰ اليوسفية,,,Hôpital,50.0,0670056227,,,32.2332171,-8.5384158,"Route de Marrakech, 48430 Youssoufia, Maroc",osm,468,157.0
+جميع العلاجات التمريضية اليوسفية,Youssoufia ⵢⵓⵙⴼⵉⵢⴰ اليوسفية,,,Hôpital,500.0,0670056227,,,32.2346169,-8.5351106,"Route de Marrakech, 48400 Youssoufia, Maroc",osm,469,157.0
+هشام الفرملي,chemaia,,,Hôpital,0.0,0670056227,,,32.0760205,-8.6266709,"Route de Meknès, Chemaa, Maroc",osm,470,158.0
+هشام الفرملي,Echemmaia ⵛⵎⴰⵄⵉⵢⴰ الشماعية,,,Hôpital,150.0,0670056227,hisham.fermli@hopital.ma,https://hopital.ma/hisham-fermli,32.0780905,-8.6267226,"Route de la ville, Echemmaia ⵛⵎⴰⵄⵉⵢⴰ الشماعية, Maroc",osm,471,159.0
+HOPITAL DE JOUR,CHP KHOURIBGA,,,Hôpital,250.0,+212 48 84 21 21,hopitaldejhouribga@hopitaux.gov.ma,https://www.hopitaldejhouribga.ma,32.8917963,-6.905217,"Route de la ville, 26000 Khouribga, Maroc",osm,472,160.0
+Service des urgences,chp khouribga,,,Hôpital,200.0,+212 5 83 83 83 83,,,32.8924455,-6.9055456,"Route de Meknès, 26000 Khouribga, Maroc",osm,473,161.0
+infirmerie,Youssoufia,,,Hôpital,150.0,0670056227,infirmerie.youssoufia@hopitaux-marocains.ma,https://www.hopitaux-marocains.ma/infirmerie-youssoufia,32.2573017,-8.528899,"Route de la ville, 48400 Youssoufia, Maroc",osm,474,162.0
+Infirmerie tous type de soins,Youssoufia,,,Hôpital,80.0,0670056227,,,32.260338,-8.5268569,"Route de Marrakech, 48400 Youssoufia, Maroc",osm,475,162.0
+hopital de douar,,,,Hôpital,50.0,,,,32.9124129,-5.7064525,,osm,476,
+المستشفى الجامعي الاقليمي,,,,Hôpital,500.0,0524 43 22 11,univ.marrakech@edu.ma,https://www.univ-marrakech.ac.ma,27.1331997,-13.1423998,"Route de l'aéroport, 40000 Marrakech",osm,477,
+Hôpital Provincial 20 Août,,,,Hôpital,500.0,+212 524 43 31 31,hopital20aout@gmail.com,https://www.hopital20aout.ma,33.4392031,-5.2144338,"Route de l'Hôpital, 40000 Marrakech",osm,478,
+Hopital charifa,,,,Hôpital,120.0,,,,31.6067425,-7.9660628,,osm,479,
+Clinique de L'Universite,,,,Hôpital,150.0,,,https://cliniquedeluniversite.ma/,30.3990175,-9.5237685,,osm,480,
+Clinique Internationale,,,,Hôpital,500.0,+212 5 22 39 39 39,,,30.439797,-9.5826471,"BP 2155, Route de Rabat, Casablanca",osm,481,
+APEX Dental Clinic,Tanger,,,Hôpital,10.0,+212 539 93 34 56,info@apexdentalclinic.ma,https://www.apexdentalclinic.ma,35.7757254,-5.8046245,"Rue de la Mer, Tanger",osm,482,144.0
+Polyclinique Belvédère,,,,Clinique,80.0,+212 5 22 43 43 43,,www.cliniquebelvedere.ma,34.0107368,-6.841603,"Rue Ibn Sina, Quartier Hadj Mustapha El Alami, Casablanca",osm,483,
+Hôpital Princesse Lalla Meriem,Larache,,,Hôpital,300.0,+212 40 98 23 34,hplm@minss.gov.ma,https://www.minss.gov.ma,35.1857703,-6.1568307,"Route de Rabat, 11600 Larache, Maroc",osm,484,163.0
+Polyclinique Lixus,Larache,,,Hôpital,150.0,+212 40 98 23 456,info@polycliniquelixus.ma,https://www.polycliniquelixus.ma,35.1806608,-6.1463313,"Route de la Plage, 12200 Larache, Maroc",osm,485,163.0
+Projet Centre Hospitalier Provincial d'Ouezzane,Ouazzane ⵡⴰⵣⴰⵏ وزان,,,Hôpital,300.0,+212 39 85 22 22,,,34.8036143,-5.5597105,"Route de Tanger, 24000 Ouazzane, Maroc",osm,486,164.0
+Centre de Santé Urbain المركز الصحي الحضري,Ouazzane ⵡⴰⵣⴰⵏ وزان,,,Hôpital,150.0,+212 55 58 22 11,,,34.7974555,-5.5789704,"Route de Meknès, Ouazzane, Maroc",osm,487,164.0
+Centre de Santé Urbain 9 Juillet,Ouazzane ⵡⴰⵣⴰⵏ وزان,,,Hôpital,60.0,,,,34.8017803,-5.5767769,"Ouazzane, Maroc",osm,488,164.0
+مصحة متعددة الاختصاصات وزان دار الضمانة,Ouazzane وزان,,,Hôpital,200.0,+212 661 123456,info@hospitalezan.com,https://hospitalezan.com,34.7965183,-5.5644632,"Ouazzane, Maroc",osm,489,165.0
+Hôpital Abou El Kacem Zahraoui_Ouazzane مستشفى أبو القاسم الزهراوي وزان,Ouazzane ⵡⴰⵣⴰⵏ وزان,,,Hôpital,250.0,+212 39 85 22 22,hazouazane@minss.gov.ma,https://www.minss.gov.ma,34.7990076,-5.5882348,"Route de Tanger, 24100 Ouazzane, Maroc",osm,490,164.0
+Hôpital,Assilah,,,Hôpital,250.0,+212 39 85 23 456,hopital.assilah@minss.gov.ma,https://www.minss.gov.ma/fr/hopitaux/hopital-assilah,35.4647749,-6.0269395,"Route de Tanger, 24000 Assilah, Maroc",osm,491,166.0
+Hôpital Le Croissant Rouge d'Asilah,Assilah,,,Hôpital,200.0,+212 66 87 22 22,,,35.4677114,-6.0344082,"Route de Rabat, 92030 Asilah, Maroc",osm,492,166.0
+C. d'oncologie d'Al Hoceima,Al Hoceima,,,Hôpital,150.0,+212 539 88 33 33,cancerologie.alhoceima@minss.gov.ma,https://www.minss.gov.ma,35.2373441,-3.928308,"Route de Targuist, 32000 Al Hoceima",osm,493,150.0
+Clinique Tingis,Tanger,,,Hôpital,400.0,,,,35.7708912,-5.8072381,"Tingis, Tanger",osm,494,144.0
+Clinique Longchamps مصحة لونشون,,,,Clinique,150.0,+212 5 22 33 44 55,info@cliniquelongchamps.ma,https://cliniquelongchamps.ma/,33.5817672,-7.6608672,"Rue de la Clinique, Casablanca, Maroc",osm,495,
+Clinique Ghandi مصحة غاندي,,,,Clinique,80.0,+212522940770/74,,https://www.ghandiclinic.com/,33.579757,-7.6570106,null,osm,496,
+Hôpital Privé International de Casablanca المستشفى الخاص الدولي للدار البيضاء,,,,Hôpital,200.0,+212 522 43 22 22,,https://www.hpi.ma/,33.5819777,-7.6403102,"Boulevard Sidi Mohammed Ben Abdallah, 20100 Casablanca, Maroc",osm,497,
+Clinique Maghreb مصحة المغرب,,,,Clinique,100.0,+212662334085,info@cliniquemaghreb.ma,https://www.cliniquemaghreb.ma,33.5850575,-7.6427795,"Avenue Hassan II, 10000 Rabat, Maroc",osm,498,
+Clinique Al Massira مصحة المسيرة,,,,Clinique,150.0,0524 43 22 22,info@almassira.ma,https://cliniquealmassira.com/,33.5906505,-7.6386542,"Route de Safi, 40000 Marrakech, Maroc",osm,499,
+Clinique Les Iris مصحة السوسن,,,,Clinique,80.0,,,,33.5883375,-7.6364928,,osm,500,
+Akdital oasis,casablanca,,,Hôpital,200.0,+212 5 22 33 44 55,info@akditaloasis.ma,https://www.akditaloasis.ma,33.5606808,-7.6293283,"Rue de la République, Casablanca",osm,501,167.0
+مستوصف آيت حسان Dispensaire rural d’Aït Hassan,Timitar,,,Clinique,20.0,+212 6 77 88 99 00,moustachait hassan@gmail.com,https://moustachait-hassan.ma,33.48531,-4.0207421,"Route de Timitar, Aït Hassan, Maroc",osm,502,168.0
+La Symphony Dental Centre,Tanger طنجة,,,Hôpital,400.0,+212 539 93 33 33,info@lasymphonydentalcentre.com,https://lasymphonydental.com/,35.7493705,-5.7989835,"Rue de la Liberté, Tanger",osm,503,169.0
+Centre de Santé Said Noussairi,Tanger,,,Hôpital,500.0,0663613242,,,35.7706014,-5.8146093,"Rue Said Noussairi, Tanger, Maroc",osm,504,144.0
+Clinique Racine مصحة راسين,,,,Clinique,150.0,+212 5 22 33 44 55,info@cliniqueracine.ma,https://www.cliniqueracine.ma,33.5869814,-7.6369396,"Rue de la Clinique, Casablanca, Maroc",osm,505,
+Clinique Le Parc,,,,Clinique,150.0,0537 23 34 56,info@leparc.ma,https://www.leparc.ma,33.5636438,-7.6150157,"BP 1234, 10000 Rabat",osm,506,
+Clinique Rachidi,,,,Clinique,100.0,+212 524 38 38 38,cliniquerachidi@gmail.com,https://www.cliniquerachidi.ma,33.5932871,-7.6280126,"BP 114, Avenue Hassan II, 40000 Marrakech",osm,507,
+Best Way Medical,,,,Clinique,200.0,+212 5 22 33 44 55,info@bestwaymedical.ma,https://www.bestwaymedical.ma,33.5754734,-7.6378886,"Boulevard Mohammed VI, Casablanca, Maroc",osm,508,
+Clinique Val d'Anfa مصحة ڤال أنفا,,,,Clinique,150.0,+212 5 22 43 43 43,info@cliniquevaldanza.ma,https://cliniquevaldanza.ma/,33.5898915,-7.6531133,"Rue des Orangers, 20250 Casablanca, Maroc",osm,509,
+Clinique Attal,,,,Hôpital,150.0,+212 5 22 21 21 21,clinique.attal@clinique-attal.ma,https://www.clinique-attal.ma/,33.55864,-7.637683,"Rue des Oliviers, 20100 Casablanca, Maroc",osm,510,
+Clinique Maarif مصحة المعاريف,,,,Clinique,120.0,+212 537 73 33 33,,,33.5760462,-7.6355313,"Route de Casablanca, Maarif, Rabat, Maroc",osm,511,
+Clinique Socrate,,,,Hôpital,600.0,,,,33.5788058,-7.6472013,,osm,512,
+maison d'accochement,Drarga,,,Hôpital,40.0,,,,30.3841618,-9.4805975,,osm,513,170.0
+"مركز طب الادمان Centre d'Addictologie, Meknès",,,,Hôpital,100.0,+212 53 923 111,centre.addictologie.meknes@minss.gov.ma,https://www.minss.gov.ma/fr/centre-addictologie-meknes,33.8943596,-5.5766481,"Route de Fès, Meknès",osm,514,
+centre sante fom oued,sidi ali belkacem,,,Hôpital,150.0,+212 6 11 22 33 44,centre.sante.fom.oued@gmail.com,https://centresante.fom.oued.ma,34.0763209,-2.9749963,"Oued Sidi Ali Belkacem, Maroc",osm,515,171.0
+Hôpital Privé de Casablanca Aîn Sebaâ,,,,Clinique,300.0,+212 5 22 43 43 43,,,33.6123849,-7.5301441,"Avenue de l'Armée Royale, Ain Sebaa, Casablanca",osm,516,
+Clinique Yasmine,,,,Clinique,150.0,0522 123456,info@clinique-yasmine.ma,https://www.clinique-yasmine.ma,33.5758186,-7.6719778,"BP 1234, 10000 Casablanca",osm,517,
+Hospital Ibn Zohr,,,,Hôpital,500.0,+212 528 83 31 31,,,31.6181626,-7.9954698,"Route de l'Aéroport, 80000 Agadir",osm,518,
+مستشفى سيدي عبد الكريم,,,,Hôpital,200.0,+212 24 83 23 34,mohamed@gmail.com,https://www.mshsidiabdalkarim.ma,32.3130978,-9.2280441,"Route de Sidi Bouzid, 43150 Sidi Kacem, Maroc",osm,519,
+مستشفى محمد الخامس,,,,Hôpital,1000.0,+212 537 73 51 51,,,32.2878762,-9.2374938,"الرباط, Morocco, Avenue Mohammed V, 10000",osm,520,
+مستشفى بياضة,,,,Hôpital,500.0,+212 537 73 73 73,,,32.3069702,-9.2341806,"الدار البيضاء, Morocco",osm,521,
+abda,,,,Hôpital,350.0,,,,32.2916669,-9.2338541,,osm,522,
+ocp,,,,Hôpital,1000.0,+212 524 43 41 41,contact@ocp.ma,https://www.ocp.ma,32.2925375,-9.2302002,"Boulevard de l'Académie, 10100 Marrakech, Maroc",osm,523,
+Centre De Sante Sfa (Safi),,,,Hôpital,150.0,+212 0 81 73 23 34,cde.sfa@minss.gov.ma,https://www.minss.gov.ma/fr/centre-de-sante-sfa-safi,32.2882975,-9.2186426,"Route de l'aéroport, 86000 Safi, Maroc",osm,524,
+Hôpital Mohammed V,Tanger,,,Hôpital,500.0,+212 539 93 93 93,,,35.7781906,-5.8282592,"Boulevard Mohammed VI, Tanger, Maroc",osm,525,144.0
+jrayefate,,,,Hôpital,40.0,,,,32.2845726,-9.2219147,,osm,526,
+مستشفى المطار,,,,Hôpital,500.0,+212 5 22 33 44 55,info@airport.hospital.ma,https://airport.hospital.ma,32.2664339,-9.235071,"Route de l'aéroport, Casablanca",osm,527,
+Centre Hospitalier Universitaire Ibn Rochd المركز الإستشفائي الجامعي إبن رشد,,,,Hôpital,1000.0,+212 23 47 22 22,chu.ibnrochd@minss.gov.ma,https://chuibnrochd.ma/,33.5789091,-7.6215532,"Boulevard de l'Académie, Casablanca, Maroc",osm,528,
+University hospital Hassan II,,,,Hôpital,1000.0,+212 522 43 22 22,,,34.0043481,-4.9622857,"BP 5495, Avenue Ibn Sina, Casablanca",osm,529,
+Clinique Bades,Al Hoceima,,,Hôpital,150.0,+212 539 88 00 00,,,35.2338198,-3.9255847,"Route de Targuist, Al Hoceima 32000, Maroc",osm,530,150.0
+Clinique rif,Tétouan,,,Hôpital,80.0,+212 39 932 222,,,35.5868035,-5.3468001,"Tétouan, Maroc",osm,531,129.0
+Centre de dialyse Arrayane,Tétouan,,,Hôpital,50.0,+212 539 93 33 33,,,35.5844993,-5.3467761,"Rue Arrayane, Tétouan, Maroc",osm,532,129.0
+CHU Ibn Sina (Souissi),,,,Hôpital,1000.0,+212 537 77 44 44,,,33.9834625,-6.8511983,"Boulevard d'Agdal, 10170 Rabat, Maroc",osm,533,
+Hôpital Militaire Mohammed V - المستشفى العسكري محمد الخامس,Rabat ⵔⴱⴰⵟ الرباط,,,Hôpital,500.0,+212 537 73 31 31,,,33.9697158,-6.8703091,"Boulevard Moulay Abdellah, Rabat 10000, Maroc",osm,534,172.0
+Polyclinique,,,,Hôpital,120.0,,,,33.2840335,-8.3539011,,osm,535,
+Clinique de Taounate,,,,Hôpital,60.0,,,,34.5177814,-4.6462989,,osm,536,
+Hopital de Taounate,,,,Hôpital,300.0,+212 53 783 33 33,hopital.de.taounate@minss.gov.ma,https://www.minss.gov.ma,34.5219661,-4.6408908,"Route de Meknès, 32400 Taounate, Maroc",osm,537,
+Hôpital de Chichaoua مستشفى شيشاوة,Shishawa شيشاوة,,,Hôpital,150.0,+212 528 83 33 33,hchichaoua@minss.gov.ma,https://www.minss.gov.ma/hchichaoua,31.5394634,-8.7688098,"Route de Marrakech, 28000 Chichaoua, Maroc",osm,538,173.0
+Hôpital Des Enfants Du CHU Ibn Sina,,,,Hôpital,500.0,0537 63 21 00,,,33.9864541,-6.8542771,"BP 640, Avenue Ibn Sina, Rabat",osm,539,
+Maternite du Souissi / CHU Ibn SIna,,,,Hôpital,1000.0,+212 537 77 17 17,,,33.9873368,-6.855408,"Boulevard Ibn Sina, 10000 Rabat, Maroc",osm,540,
+Centre de diagnostic مركز التشخيص,الناظور,,,Hôpital,600.0,+212 35 53 33 33,,,35.17611,-2.9261796,"Route de la plage, Nazaré, Province de Nador, Maroc",osm,541,142.0
+Clinique an-Nakhil,Tétouan,,,Hôpital,150.0,+212 539 93 33 33,info@an-nakhil.ma,https://an-nakhil.ma/,35.5689951,-5.3822046,"Tétouan, Maroc",osm,542,129.0
+Clinique Tétouan,Tétouan,,,Hôpital,150.0,+212 539 93 34 56,cliniquetetouan@gmail.com,https://cliniquetetouan.ma,35.5707363,-5.3854731,"Route de la ville, Tétouan, Maroc",osm,543,129.0
+Centre de santé,,,,Hôpital,40.0,,,,34.0457237,-6.7972527,,osm,544,
+Clinique Chifa,,,,Clinique,150.0,+212 5 22 34 56 78,info@cliniquechifa.ma,https://www.cliniquechifa.ma,30.9231894,-6.919548,"BP 1234, Avenue Hassan II, Casablanca",osm,545,
+Polyclinique CNSS Ziraoui,,,,Hôpital,150.0,+21222203856,info@polycliniquecnssziraoui.ma,https://www.polycliniquecnssziraoui.ma,33.594349,-7.6356322,"Boulevard Ziraoui, Casablanca, Maroc",osm,546,
+Clinic Lina,,,,Clinique,40.0,,,,33.5198072,-7.6516183,,osm,547,
+Laboratoire analyse médicale Latifa Ouali,,,,Hôpital,200.0,+212 537 73 73 73,info@lamr.org,https://www.lamr.org,33.9934511,-6.8469036,"Avenue Hassan II, 10000 Rabat, Maroc",osm,548,
+Clinique Belvedere Centre De Cardiologie,,,,Hôpital,600.0,022 43 22 22,,,34.0107422,-6.8416074,"BP 1355, Route d'El Jadida, Casablanca",osm,549,
+Clinique Le Littoral,,,,Hôpital,100.0,+212 5 22 43 43 43,,https://www.cliniquelittoral.ma,33.5812437,-7.6751812,"BP 134, 2ème étage, Angle Avenue de l'Armée Royale et Boulevard Moulay Abdellah, Casablanca",osm,550,
+Clinic Guess,,,,Clinique,80.0,,,,33.5810498,-7.6754435,,osm,551,
+Clinique Sidi Othmane,,,,Clinique,150.0,+212 5 22 33 44 55,cliniquesidiothmane@gmail.com,https://cliniquesidiothmane.ma,33.5597854,-7.5615636,"Rue Sidi Othmane, Casablanca",osm,552,
+Abi Kacem Zehraoui أبي قاسم الزهراوي,,,,Hôpital,1000.0,+212 537 73 31 31,azh@hcup.ma,http://www.hcup.ma,34.7990181,-5.5882554,"Route de l'Université, BP 6419, Rabat",osm,553,
+Hopital l Hassani,,,,Hôpital,700.0,,,,35.1766682,-2.9364152,,osm,554,
+Hôpital Ahfir,,,,Hôpital,150.0,0535 58 23 00,,,34.9501765,-2.1028386,"Route de Meknès, Ahfir, Meknès, Maroc",osm,555,
+Hopital Ibn Baja,,,,Hôpital,500.0,+212 524 38 38 38,hopital.ibn.baja@msssi.ma,https://hopitalibnbaja.ma,34.2156594,-4.0046026,"Boulevard Mohammed VI, 40000 Marrakech, Maroc",osm,556,
+Nouveau Hopital My Abdellah,,,,Hôpital,750.0,,,,34.0262886,-6.753601,,osm,557,
+Hopital 20 Aout,,,,Hôpital,500.0,+212 5 22 22 22 22,hopital20aout@marocmail.com,https://hopital20aout.ma,33.5751376,-7.6210168,"Boulevard de l'Armée Royale, 20100 Casablanca, Maroc",osm,558,
+Hôpital Hassan II مستشفى الحسن الثاني,,,,Hôpital,1200.0,+212 22 43 33 33,,https://www.hopital-hassan2.ma,23.7140931,-15.9226862,"Boulevard de l'Oasis, 20100 Casablanca, Maroc",osm,559,
+مولاي إسماعيل,kasba tadla,,,Hôpital,500.0,+212 24 83 23 34,moulay.ismail@hopital.ma,https://hopital-moulayismail.ma,32.5881458,-6.258747,"Route de Tadla, Kasba Tadla, 23000, Morocco",osm,560,174.0
+La Capitale,,,,Hôpital,500.0,+212 522 34 34 34,info@lacapitale.ma,https://www.lacapitale.ma,34.0167844,-6.8282204,"Avenue Hassan II, Casablanca, Maroc",osm,561,
+Polyclinique de la Sécurité sociale,,,,Hôpital,250.0,+212 5 22 22 22 22,polyclinique.securite.sociale@maroc.dz,https://www.pss.ma,33.5708495,-7.6229618,"Rue de la Sécurité Sociale, Casablanca",osm,562,
+Hôpital Cheikh Zaid مستشفي الشيخ زايد بالرباط,Rabat ⵔⴱⴰⵟ الرباط,,,Hôpital,500.0,+212(05) 37 68 38 48,,https://www.hcz.ma/contact/,33.9774766,-6.8696998,"Boulevard Mohammed V, Rabat, Maroc",osm,563,172.0
+Clinique Cornette,Meknès,,,Clinique,150.0,0539 83 23 11,cliniquecornette@meknes.ma,https://cliniquecornette.ma,33.9054716,-5.5523274,"Rue de la Clinique, Meknès, Maroc",osm,564,175.0
+Hopital Mohamed 6,MDiq,,,Hôpital,500.0,0524 43 31 31,hopital.mohamed6@maroc.dz,https://www.hopitalmohamed6.ma,35.6917865,-5.3299838,"Route de l'aéroport, 23000 Marrakech",osm,565,176.0
+Hôpital Mohamed V,Chefchaouen,,,Hôpital,600.0,,,,35.1686501,-5.2708822,,osm,566,133.0
+Centre El Fath D`hemodialyse,midar,,,Hôpital,50.0,+212 5 35 83 23 45,centrelfathdhemodialyse@gmail.com,https://www.centrelfathdhemodialyse.ma,34.9365928,-3.5351867,"Route de Midar, 40000 Midar, Maroc",osm,567,132.0
+Clinique El Amine,,,,Hôpital,150.0,+212 5 22 33 44 55,info@cliniqueelamine.ma,https://www.cliniqueelamine.ma,33.5704148,-7.6204878,"Rue El Amine, Casablanca",osm,568,
+Hôpital El Farabi,,,,Hôpital,400.0,,,,34.6755048,-1.914488,,osm,569,
+Hopital de Trone,TOUISSIT,,,Hôpital,500.0,,,https://www.sante.gov.ma/,34.4800253,-1.7630063,Cité Economique 64852 TOUISSIT,osm,570,177.0
+Dispensaire Ich,,,,Hôpital,30.0,,,,32.5155132,-1.0039214,,osm,571,
+Hôpital,,,,Hôpital,500.0,,,,33.6858803,-5.3765791,,osm,572,
+clinique alaoui,,,,Clinique,80.0,,,,33.9014481,-5.547278,,osm,573,
+Sidi Hssain Bennacer,ouarzazate,,,Hôpital,200.0,+212 24 88 22 33,sidi.hssain.bennacer@minsa.gov.ma,,30.9251099,-6.9175079,"Route de Marrakech, 45000 Ouarzazate, Maroc",osm,574,178.0
+Hôpital Moulay Hassan Ben Mehdi,,,,Hôpital,500.0,+212 524 43 31 31,,,27.1566843,-13.1892818,"Boulevard Mohammed VI, 40000 Marrakech",osm,575,
+Hôpital Hassan II,,,,Hôpital,1000.0,+212 22 43 41 41,,,32.8925762,-6.9060318,"Boulevard de la Souissi, Casablanca",osm,576,
+Hôpital Hay Salam مستشفى حي السلام,,,,Hôpital,250.0,0537 63 63 63,info@hospitaleyaslam.ma,https://hospitaleyaslam.ma,33.8954854,-5.583789,"Rue 1, Quartier Hay Salam, Casablanca",osm,577,
+Hôpital Siid Baba مستشفى سيد بابا,Meknès مكناس,,,Hôpital,500.0,+212 53 92 23 456,hospitelsidbaba@gmail.com,https://www.hospitelsidbaba.ma,33.912047,-5.5774214,"Route de Fès, Meknès",osm,578,179.0
+La croix rouge,,,,Hôpital,500.0,+212 5 22 33 44 55,croixrouge@maroc.org,https://www.croixrouge.ma,33.901974,-5.5772462,"Rue de la Croix Rouge, Casablanca, Maroc",osm,579,
+Hopital Gzoula,,,,Hôpital,250.0,+212 66 85 33 33,hospitalgzoula@gmail.com,https://www.hopitalgzoula.ma,32.1117979,-9.0838962,"Route de la Gare, 40000 Guelmim, Maroc",osm,580,
+Centre de Santé Lamharchi,,,,Hôpital,150.0,+212 524 38 38 38,,,34.6778842,-1.9356027,"Boulevard Mohammed VI, 40000 Marrakech, Maroc",osm,581,
+Centre De Dialyse Al Hakim Alaoui,Oujda,,,Clinique,30.0,+212 536708989,,https://www.dialyseoujda.com/,34.6777887,-1.9184541,"Route de la ville nouvelle, Oujda, Maroc",osm,582,131.0
+Clinique Oujda,Oujda,,,Clinique,450.0,+212 0 52 37 23 45,,,34.6736898,-1.916342,"Route de Tafilalet, Oujda 61000, Maroc",osm,583,131.0
+Centre de Santé Village Toba,,,,Clinique,350.0,,,,34.6970721,-1.9182154,,osm,584,
+Centre Hospitalier,,,,Hôpital,39.0,,,,32.256756,-8.9815354,,osm,585,
+Clinique Les Palmiers,,,,Clinique,150.0,+212 5 22 34 56 78,info@cliniqualespalmiers.ma,https://www.cliniqualespalmiers.ma,33.243736,-8.4926917,"BP 1234, 10000 Casablanca, Maroc",osm,586,
+Hôpital Essaada,,,,Hôpital,1000.0,0524 43 31 31,,,33.2431155,-8.5305848,"Boulevard Sidi Mohammed Ben Abdallah, 40000 Marrakech",osm,587,
+Centre d'Addictologie,,,,Clinique,145.0,+212 5 22 28 11 11,,,34.6597796,-1.9125692,"BP 10000, Avenue Hassan II, 20100 Casablanca",osm,588,
+Clinique Les Iris,Oujda,,,Clinique,94.0,+212 536712829,,,34.6671271,-1.9157317,"Route de Tafilalet, Oujda 61000, Maroc",osm,589,131.0
+Clinique Doukkala,,,,Hôpital,55.0,+212 23 832 333,,,33.2491815,-8.5080139,"Route de Safi, 40000 El Jadida",osm,590,
+Centre d'Hémodialyse Moulay Abdellah,,,,Clinique,80.0,+212 524 43 31 31,,,33.248757,-8.5104241,"Rue de la Liberté, 40000 Marrakech",osm,591,
+Clinique Le Maroc,Oujda,,,Clinique,120.0,+212 0 962 00 00,,,34.6724973,-1.9184497,"Route de Tafilalet, Oujda 61000, Maroc",osm,592,131.0
+Clinique Ibn Sina (Avicenne),Oujda,,,Clinique,150.0,+212 66 23 22 111,,,34.6639304,-1.9045374,"Boulevard Mohammed VI, Oujda 60000, Maroc",osm,593,131.0
+L'Hôpital des Maladies Psychiatriques,,,,Hôpital,500.0,0537 63 34 34,lhopital.demaladiespsychiatriques@minss.gov.ma,https://www.minss.gov.ma,34.6800227,-1.8906515,"Boulevard de l'Armée Royale, 10000 Rabat",osm,594,
+Centre Mehdi Ibn Toumart مركز المهدي ابن تومرت,,,,Hôpital,500.0,+212 539 93 31 31,,,34.7913823,-1.9020136,"Route de Tétouan, 40000 Tétouan, Maroc",osm,595,
+Centre de Santé Essalam,,,,Hôpital,500.0,+212 524 38 00 00,info@essalam.ma,https://www.essalam.ma,33.5199205,-5.1194827,"Boulevard Mohammed VI, 40000 Marrakech",osm,596,
+Hôpital kelaat m'gouna,,,,Hôpital,400.0,,,,31.2498983,-6.1195622,,osm,597,
+Hopital Ibn Tofaïl,,,,Hôpital,500.0,+212 5 22 33 44 55,ibtoufal.casablanca@hopitaux.gov.ma,https://www.hopitalibtoufal.ma,31.6415953,-8.0156193,"BP 1234, Avenue Mohammed VI, Casablanca",osm,598,
+Polyclinique du Sud,,,,Hôpital,150.0,+212 524 43 43 43,info@polycliniquedusud.ma,https://www.polycliniquedusud.ma,31.6378212,-8.0147083,"Boulevard Mohammed VI, 40000 Marrakech",osm,599,
+Clinique des orangers,,,,Clinique,60.0,,,,34.0174238,-6.8422696,,osm,600,
+Polyclinique les Narcisses,,,,Hôpital,500.0,,,,31.6402436,-8.0197303,,osm,601,
+Clinique Al Irfane,Oujda,,,Clinique,80.0,+212 536 53 2020,,http://www.clinique-alirfane.com/,34.6547678,-1.9144344,"Route de Tafilalet, Oujda 61000, Maroc",osm,602,131.0
+Dispensaire Mbasso مستوصف امباصو,OUJDA,,,Clinique,30.0,+212 536703001,,,34.6804307,-1.9053506,"Route de Tétouan, Oujda",osm,603,180.0
+Dispensaire Riad مركز صحي الرياض,,,,Clinique,40.0,+212 5 47 83 24 24,,,34.6794094,-1.8966624,"Rue de la Liberté, 40160 Sidi Moumen, Casablanca, Maroc",osm,604,
+hôpital al kortobi,Tanger,,,Hôpital,500.0,0539 33 33 33,hôpital.al.kortobi@tanger.ma,https://www.hôpitalalkortobi.ma,35.7894876,-5.8183982,"Route de la Corniche, Tanger, Maroc",osm,605,144.0
+Centre de procréation medicalement assistée,,,,Clinique,100.0,,,,31.6256943,-7.9939469,,osm,606,
+Dispensaire مستوصف,Beni Enzar بني انصار,,,Hôpital,20.0,+212 6 12 34 56 78,benienzar.dispensaire@hopitaux.ma,https://benienzar.dispensaire.ma,35.2615812,-2.9337219,"Route de Beni Enzar, Beni Enzar, Maroc",osm,607,181.0
+Centre de santé Irhalne المركز الصحي إرحالن,,,,Hôpital,150.0,+212 5 48 83 23 45,irhalne@centre-sante.ma,https://centre-sante.ma/irhalne,30.3667288,-9.5412183,"Route de Ouarzazate, Irhalen, Maroc",osm,608,
+المستشفى الاقليمي لانزكان,,,,Hôpital,200.0,+212 524 43 33 33,hospitaleqanzan@minss.gov.ma,https://www.minss.gov.ma,30.3530517,-9.5365689,"Route de Marrakech, 23000 Anzalan, Maroc",osm,609,
+Polyclinique de la CNSS,,,,Hôpital,100.0,+212 537 73 73 73,polycliniquedelacnss@gmail.com,https://www.polycliniquedelacnss.ma/,30.4282209,-9.5895525,"Boulevard de l'Académie, 10100 Rabat",osm,610,
+مـــستشــــفى الزاك,,,,Hôpital,400.0,+212 535 63 21 21,,,28.0284081,-9.2937456,"Route de Tanger, 40000, Fès",osm,611,
+Centre de Santé Tabarine,,,,Hôpital,450.0,,,,30.3719426,-9.5324277,,osm,612,
+Clinique Nakhil مصحة النخيل,,,,Hôpital,150.0,0525 28 28 28,info@cliniquenakhil.ma,https://www.cliniquenakhil.ma,31.6410721,-8.0122087,"Route de Casablanca, 10 000 Marrakech",osm,613,
+Dispensaire El Aounia مستوصف العونية,,,,Hôpital,50.0,+212 5 22 33 44 55,info@dispensaire-el-aounia.ma,https://www.dispensaire-el-aounia.ma,34.6883068,-1.9007217,"Rue El Aounia, Casablanca, Maroc",osm,614,
+Clinique RAIS,Fès,,,Hôpital,80.0,0535621108,cliniquerais@gmail.com,,34.0335173,-5.006211,"BP 2145, Fès",osm,615,138.0
+Clinique Agdal مصحة أكدال,Fès,,,Clinique,50.0,0537 63 31 31,,,34.0356144,-5.0091297,"Boulevard Mohammed V, Agdal, Fès",osm,616,138.0
+Clinique El Amal,,,,Hôpital,150.0,022 43 43 43,info@cliniqueelamal.ma,https://www.cliniqueelamal.ma,34.0130329,-6.8226153,"Boulevard de l'Armée Royale, 20100 Casablanca, Maroc",osm,617,
+Hôpital du Cheikh Khalifa Ben Zayd Al-Nahyan,Casablanca,,,Hôpital,700.0,,,,33.5523764,-7.6683106,,osm,618,182.0
+المستشفى الجهوي الحسن الثاني,,,,Hôpital,1000.0,+212 5 22 22 22 22,hassan2.casablanca@minss.gov.ma,https://www.minss.gov.ma,30.4362795,-9.5907607,"Route de l'Aéroport, 20100 Casablanca",osm,619,
+Centre de Formation,,,,Hôpital,40.0,,,,30.9265333,-6.917762,,osm,620,
+Hôpital Eddarrak مستشفى الدراق,Berkane,,,Hôpital,200.0,0535 53 53 53,,,34.9248828,-2.3251758,"Route de Meknès, Berkane, Maroc",osm,621,183.0
+Sidi Daoud,,,,Hôpital,500.0,+212 5 28 28 28 28,sidi.daoud.hopital@maroc.ma,https://sidi-daoud-hopital.ma,30.9229904,-6.8939717,"Route de Sidi Daoud, 40000 Sidi Daoud, Maroc",osm,622,
+Hopital polyclinique cheikh zaid المركزالاستشفائي الشيخ زايد,,,,Hôpital,500.0,+212 537 73 73 73,info@hopital-polyclinique-cheikh-zaid.ma,https://www.hopital-polyclinique-cheikh-zaid.ma,32.8814293,-6.9073889,"Route de la Zaidie, 10000, Rabat, Maroc",osm,623,
+Polyclinique Beni Snassen مستشفى بني يزناسن,berkane,,,Clinique,150.0,+212 35 53 33 33,,,34.9341147,-2.3255091,"Route de Berkane, Berkane, Maroc",osm,624,184.0
+centre hospitalier universitaie,,,,Hôpital,650.0,,,,30.4109553,-9.5349894,null,osm,625,
+Radiologie Anoual,,,,Clinique,50.0,,,,33.5693976,-7.6171309,,osm,626,
+Clinique Bennis مصحة بنيس,Tanger,,,Clinique,50.0,+212 539 33 33 33,cliniquebennis@gmail.com,https://cliniquebennis.ma,35.7654364,-5.7979814,"Tanger, Maroc",osm,627,144.0
+Clinical Abbadi,,,,Clinique,40.0,,,,33.5696597,-7.6616345,,osm,628,
+Clinique CIL,,,,Clinique,150.0,+212 5 22 34 56 78,info@cliniquecil.ma,https://www.cliniquecil.ma,33.5691431,-7.6608343,"BP 1234, 10000 Casablanca",osm,629,
+International Clinic,,,,Clinique,60.0,,,,33.5694473,-7.6187558,,osm,630,
+Clinique Riviera,,,,Clinique,200.0,+212 5 22 34 56 78,info@cliniqueriviera.ma,https://www.cliniqueriviera.ma,33.5666985,-7.6388828,"BP 1234, 10000 Casablanca",osm,631,
+Cinique Al Karim Medecine Physique,,,,Clinique,50.0,,,,33.5616321,-7.6173404,,osm,632,
+Ophtalmo Clinique de Casablanca,,,,Clinique,50.0,+212 5 22 43 44 55,ophtalmo.casablanca@clinique.ma,https://ophtalmo.clinique.ma/casablanca,33.5630286,-7.6358004,"Boulevard Sidi Mohammed Ben Abdallah, Casablanca, Maroc",osm,633,
+Cinique Multidisciplinaire,,,,Clinique,100.0,,,,33.5631417,-7.6354938,,osm,634,
+Clinique Cardiologique Casa Oasis,,,,Clinique,150.0,+212 5 22 33 44 55,info@cliniquecardiologiquecasa.com,https://cliniquecardiologiquecasa.com,33.5626114,-7.6301797,"Rue de la Clinique, Casablanca",osm,635,
+Clinique Californie,,,,Hôpital,200.0,0522 23 34 56,info@cliniquecalifornie.ma,https://www.cliniquecalifornie.ma,33.546665,-7.6308526,"Rue de la Clinique Californie, Casablanca",osm,636,
+L'Hôpital de Saïdia مستشفى السعيدية,,,,Hôpital,200.0,+212 0 98 83 22 11,,,35.0880971,-2.2400108,"Route de la plage, 66000 Saïdia, Maroc",osm,637,
+مركز صحي,,,,Hôpital,350.0,,,,30.3535448,-9.5349179,,osm,638,
+Hôpital Sekkat,,,,Hôpital,500.0,+212 524 43 31 31,,,33.5460467,-7.5885967,"Boulevard Mohammed VI, 40000 Marrakech",osm,639,
+Centre de Santé Derb el Kheir,,,,Hôpital,200.0,+212 5 22 33 44 55,derbelkheir@centre-sante.ma,https://centre-sante.ma/derbelkheir,33.5498334,-7.5913748,"Rue de la Liberté, Derb el Kheir, Casablanca",osm,640,
+Polyclinique ِCNSS Sidi Bernoussi,Casablanca,,,Hôpital,200.0,0522 43 43 43,,,33.6107521,-7.5007966,"Boulevard Sidi Mohammed Ben Abdallah, Sidi Bernoussi, Casablanca",osm,641,182.0
+Centre d'Hemodialyse 2 Mars,,,,Clinique,50.0,+212 5 22 33 44 55,centre.hemodialyse.2mars@hopitaux-marocains.ma,https://hopitaux-marocains.ma/centre-hemodialyse-2-mars,33.5521591,-7.6037655,"Boulevard Mohammed VI, 20000 Casablanca",osm,642,
+Dispensaire Douar Sidi Ali مستوصف دوار سيدي علي,,,,Clinique,50.0,+212 5 24 31 11 11,dsadouarsidi@gmail.com,https://www.dispensaire-douar-sidi-ali.ma,29.8763564,-9.6113734,"Route de Douar Sidi Ali, 40000 Marrakech",osm,643,
+Centre de santé 1,Toulal ⵜⵓⵍⴰⵍ تولال,,,Clinique,50.0,,,,33.8838128,-5.59462,"Toulal ⵜⵓⵍⴰⵍ, Maroc",osm,644,185.0
+Azrou Health Center,,,,Clinique,20.0,+212 53 78 21 31,,,31.2993911,-6.1557057,"Route de Tafilalet, Azrou, Fès-Meknès, Maroc",osm,645,
+Hôpital provincial de Midelt,,,,Hôpital,200.0,+212 53 85 21 21,,,32.6991279,-4.7587249,"Route de Meknès, 54000 Midelt, Maroc",osm,646,
+Hopital provincial Errazi مستشفى الرازي,,,,Hôpital,300.0,+212 536 78 11 11,,,33.2601336,-7.5840815,"Route de Marrakech, 40000 Errachidia, Maroc",osm,647,
+Hôpital EL IDRISSI,,,,Hôpital,500.0,+212 537 373111,hpidrissi@hopitaux.gov.ma,https://www.hpidrissi.ma,34.2483126,-6.5782073,"BP 2129, Avenue Hassan II, 40000 Rabat",osm,648,
+Polyclinique de Kenitra,,,,Clinique,150.0,+212 537 373635,polycliniquedekenitra@gmail.com,https://www.polycliniquedekenitra.ma,34.2518717,-6.5747625,"Rue de la République, 14000 Kenitra, Maroc",osm,649,
+Hôpital de Figuig مستشفى فكيك,Figuig ⵉⴼⵉⵢⵢⵉⵢ فگيگ,,,Hôpital,150.0,+212 66 83 22 33,hospitalfiguig@minss.gov.ma,https://www.minss.gov.ma/fr/hopitaux/hopital-de-figuig,32.1093804,-1.2315885,"Route de la ville, BP 100, 32100 Figuig",osm,650,186.0
+Clinique Beauséjour,,,,Clinique,100.0,+212 5377-81313,info@cliniquebeausejour.ma,https://cliniquebeausejour.ma/,34.0324632,-6.8243995,,osm,651,
+Centre de dialyse Al AMAL,,,,Clinique,50.0,+212 5373-84493,info@al-amal.ma,https://www.al-amal.ma/,34.2498828,-6.5614166,"Boulevard Mohammed VI, 40000 Marrakech",osm,652,
+Clinique Orthopedie,,,,Clinique,90.0,,,,34.2587344,-6.5773529,,osm,653,
+Clinique De La Vision de Rabat,,,,Clinique,70.0,+212 537 676666,,,34.0072877,-6.8442143,"Bd. Sidi Mohammed Ben Abdallah, 10000 Rabat, Maroc",osm,654,
+Clinique Ibn Khaldoun مصحة إبن خلدون,Rabat,,,Clinique,100.0,+212 537 776767,,https://www.cliniqueibnkhaldoun.ma,34.0067677,-6.8442429,"Rue Ibn Khaldoun, Rabat",osm,655,152.0
+Disponsaire Smaâla,,,,Hôpital,150.0,+212 6 11 22 33 44,disponsaire.smaala@hopitaux-marocains.ma,https://www.disponsaire-smaala.ma,32.9994945,-7.622462,"BP 1234, Smaâla, Maroc",osm,656,
+Dispensaire ElKheir,,,,Hôpital,50.0,+212 5 22 33 44 55,info@dispensaireelkheir.ma,https://dispensaireelkheir.ma,32.9888331,-7.6080169,"Rue El Kheir, Casablanca",osm,657,
+Clinicque International de Mogador,,,,Hôpital,600.0,,,,31.5066414,-9.7635338,,osm,658,
+Polyclinique Ahadaf,,,,Hôpital,150.0,0537 23 34 56,info@ahadaf.ma,https://www.ahadaf.ma,33.4427162,-5.2227346,"Rue de la République, Casablanca",osm,659,
+clinique Nour مصحة النور,FEZ,,,Clinique,150.0,+212 535 63 44 44,info@cliniquenour.ma,https://www.cliniquenour.ma,34.0306759,-5.0094088,"Rue de la clinique Nour, Fès, Maroc",osm,660,187.0
+Al moukawama,,,,Hôpital,600.0,,,,30.9265586,-6.9227422,,osm,661,
+Ikniouen clinic,,,,Clinique,80.0,,,,31.1692348,-5.6727482,,osm,662,
+Clinique des Nations Unies,Rabat ⵔⴱⴰⵟ الرباط,,,Clinique,200.0,+212 537 73 21 12,info@cliniquedesnationsunies.ma,https://cliniquenationsunies.com/,33.9893353,-6.8490772,"BP 1234, Rabat",osm,663,172.0
+Clinique Ain Chock,,,,Clinique,120.0,+212 5 47 25 25 25,,,33.5491556,-7.6025524,"Boulevard de l'Armée Royale, Ain Chock, Casablanca, Maroc",osm,664,
+Ajial Hôpital Pédiatrique,,,,Hôpital,650.0,,,,33.5521,-7.6082648,,osm,665,
+Hôpital Sanyat Rmel,Tétouan,,,Hôpital,150.0,+212 39 83 23 456,hospitalsanyatrmel@gmail.com,https://www.hospitalsanyatrmel.ma,35.5732887,-5.3556967,"Route de Tétouan, Rmel, Maroc",osm,666,129.0
+Hospital Bouizamarn,,,,Hôpital,700.0,,,,30.4750672,-8.8819407,,osm,667,
+centre hospitalier Ibn SINA,,,,Hôpital,1000.0,+212 5 22 28 21 21,,,34.4011923,-2.9095017,"Rue Ibn Sina, Casablanca, Maroc",osm,668,
+clinique privé Arrahma,Taourirt تاوريرت,,,Hôpital,50.0,0535 58 22 22,,,34.4150868,-2.9165323,"Route de Meknès, Taourirt 53000, Maroc",osm,669,188.0
+centre de diagnostique polyvalent,,,,Hôpital,40.0,,,,34.4000945,-2.8937858,,osm,670,
+Hopital Provincial Taourirt,Taurirt,,,Hôpital,250.0,0535 83 23 14,hopitaltaourirt@maroc.org,https://www.hopitaltaourirt.ma,34.4131147,-2.8905053,"Route de la ville, 46160 Taourirt, Maroc",osm,671,189.0
+hopital Assalam,,,,Hôpital,120.0,,,,34.4007426,-2.8816988,,osm,672,
+centre médical Moukhtar soussi,,,,Hôpital,200.0,+212 5 22 33 44 55,info@centremedicalmoukhtarsoussi.ma,https://centremedicalmoukhtarsoussi.ma,34.406813,-2.899355,"Rue Moukhtar Soussi, Casablanca",osm,673,
+Polyclinique CNSS,Mohammedia,,,Hôpital,350.0,+212 5 35 64 45 00,,,33.7012169,-7.3982014,"Route de Casablanca, 20600 Mohammedia",osm,674,190.0
+Centre de santé midelt,,,,Clinique,80.0,,,,32.6806266,-4.7366333,,osm,675,
+Polyclinique CNSS,Tanger,,,Hôpital,350.0,+212 539 93 31 31,,,35.7753803,-5.770132,"Tanger, Maroc",osm,676,144.0
+Centre Hospitalier Préfectoral de Ben M'Sick,,,,Hôpital,350.0,+212 522 23 11 11,,,33.5523382,-7.5779945,"Route de Casablanca, 20650 Ben M'Sick, Casablanca-Settat, Maroc",osm,677,
+Polyclinique CNSS Hay Hassani مصحة الضمان الإجتماعي الحي الحسني,Casablanca ⵜⴰⴷⴷⴰⵔⵜ ⵜⵓⵎⵍⵉⵍⵜ الدار البيضاء,,,Hôpital,200.0,+212 5 22 32 22 22,cnss.hayhassani@cnss.ma,https://www.cnss.ma/fr/centre-de-soins/hay-hassani,33.5669922,-7.6685901,"Boulevard Mohammed V, 20100 Casablanca, Maroc",osm,678,155.0
+Croissant rouge marocain,rue mohamed el hansali fes,,,Hôpital,120.0,0535624042,,,34.0382154,-5.0006078,"Rue Mohamed El Hansali, Fès, Maroc",osm,679,191.0
+Dispensaire,Fes ville,,,Clinique,20.0,+212 535 63 63 63,dispensaire.fes@minss.gov.ma,https://www.minss.gov.ma/dispensaire-fes,34.0448754,-5.0012175,"Rue de la Liberté, Fès, Maroc",osm,680,192.0
+Hôpital Omar Drissi,,,,Hôpital,500.0,+212 5 37 63 24 00,hpd.oumar@hopitaux-marocains.ma,https://hopitaux-marocains.ma/hpd-oumar,34.0573836,-4.9813786,"BP 1234, 10000 Rabat",osm,681,
+Clinic ‘Ouajdi’,,,,Clinique,80.0,,,,31.3518363,-6.1682628,,osm,682,
+مستشفى ابن البتطار,فاس,,,Hôpital,500.0,+212 35 93 23 34,,,34.0425666,-4.9847657,"Route de Taza, Fès 30000, Maroc",osm,683,193.0
+Hôpital Espagnol,Tanger,,,Hôpital,500.0,+212 539 93 31 31,,,35.7782078,-5.8225022,"Boulevard Mohammed VI, Tanger, Maroc",osm,684,144.0
+Clinique Illigh,,,,Clinique,40.0,,,,30.440023,-9.5901521,,osm,685,
+Clinique d'oncologie Ibn Sina,,,,Clinique,150.0,+212 5 22 33 44 55,clinique.oncologie.ibn.sina@maroc.com,https://cliniqueibnsina.ma,34.2484801,-6.6013168,"Rue Ibn Sina, Casablanca",osm,686,
+Laboratoire D'Analyses Médicales de Tanger,Tanger,,,Clinique,20.0,+212 539 93 31 31,,,35.7761802,-5.8063461,"Boulevard Mohammed VI, Tanger, Maroc",osm,687,144.0
+Clinique Internationale de Marrakech,,,,Hôpital,120.0,+212 524 38 00 00,info@clinique-internationale.ma,https://www.clinique-internationale-marrakech.com/,31.6127853,-7.9967519,"Km 8, Route de Casablanca, Marrakech, Maroc",osm,688,
+Clinique Sidi Amar,Tanger,,,Clinique,50.0,+212 539 93 34 56,cliniquesidiamar@gmail.com,https://cliniquesidiamar.ma,35.7792464,-5.8310481,"Rue Sidi Amar, Tanger",osm,689,144.0
+Cabinets de Pédiatrie,Tanger,,,Clinique,50.0,+212 539 123 456,pediatrie.tanger@hopitaux-marocains.ma,https://hopitaux-marocains.ma/cabinets-pediatrie-tanger,35.7761171,-5.8373073,"Rue de la Pédiatrie, Tanger",osm,690,144.0
+Hôpital général de Casablanca Azhar-Bernoussi,,,,Clinique,500.0,+212 22 43 22 43,,,33.599247,-7.4834913,"Boulevard de l'Armée Royale, 20100 Casablanca, Maroc",osm,691,
+Clinique Assalam,Tanger,,,Clinique,90.0,,,,35.7699061,-5.8095036,"Tanger, Maroc",osm,692,144.0
+Centre Ahmad Bin Zayed Al Nahyan De Traitement des Cancers,Tanger,,,Hôpital,100.0,0539 93 31 31,,,35.6829906,-5.921976,"Route de Tétouan, Tanger, Maroc",osm,693,144.0
+Complexe Medico-Social Al Wouroud,,,,Clinique,500.0,+212 5 22 33 44 55,info@alwouroud.ma,https://www.alwouroud.ma,33.5604256,-7.6095217,"Complexe Medico-Social Al Wouroud, Casablanca, Maroc",osm,694,
+Centre Kinesitherapie Bouafi Amine,,,,Clinique,30.0,,,,33.5574386,-7.6105914,,osm,695,
+Clinique Pasteur,,,,Clinique,150.0,+212 522 22 22 22,clinique.pasteur@pasteur.ma,https://www.clinique-pasteur.ma,33.9464626,-6.8662661,"BP 215, Avenue Hassan II, 20100 Casablanca",osm,696,
+Clinique Les Crêtes,,,,Hôpital,400.0,,,,33.5495136,-7.624092,,osm,697,
+Clinique Le Marrakech,,,,Hôpital,100.0,0524 43 31 31,,,31.6536869,-8.0508376,"Boulevard Mohammed VI, Marrakech, Maroc",osm,698,
+Urgences: Cardiologiques Centre de la Douleur,,,,Hôpital,200.0,,,,31.6496813,-8.0482927,null,osm,699,
+Polyclinique Atlas,Fez,,,Clinique,120.0,+212 35 62 14 14,,,34.0264562,-4.9904564,"Rue de la Liberté, 30000 Fès, Maroc",osm,700,194.0
+Centre De Dialyse Et Des Maladies Renales SAADA,,,,Clinique,50.0,+212 5 22 33 44 55,info@cdmr.ma,https://cdmr.ma,34.0228991,-5.0058145,"BP 1234, Sidi Moumen, Casablanca",osm,701,
+الكوثر,fez,,,Hôpital,1000.0,+212 535 63 31 31,,,34.0143665,-4.9998494,"Route de Meknès, Fès, Maroc",osm,702,195.0
+Top Medical,,,,Clinique,200.0,+212 5 22 33 44 55,info@topmedical.ma,https://www.topmedical.ma,34.0158041,-6.8326974,"Rue de la Liberté, Casablanca",osm,703,
+Actilab Matériel Médical,,,,Clinique,40.0,,,,34.0163653,-6.8319725,,osm,704,
+Red Med,,,,Clinique,500.0,+212 5 22 33 44 55,info@redmed.ma,https://www.redmed.ma,33.9708873,-6.8468768,"Rue de la République, Casablanca",osm,705,
+Polyclinique Cnss Kenitra,KENITRA,,,Clinique,120.0,+212 537 378738,,,34.2653065,-6.5709983,"Route de Sidi Kacem, Kenitra, Maroc",osm,706,196.0
+Centre de Sante Ihchahch,,,,Hôpital,400.0,,,,30.4216723,-9.5854033,,osm,707,
+Cabinet Docteur Amar - Généraliste,Salé سلا,,,Hôpital,20.0,+212 5 37 63 14 15,cabinetdocteuramar@gmail.com,https://www.cabinetdocteuramar.ma,34.0459802,-6.7998223,"Rue du marché, Salé سلا",osm,708,197.0
+Clinic Ibn Sina,,,,Clinique,80.0,,,,30.4116529,-9.5627573,,osm,709,
+Centre De Sante Amsernat,,,,Hôpital,200.0,,,,30.416395,-9.5716211,,osm,710,
+Clinique Green Town,,,,Hôpital,150.0,+212 5 22 34 56 78,info@cliniquestown.ma,https://www.cliniquegreentown.ma,33.4943367,-7.5960642,"Boulevard de l'Oasis, Green Valley, Casablanca",osm,711,
+Hopitale Molay Ali Cherrif errachidia,,,,Hôpital,600.0,,,,31.9406582,-4.418761,,osm,712,
+hopital d'errahma,,,,Hôpital,50.0,,,,33.531623,-7.7326766,,osm,713,
+koliaa,,,,Hôpital,20.0,,,,32.2616527,-9.2491592,,osm,714,
+Cabinet Medical,midar,,,Hôpital,120.0,+212536364200,,,34.9383842,-3.5343032,null,osm,715,132.0
+Hôpital Azzamouri,,,,Hôpital,250.0,+212 5 43 64 35 64,hopital.azzamouri@maroc.mg,https://hopital.azzamouri.ma,34.24635,-6.5760036,"Route de la ville, 40000 Azzamouri, Maroc",osm,716,
+Clinique Mokhtar Soussi,,,,Hôpital,150.0,+212 5 22 34 56 78,info@cliniquemokhtarsoussi.ma,https://www.cliniquemokhtarsoussi.ma,30.4128051,-9.5727228,"BP 1234, Casablanca",osm,717,
+Clinique al-Massira,Agadir ⴰⴳⴰⴷⵉⵔ أگادير,,,Hôpital,180.0,+212 528 83 31 31,,,30.420091,-9.5955956,"Route de l'aéroport, Agadir 80000, Maroc",osm,718,198.0
+Hemodialysis center Ait-Melloul,Aït Melloul ⴰⵢⵜ ⵎⵍⵍⵓⵍ أيت ملول,,,Hôpital,80.0,0525 47 22 22,,,30.3229379,-9.5046525,"Route de Marrakech, Aït Melloul, Morocco",osm,719,199.0
+Centre De sante Saadina,Saadina,,,Hôpital,60.0,0539 48 21 21,,,35.6066966,-5.4499269,"Route de Meknès, Saïdia, Province de Nador, Région de Tanger-Tétouan-Al Hoceïma, Maroc",osm,720,200.0
+Centre Médical Boujarrah,Tétouan,,,Hôpital,500.0,,,,35.5901009,-5.3517106,"Tétouan, Maroc",osm,721,129.0
+Centre de Sante Touila,Tétouan,,,Hôpital,200.0,0539 93 22 22,,,35.5809744,-5.3624421,"Route de Fnideq, 93000 Tétouan, Maroc",osm,722,129.0
+Centres de dépistage précoce du cancer du sein,Meknès,,,Clinique,50.0,+212 53 93 23 456,cdpc.meknes@minss.gov.ma,https://www.minss.gov.ma,33.9038324,-5.5394096,"Route de Sidi Chahram, Meknès",osm,723,175.0
+Hospital sidi lahcen,Témara تمارة,,,Hôpital,500.0,+212 5 38 95 95 95,,,33.9044385,-6.9383922,"Route de Rabat, Témara, Maroc",osm,724,201.0
+Kidney Disease Center,Meknès,,,Clinique,200.0,+212 53 923 111,,,33.9043998,-5.5518857,"Boulevard Mohammed VI, Meknès 50000, Maroc",osm,725,175.0
+Clinique Ismailia,,,,Clinique,150.0,+212 5 22 33 44 55,clinique.ismailia@gmail.com,https://cliniqueismailia.ma,33.9057681,-5.5519129,"Rue Ismailia, Casablanca",osm,726,
+Hopital Italien المستشفى الإيطالي,Tanger,,,Hôpital,750.0,+212 539 93 31 31,,,35.7845305,-5.8212436,"Boulevard Mohammed VI, Tanger, Maroc",osm,727,144.0
+Clinique Mersultan,,,,Hôpital,180.0,+212 537 73 73 73,,,33.5806851,-7.6138098,"Route de Rabat, 22200 Mers Sultan, Rabat, Maroc",osm,728,
+Dispensaire de Dakhla,,,,Hôpital,20.0,+212 628 111 111,dakhla.dispensaire@minss.gov.ma,,30.4110378,-9.5572709,"Route de l'aéroport, Dakhla",osm,729,
+Hôpital Mohamed V,Al Hoceima,,,Hôpital,300.0,+212 539 88 33 33,,,35.238852,-3.9390368,"Route de Targuist, 32000 Al Hoceima",osm,730,150.0
+Centre de santé Tafersit,,,,Hôpital,30.0,,,,35.0074096,-3.5459293,,osm,731,
+Hopital Des Spécialités / HCU Ibn Sina,,,,Hôpital,500.0,0522 43 43 43,hcu.ibn.sina@hopital.gov.ma,https://www.hopital.gov.ma/hcu-ibn-sina,33.9820234,-6.8580191,"Boulevard Ibn Sina, Casablanca",osm,732,
+Croissant Rouge,Tanger,,,Hôpital,50.0,,,,35.7777167,-5.8100344,"Tanger, Maroc",osm,733,144.0
+Dispensaire Sidi Ghiate,,,,Hôpital,20.0,,,,31.5191344,-7.8483971,,osm,734,
+Centre Hospitalier Provincial Sidi Ifni,Sidi Ifni,,,Hôpital,200.0,+212 528 83 13 13,,,29.3791581,-10.1780562,"Route de la Plage, Sidi Ifni, Maroc",osm,735,202.0
+Hôpital de Taznakht,,,,Hôpital,150.0,0524 48 23 11,,,30.57907,-7.2025273,"Route de Marrakech, Taznakht, Province de Ouarzazate, Maroc",osm,736,
+Hopital Ibn Alkhatib,Fès,,,Hôpital,500.0,+212 535 63 31 31,hopital.ibnalkhatib@fes.ma,https://www.hopitalibnalkhatib.ma,34.0636488,-4.9901604,"Boulevard Mohammed V, Fès, Maroc",osm,737,138.0
+Clinique croissant Rouge,Tétouan,,,Hôpital,150.0,+212 55 63 12 34,croissantrouge@tétouan.ma,https://cliniquecroissantrouge.ma,35.5715071,-5.3874731,"Rue de la Liberté, Tétouan, Maroc",osm,738,129.0
+Hôpital de Kaf El Ghar,,,,Hôpital,500.0,+212 524 37 24 24,,,34.508325,-4.2601019,"Route de Marrakech, 40000 Marrakech, Maroc",osm,739,
+مستشفى الغساني,فاس,,,Hôpital,400.0,+212 35 63 31 31,,,34.0446665,-4.985025,"الدار البيضاء, فاس, المغرب",osm,740,193.0
+Hopital de Talmest,,,,Hôpital,250.0,+212 5 23 34 56 78,hopital.talmest@maroc.hesab.com,https://hopital-talmest.ma,31.8141851,-9.3400558,"Route de Talmest, 23000 Talmest, Maroc",osm,741,
+Hôpital Mechra Bel Ksiri,,,,Hôpital,400.0,+212 5 53 83 31 31,,,34.5702685,-5.9559741,"Route de Meknès, 20000 Meknès",osm,742,
+Hospital Masa,,,,Hôpital,500.0,+212 5 22 33 44 55,info@hospitalmasa.ma,https://www.hospitalmasa.ma,29.9845687,-9.6415768,"Rue de la Liberté, Casablanca",osm,743,
+Clinique Toubkal,,,,Hôpital,80.0,+212 524 37 33 33,,,31.6496826,-8.0543744,"Talâa Sghir, Marrakech 40000, Maroc",osm,744,
+Hôpital Mly abdellah,,,,Hôpital,500.0,+212 524 37 31 31,hpmlyabdellah@gmail.com,https://www.hpmlyabdellah.ma,33.6977314,-7.3854702,"Boulevard Mohammed VI, 40000 Marrakech",osm,745,
+ATLANTIC CLINIC CASABLANCA,,,,Hôpital,100.0,+212 522 98 98 98,info@atlanticclinic.ma,https://www.atlanticclinic.ma/,33.5912926,-7.5903533,"Boulevard de la Corniche, Casablanca",osm,746,
+Hopital Militaire Avicenne,,,,Hôpital,500.0,+212 537 73 31 31,,,31.6347473,-8.0217085,"Boulevard Moulay Youssef, 10170 Rabat",osm,747,
+Hôpital El Antaki مستشفى الأنطاكي,,,,Hôpital,500.0,+212 5 22 22 22 22,info@hospitalelantaki.ma,https://www.hospitalelantaki.ma,31.6366612,-7.9847458,"Rue El Antaki, Casablanca, Maroc",osm,748,
+المستشفى العسكري,,,,Hôpital,500.0,,,,30.3757466,-9.5502229,"الرباط, Morocco",osm,749,
+Hôpital Militaire Moulay Ismail,,,,Hôpital,500.0,+212 5 53 83 31 31,,,33.8888423,-5.5232409,"Route de Meknès, 50000 Meknès",osm,750,
+Dispensaire,Ait Ouqabli آيت اوقبلي,,,Hôpital,30.0,,,,32.3494626,-6.0118387,"Ait Ouqabli, Maroc",osm,751,203.0
+hopital haut Atlas central,,,,Hôpital,600.0,+212 5 23 45 86 76,,,31.9623723,-6.5655573,,osm,752,
+مستشفى حمان الفطواكي ايت عزة,Targuist ⵜⴰⵔⴳⵉⵙⵜ تارجيست,,,Hôpital,150.0,+212 539 88 22 11,,,34.9446968,-4.3275306,"Route de Targuist, Aït Ahel, Targuist, Province de Targuist, Région Tanger-Tétouan-Al Hoceïma, Maroc",osm,753,204.0
+Hôpital Fath El Kheir,TEMARA,,,Hôpital,500.0,0537 73 23 23,fathelkheir@temara.ma,https://www.hopital-fath-el-kheir.ma,33.906378,-6.9206231,"Route de Rabat, 14000 Temara, Maroc",osm,754,205.0
+Clinique Moulouya,,,,Hôpital,120.0,+212 52 76 31 31,,,34.9254396,-2.3270085,"Route de Rabat, 24000 Kenitra, Maroc",osm,755,
+Clinique Tilila,,,,Hôpital,150.0,+212 5 22 33 44 55,cliniquetilila@gmail.com,https://cliniquetilila.ma,30.4231865,-9.5834297,"Route de l'usine, 20000 Casablanca",osm,756,
+Clinique Taha مصحة طه,,,,Hôpital,60.0,,,,33.5559122,-7.625772,,osm,757,
+Hopital Moulay Abdallah,,,,Hôpital,1000.0,0537 63 21 63,,,34.0374682,-6.8125956,"Boulevard Moulay Abdallah, 20000 Rabat, Maroc",osm,758,
+مستشفي العياشي,,,,Hôpital,200.0,+212 5 22 37 44 44,info@hospitalelaiachi.ma,https://hospitalelaiachi.ma/,34.0346468,-6.8259071,"الدار البيضاء, 10000, Morocco",osm,759,
+مستودع الأموات,,,,Hôpital,500.0,+212 5 22 23 34 56,moustad_el_amwat@hopitaux.ma,https://www.hopitaux.ma/moustad_el_amwat,34.262942,-6.5724598,"الدار البيضاء, Morocco",osm,760,
+مستوصف ميمونة,,,,Hôpital,50.0,+212 5 22 28 28 28,,,33.0027888,-7.626003,"Route de Tanger, Mimarine, Casablanca",osm,761,
+Hopital hassan1 tiznit,,,,Hôpital,450.0,,,,29.7057116,-9.7423845,,osm,762,
+Hôpital Ahdav مستوصف أحداف,,,,Hôpital,250.0,+212 5 37 63 14 15,info@hadav.ma,https://www.hadav.ma,33.4427961,-5.2286411,"BP 1234, Rabat, Maroc",osm,763,
+Hôpital régional المستشفى الإقليمي,طاطا,,,Hôpital,500.0,+212 528 123456,horegionale@tiznit.ma,https://www.horegionale.tiznit.ma,29.7459137,-7.9642095,"Route de la ville, 12345, طاطا, Province de Tiznit, Maroc",osm,764,206.0
+Centre de santé adarissa المركز الصحي الادارسة,,,,Hôpital,150.0,0525 83 23 14,info@centre-sante-adarissa.ma,https://centre-sante-adarissa.ma,34.0173921,-5.0136059,"Route de la plage, Adarissa, Morocco",osm,765,
+Dispensaire Ait Tamlil,,,,Hôpital,20.0,+212 528 83 24 34,,,31.4820331,-6.9419983,"Route de Tafraout, Aït Tamlil, Province de Taroudant, Maroc",osm,766,
+hôpital Sidi Said مستشفى سيدي سعيد,,,,Hôpital,500.0,+212 5 28 83 33 33,info@hopital-sidisaid.ma,https://www.hopital-sidisaid.ma,33.8932731,-5.577921,"Route de Sidi Said, 40000 Sidi Said, Maroc",osm,767,
+مستشفى اهل الغلام الأزهر,,,,Hôpital,500.0,+212 5 22 23 34 56,mohamed@gmail.com,https://mohamed.com,33.5984149,-7.4889641,"الدار البيضاء, Morocco",osm,768,
+Hôpital Psychatrie Kenitra,,,,Hôpital,200.0,0539 83 12 34,hospitalkenitra@minss.gov.ma,https://www.minss.gov.ma/hospitalkenitra,34.246894,-6.5800767,"Boulevard Mohammed VI, Kenitra, Maroc",osm,769,
+Centre de santé - Takadoum,,,,Hôpital,40.0,,,,33.8840397,-5.5768585,,osm,770,
+مستشفى سيدي بنور,,,,Hôpital,600.0,0523369840,,,32.6524104,-8.4131853,"Route de l'aéroport, 40000 Sidi Bennour, Marrakech-Safi, Maroc",osm,771,
+"Centre de Santé Urbain ""Oulad Hmaid""",Ksar-el-Kebir القصر الكبير,,,Hôpital,30.0,,,,34.9955192,-5.9061766,"Ksar el Kebir, Maroc",osm,772,207.0
+Hopital Provincial de Ksar El Kébir,Ksar-el-Kebir القصر الكبير,,,Hôpital,250.0,+212 53 784 1111,,,34.993954,-5.9029802,"Route de la Plage, Ksar El Kébir, Morocco",osm,773,207.0
+Clinique Al Houda مصحة الهدى,,,,Hôpital,100.0,+212 5 22 21 11 11,,,30.3976259,-9.5381774,"Route de Rabat, 10000 Casablanca, Maroc",osm,774,
+dispenssaire ain zliten,Fes Médina ain zleten,,,Hôpital,20.0,+212 35 63 21 00,,,34.0641064,-4.9809569,"Boulevard Mohammed V, Ain Zleten, Fès, Maroc",osm,775,208.0
+croissant rouge el batha الهلال الاحمر,Fes Médina batha,,,Hôpital,100.0,+212 35 937 333,,,34.0597948,-4.9821199,"Batha, Fès Médina, Fès, Maroc",osm,776,209.0
+docteur Générale,Fes Médina batha,,,Hôpital,500.0,+212 535 63 31 31,,,34.0602977,-4.9816195,"Batha, Fès, Maroc",osm,777,209.0
+مركز الانكولوجيا للاسلمى باكدير,,,,Hôpital,1000.0,+212 35 63 22 11,,https://www.cnr.ac.ma,30.4171197,-9.5749363,"Route de l'Université, B.P. 4014, Fès",osm,778,
+Hôpital AL mansour,,,,Hôpital,500.0,+212 5 22 34 56 78,info@almansourhospital.ma,https://www.almansourhospital.ma,33.6075203,-7.5031634,"BP 1234, Avenue Hassan II, Casablanca",osm,779,
+Hopital provincial,,,,Hôpital,500.0,,,,32.1570053,-6.3554656,,osm,780,
+Centre De Sante Martil,Martil,,,Hôpital,150.0,+212 539 51 26 26,,,35.6197939,-5.2740769,"Route de Tanger, 83000 Martil, Tanger-Tétouan-Al Hoceïma, Maroc",osm,781,210.0
+Hopital de Proximite - Tiflet,,,,Hôpital,200.0,+212 5 27 23 23 23,hopital.tiflet@minss.gov.ma,https://www.minss.gov.ma/hopital-de-proximite-tiflet,33.8954291,-6.3345311,"Route de Tiflet, Tiflet, Maroc",osm,782,
+Centre de dialyse Guich Oudaya,Témara تمارة,,,Hôpital,40.0,+212 5 39 93 43 43,,,33.94383,-6.8848079,"Témara, Route de Rabat, Guich Oudaya, 14200 Témara, Maroc",osm,783,201.0
+Pharmacie Achorouk صيدلية الشروق,Beni Mellal,,,Hôpital,50.0,0525 83 23 45,pharmacie.achorouk@gmail.com,https://www.pharmacie-achorouk.ma,32.3210018,-6.3689134,"Boulevard Mohammed VI, Beni Mellal, Maroc",osm,784,211.0
+Hôpital Ouled Said Le Oued مستشفى أولاد سعيد الوادي ⴰⵙⴳⵏⴰⴼ ⵏ ⵡⵍⴰⴷ ⵙⵄⵉⴷ ⵍⵡⴰⴷ,,,,Hôpital,250.0,0525 53 55 55,,,32.5515621,-6.3721224,"Route de Ouled Said, 24000 Oued Zem, Maroc",osm,785,
+Clinic El Menzah,Meknès,,,Hôpital,150.0,+212 53 926 111,info@clinicelmenzah.ma,https://clinicelmenzah.ma,33.9003174,-5.554341,"Boulevard Mohammed VI, Meknès 50000, Maroc",osm,786,175.0
+Polyclinique Kendouci مصحة القندسي,,,,Clinique,150.0,+212 5 22 44 44 44,polycliniquekendouci@gmail.com,https://www.polycliniquekendouci.ma,33.893961,-5.542096,"Rue du Docteur Abderrahmane Kendouci, Casablanca, Maroc",osm,787,
+CHU de Tanger-Tétouan-Al Hoceima,Tanger,,,Hôpital,1000.0,0539 93 31 31,,https://chutanger.ma,35.6837521,-5.9258114,"Route de la Zitoune, 90000 Tanger, Maroc",osm,788,144.0
+Hopital Ibn Khaldoun,,,,Hôpital,500.0,+212 539 93 31 31,,,34.06329,-4.9907796,"Boulevard Mohammed VI, 10000 Tétouan, Maroc",osm,789,
+Clinique Jerrada Oasis,,,,Clinique,50.0,,,,33.5563984,-7.6323525,,osm,790,
+Ibn Rochd إبن رشد,,,,Clinique,1000.0,+212 5 22 28 28 28,,https://www.ibrh.ma,33.8913673,-5.5470704,"Rue Ibn Rochd, Casablanca, Maroc",osm,791,
+Clinique Val Fleuri,Tanger,,,Clinique,90.0,,,,35.7775687,-5.8270735,"Tanger, Maroc",osm,792,144.0
+Clinique des Specialites Ryad,2 RUE BENZAKOUR ATLAS FES,,,Clinique,100.0,0535656565,,,34.0312267,-4.9988263,2 RUE BENZAKOUR ATLAS FES,osm,793,212.0
+المعهد الوطني للانكولوجيا,الرباط,,,Hôpital,600.0,,,,33.9723284,-6.8731815,"الرباط, Morocco",osm,794,151.0
+Hassan II Hospital,Settat,,,Hôpital,500.0,+212 24 83 22 11,,,32.9951628,-7.6157785,"Route de Casablanca, 26000 Settat, Maroc",osm,795,213.0
+المصحة الدولية رياض النخيل,الرباط,,,Clinique,500.0,+212 537 75 75 75,,,33.9499268,-6.8606581,"Route de Rabat, 10000 Rabat, Maroc",osm,796,151.0
+Hopital El qorb,Ben Ahmed,,,Hôpital,200.0,+212 6 12 34 56 78,info@elqorb.ma,https://elqorb.ma,33.0702578,-7.2438736,"Rue El Qorb, Ben Ahmed, Maroc",osm,797,214.0
+Clinique Al Matar,,,,Hôpital,150.0,+212 5 22 33 44 55,info@cliniquealmatar.ma,https://www.cliniquealmatar.ma,35.151357,-2.92683,"Boulevard Mohammed VI, 20100 Casablanca, Maroc",osm,798,
+Moulay Hassan,,,,Hôpital,1000.0,0524 43 31 31,,,34.2608894,-6.5629662,"Boulevard Mohammed VI, 40000 Marrakech, Maroc",osm,799,
+Hôpital Okba Ibnou Nafiâ,,,,Hôpital,600.0,,,,32.2913286,-9.2405033,"Route de Tébessa, 31000, Ghardaïa",osm,800,
+Clinique 16 Novembre,Rabat ⵔⴱⴰⵟ الرباط,,,Clinique,80.0,+212 (0)5 37 67 17 17,,https://clinique-oncologie.ma/,33.9802059,-6.8423539,"Boulevard Mohammed V, 10000 Rabat, Maroc",osm,801,172.0
+Centre De Sante Bouknadel,,,,Hôpital,200.0,+212 5 24 83 11 11,,,34.1208795,-6.7404256,"Route de Rabat, 11200 Bouknadel, Maroc",osm,802,
+Hôpital Bouafi,,,,Hôpital,450.0,,,,33.5592237,-7.6098386,,osm,803,
+Hôpital Militaire Guelmim,,,,Hôpital,500.0,+212 528 83 33 33,,,29.0045177,-10.0473103,"Route de la plage, Guelmim, Maroc",osm,804,
+International Clinic of Tangier,Tanger,,,Hôpital,50.0,+212 539 33 33 33,info@icltanger.com,https://www.icltanger.com,35.7715937,-5.7853316,"Boulevard Mohammed VI, Tanger, Maroc",osm,805,144.0
+Hospital El Kelâa 2,,,,Hôpital,500.0,+212 24 88 23 45,,,32.0538269,-7.3944783,"Boulevard El Kelaa, 40000 El Kelaa des Sraghna, Marrakech-Safi, Maroc",osm,806,
+المركز الاستشفائي الجهوي كلميم,,,,Hôpital,300.0,+212 528 83 23 34,,,29.0021959,-10.0725836,"Route de la plage, Kelaat M'Gouna, Kelaat M'Gouna, Province de Kelaat M'Gouna, Région de Souss-Massa, Maroc",osm,807,
+Nouveau Hôpital de Guelmim,,,,Hôpital,500.0,+212 528 83 34 56,nouveau.hopital.guelmim@minsa.gov.ma,https://www.minsa.gov.ma/hopitaux/nouveau-hopital-de-guelmim,29.0034161,-10.070263,"Route de la ville, Guelmim, Maroc",osm,808,
+مستوصف زاوية المجدوب,,,,Hôpital,40.0,+212 5 22 33 44 55,,,30.3494015,-5.8400115,"الدار البيضاء, مقاطعة الدار البيضاء, مراكش-أسفي, Maroc",osm,809,
+Dispensary Tassoumaât,,,,Hôpital,30.0,,,,30.9216927,-6.9268143,,osm,810,
+مستشفى إيموزار مرموشة - Imouzzer Marmoucha Hospital,Imouzzer Marmoucha إموزار مرموشة,,,Hôpital,100.0,+212 5 24 98 00 00,,,33.4683163,-4.3010944,"Route de Tacheddirt, Imouzzer Marmoucha, Maroc",osm,811,215.0
+dispensaire مستوصف,,,,Hôpital,30.0,,,,32.2213838,-6.8909044,,osm,812,
+Sidi Yahia,,,,Clinique,500.0,+212 5 22 33 44 55,sidiyahia.hopital@gmail.com,https://sidiyahia.hopital.ma,33.2399732,-8.4977174,"Boulevard Sidi Yahia, Casablanca, Maroc",osm,813,
+Ibn Badiss,,,,Clinique,500.0,+212 539 93 31 31,ibnbadiss@hopital.ma,https://www.hopital-ibnbadiss.ma,33.2390302,-8.5081198,"Route de l'aéroport, 40000 Tanger",osm,814,
+Santacruz Surf Hostel,AOURIR,,,Hôpital,500.0,,,,30.5141011,-9.6799677,,osm,815,216.0
+Hospital Ben Karrich,Bni Karrich بن قريش,,,Hôpital,150.0,+212 53 93 22 11,hospital.benkarrich@hopitaux.ma,https://www.hopitaux.ma/hospital-ben-karrich,35.5104321,-5.4231156,"Route de Meknès, Bni Karrich, Meknès",osm,816,217.0
+Hôpital wlad bennasser,,,,Hôpital,300.0,+212 48 84 20 20,,,33.928382,-6.9023329,"Route de Meknès, 24000 Khouribga, Maroc",osm,817,
+Centre régional d'Oncologie,Oujda,,,Hôpital,100.0,+212 66 77 22 33,cro.oujda@minss.gov.ma,https://www.minss.gov.ma/fr/centre-regional-d-oncologie-de-oujda,34.6567405,-1.9131286,"Route de la Zitoune, 60000 Oujda, Maroc",osm,818,131.0
+centre d'hémodialyse association,,,,Clinique,30.0,,,,29.1757473,-9.7143724,,osm,819,
+Hopital de Proximité,,,,Hôpital,500.0,,,,29.181205,-9.7224244,,osm,820,
+host,,,,Hôpital,500.0,,,,34.3170775,-4.7963988,,osm,821,
+Hôpital Militaire,,,,Hôpital,500.0,+212 22 43 33 44,,,27.1605474,-13.1956391,"BP 4015, Casablanca",osm,822,
+centre de santé Belfaa,,,,Hôpital,40.0,,,,30.0496333,-9.564008,,osm,823,
+Centre de santé urbain niveau 1 Regraga المركز الصحي الحضري -مستوى أول- رݣراݣة,,,,Clinique,150.0,+212 5 24 34 56 78,csu.regraga@minss.gov.ma,https://www.minss.gov.ma/fr/centre-de-sante-urbain-niveau-1-regraga,33.2564485,-7.5730375,"Route de Rabat, Regraga, Maroc",osm,824,
+Hopital Provincial Mohammed V,,,,Hôpital,500.0,+212 44 38 22 22,hopital.provincial.mohammedv@msssi.gov.ma,https://www.hopitalmohammedv.ma,33.2354468,-8.4793636,"Boulevard Mohammed V, 40000 Marrakech",osm,825,
+Centre de Sante Ain Harrouda,,,,Hôpital,450.0,,,,33.6400935,-7.4486967,,osm,826,
+Clinique Lemsalah,,,,Hôpital,150.0,+212 5 22 33 44 55,info@lemsalah.ma,https://www.cliniquelemsalah.ma,31.6120654,-7.9697384,"Rue Lemsalah, Casablanca, Maroc",osm,827,
+AKDITAL : Hôpital Privé de Tanger,Tanger,,,Hôpital,150.0,0539 33 33 33,info@akdital.ma,https://www.akdital.ma,35.7445247,-5.8618678,"Route de la Ziaten, Tanger, Maroc",osm,828,144.0
+Hôpital Sidi El Mekki مستشفى سيدي المكي,,,,Hôpital,250.0,+212 5 35 83 34 56,hospitelmekki@hopitaux.gov.ma,https://www.hopital-sidielmekki.ma,33.2120174,-7.7122637,"Route de Sidi El Mekki, 40000 Sidi El Mekki, Maroc",osm,829,
+Hôpital Moulay Youssef مستشفى مولاي يوسف,Casablanca ⵜⴰⴷⴷⴰⵔⵜ ⵜⵓⵎⵍⵉⵍⵜ الدار البيضاء,,,Hôpital,500.0,+212 5 22 22 22 22,moulayyoussef.hospital@casablanca.ma,https://www.hopitalmoulayyoussef.ma,33.6026902,-7.6323317,"Boulevard Moulay Youssef, Casablanca",osm,830,155.0
+Hôpital Mohammed V مستشفى محمد الخامس,Casablanca,,,Hôpital,1000.0,+212 522 47 47 47,,https://hopitalmohammedv.ma/,33.5893427,-7.5515381,"Boulevard de la Corniche, 20250 Casablanca, Maroc",osm,831,182.0
+Institut Pasteur معهد باستور,,,,Hôpital,120.0,+212 522 22 70 00,,https://www.pasteur.ma/,33.5739616,-7.623506,"BP 17, Route d'El Jadida, Casablanca",osm,832,
+CENTRE DE SANTE,Drarga,,,Hôpital,150.0,+212 6 11 22 33 44,centredesante.drarga@hopitaux-marocains.ma,https://www.centredesante.drarga.ma,30.3844126,-9.4807666,"Route de Drarga, Drarga, Maroc",osm,833,170.0
